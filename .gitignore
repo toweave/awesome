@@ -1,0 +1,11 @@
+# gitignore
+node_modules
+
+dist
+dist-ssr
+
+.idea
+
+*.local
+
+.DS_Store
