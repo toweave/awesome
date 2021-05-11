@@ -17,10 +17,10 @@
 
 | Repository :link: | Star | Description | <div style="width: 140px">Latest :heart:</div> |
 | :-------- | --------: | :-------- | :-------- |
-| gin | 47921 | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. | a day ago |
-| echo | 19772 | High performance, minimalist Go web framework | 2 days ago |
-| fiber | 13275 | ⚡️ Express inspired web framework written in Go | 19 hours ago |
-| revel | 12253 | A high productivity, full-stack web framework for the Go language. | 2 months ago |
+| gin | 47921 | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. | a-day-ago |
+| echo | 19772 | High performance, minimalist Go web framework | 2-days-ago |
+| fiber | 13275 | ⚡️ Express inspired web framework written in Go | 19-hours-ago |
+| revel | 12253 | A high productivity, full-stack web framework for the Go language. | 2-months-ago |
 
 
 ### 中间件
