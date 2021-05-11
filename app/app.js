@@ -35,7 +35,7 @@ const RepositoryJSON = [
       {
         "title": "[音频和音乐](#音频和音乐)",
         "type": "title",
-        "description": "*用于操作音频的库。 (翻译出错了? 试试 [英文版](README_EN.md#audio-and-music) 吧~)*",
+        "description": "用于操作音频的库。 (翻译出错了? 试试 [英文版](README_EN.md#audio-and-music) 吧~)",
         "repos": "",
         "children": [
           {
@@ -67,7 +67,7 @@ const RepositoryJSON = [
       {
         "title": "[Web框架](#Web框架)",
         "type": "title",
-        "description": "*全栈 web 框架。 (翻译出错了? 试试 英文版 吧~)*",
+        "description": "全栈 web 框架。 (翻译出错了? 试试 英文版 吧~)",
         "repos": "",
         "children": [
           {
@@ -123,74 +123,95 @@ const RepositoryJSON = [
       }
     ]
   }
-
 ]
 
 const RequestRepository = async () => {
-  // let textContent = ''
-  const reposPath = '/repos/'
   let textContent = ''
-  // let textContent = `
-  // | Repository | Star | Description | Latest |
-  // | ---- | ---- | ---- | ---- |
-  // `
-  for (let item of RepositoryJSON) {
-    if (item.type === 'title') {
-      textContent = `## ${item.title}  \n`
-      textContent += `* ${item.description} *  \n`
-    }
-    if (item.children && item.children.length) {
-      for (let element of item.children) {
-        if (element.type === 'title') {
-          textContent += `### ${element.title}  \n`
-          textContent += `* ${element.description} *  \n`
-        }
-        if (element.children && element.children.length) {
-          let tableContent = `| Repository | Star | Description | Latest |  \n| ---- | ---- | ---- | ---- |    \n`
-          for (let term of element.children) {
-            if (term.type === 'title') {
-              textContent += `#### ${term.title}  \n`
-              textContent += `* ${term.description} *  \n`
-            }
-            if (term.type === 'repos') {
-              // repository
-              const { data } = await request({
-                url: `${reposPath}${term.repos}`,
-                // `method` 是创建请求时使用的方法
-                method: 'get', // default
-              })
-              const latest = moment(data.pushed_at).fromNow()
-              tableContent += `| ${data.name} | ${data.stargazers_count} | ${data.description} | ${latest} | \n `
-            }
-
-            if (term.children && term.children.length) {
-              let childContent = `| Repository | Star | Description | Latest |  \n| ---- | ---- | ---- | ---- |    \n`
-              for (let child of term.children) {
-                if (child.type === 'title') {
-                  childContent += `#### ${child.title}  \n`
-                  childContent += `* ${child.description} *  \n`
-                }
-                if (child.type === 'repos') {
-                  // repository
-                  const { data } = await request({
-                    url: `${reposPath}${child.repos}`,
-                    // `method` 是创建请求时使用的方法
-                    method: 'get', // default
-                  })
-                  const latest = moment(data.pushed_at).fromNow()
-                  childContent += `| ${data.name} | ${data.stargazers_count} | ${data.description} | ${latest} | \n `
-                }
-              }
-              // 拼接子级 table
-              textContent += childContent + '  \n'
-            }
-          }
-          // 拼接 table
-          textContent += tableContent + '  \n'
-        }
+  const reposPath = '/repos/'
+  const RequestRecursion = async (dataset, deep = 0) => {
+    console.log(132, "dataset::", dataset)
+    let tableContent = ''
+    tableContent = `| Repository | Star | Description | Latest |\n| ---- | ---- | ---- | ---- |\n`
+    for (let item of dataset) {
+      if (item.type === 'title') {
+        const titleSymbol = `##${Array(deep + 1).join('#')}`
+        textContent += `${titleSymbol} ${item.title}\n`
+        textContent += `* ${item.description}\n`
+      }
+      if (item.type === 'repos') {
+        // repository
+        const { data } = await request({
+          url: `${reposPath}${item.repos}`,
+          // `method` 是创建请求时使用的方法
+          method: 'get', // default
+        })
+        const latest = moment(data.pushed_at).fromNow()
+        tableContent += `| ${data.name} | ${data.stargazers_count} | ${data.description} | ${latest} |\n `
+      }
+      if (item.children && item.children.length) {
+        await RequestRecursion(item.children, deep + 1)
       }
     }
+    textContent += tableContent
   }
+  await RequestRecursion(RepositoryJSON)
+  // for (let item of RepositoryJSON) {
+  //   if (item.type === 'title') {
+  //     textContent = `## ${item.title}  \n`
+  //     textContent += `* ${item.description} *  \n`
+  //   }
+  //   if (item.children && item.children.length) {
+  //     for (let element of item.children) {
+  //       if (element.type === 'title') {
+  //         textContent += `### ${element.title}  \n`
+  //         textContent += `* ${element.description} *  \n`
+  //       }
+  //       if (element.children && element.children.length) {
+  //         let tableContent = `| Repository | Star | Description | Latest |  \n| ---- | ---- | ---- | ---- |    \n`
+  //         for (let term of element.children) {
+  //           if (term.type === 'title') {
+  //             textContent += `#### ${term.title}  \n`
+  //             textContent += `* ${term.description} *  \n`
+  //           }
+  //           if (term.type === 'repos') {
+  //             // repository
+  //             const { data } = await request({
+  //               url: `${reposPath}${term.repos}`,
+  //               // `method` 是创建请求时使用的方法
+  //               method: 'get', // default
+  //             })
+  //             const latest = moment(data.pushed_at).fromNow()
+  //             tableContent += `| ${data.name} | ${data.stargazers_count} | ${data.description} | ${latest} | \n `
+  //           }
+  //
+  //           if (term.children && term.children.length) {
+  //             let childContent = `| Repository | Star | Description | Latest |  \n| ---- | ---- | ---- | ---- |    \n`
+  //             for (let child of term.children) {
+  //               if (child.type === 'title') {
+  //                 childContent += `#### ${child.title}  \n`
+  //                 childContent += `* ${child.description} *  \n`
+  //               }
+  //               if (child.type === 'repos') {
+  //                 // repository
+  //                 const { data } = await request({
+  //                   url: `${reposPath}${child.repos}`,
+  //                   // `method` 是创建请求时使用的方法
+  //                   method: 'get', // default
+  //                 })
+  //                 const latest = moment(data.pushed_at).fromNow()
+  //                 childContent += `| ${data.name} | ${data.stargazers_count} | ${data.description} | ${latest} | \n `
+  //               }
+  //             }
+  //             // 拼接子级 table
+  //             textContent += childContent + '  \n'
+  //           }
+  //         }
+  //         // 拼接 table
+  //         textContent += tableContent + '  \n'
+  //       }
+  //     }
+  //   }
+  // }
   console.log(45, textContent)
   await WriteFile(textContent)
   // // repository
