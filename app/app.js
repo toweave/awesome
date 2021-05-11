@@ -74,13 +74,13 @@ const RepositoryJSON = [
             "title": "",
             "type": "repos",
             "description": "",
-            "repos": "gin-gonic/gin"
+            "repos": "labstack/echo"
           },
           {
             "title": "",
             "type": "repos",
             "description": "",
-            "repos": "labstack/echo"
+            "repos": "gin-gonic/gin"
           },
           {
             "title": "",
