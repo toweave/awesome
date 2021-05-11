@@ -4,8 +4,8 @@ const instance = axios.create({
   baseURL: 'https://api.github.com/',
   timeout: 1000,
   headers: {
-    'X-Custom-Header': 'foobar',
-    'Authorization': 'token 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'
+    // 'X-Custom-Header': 'foobar',
+    'Authorization': 'token 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'
   }
 });
 

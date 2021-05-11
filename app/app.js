@@ -28,10 +28,8 @@ async function WriteFile(data, date) {
 const test = async () => {
   // let textContent = ''
   let textContent = `
-  | stars | forks |
-  | ---- | ---- |
-  | 单元 | 单元 |
-  | 单元 | 单元 |
+  | Repository | Star | Description | Updated_at |
+  | ---- | ---- | ---- | ---- | 
   `
   console.log(36, textContent)
   // repository
@@ -41,7 +39,7 @@ const test = async () => {
     method: 'get', // default
   })
   console.log(43, data)
-  textContent += `| ${data.stargazers_count} | ${data.forks_count} |`
+  textContent += `| ${data.name} | ${data.stargazers_count} | ${data.description} | ${data.updated_at} |`
    console.log(45, textContent)
   await WriteFile(textContent)
 }
