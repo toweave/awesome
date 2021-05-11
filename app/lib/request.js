@@ -5,8 +5,6 @@ const baseRequest = axios.create({
   baseURL: 'https://github.com/',
   timeout: 60000
 });
-// learn repo :: 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
-// learn use github api :: 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
 const instance = axios.create({
   baseURL: 'https://api.github.com/',
   timeout: 60000,
@@ -14,7 +12,7 @@ const instance = axios.create({
     // 'X-Custom-Header': 'foobar',
     'X-OAuth-Scopes': 'repo, user',
     'X-Accepted-OAuth-Scopes': 'user',
-    'Authorization': 'token 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'
+    'Authorization': 'token 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'
   }
 });
 

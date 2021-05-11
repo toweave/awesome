@@ -1,6 +1,6 @@
 const Koa = require('koa');
 const moment = require('moment');
-const { request, baseRequest } = require('./lib/request');
+const { request } = require('./lib/request');
 
 let fs = require("fs");
 let path = require("path");
@@ -138,7 +138,7 @@ const RequestRepository = async () => {
       }
       if (item.type === 'repos') {
         if (tableContent === '') {
-          tableContent = `| Repository :link: | Star | Description | <div style="width: 140px">Latest :heart:</div> |\n| :-------- | --------: | :-------- | :-------- |\n`
+          tableContent = `|     Repository     | Star |     Latest     | Description |\n| :-------- | --------: | :-------- | :-------- |\n`
         }
         // repository
         const { data } = await request({
@@ -147,7 +147,7 @@ const RequestRepository = async () => {
           method: 'get', // default
         })
         const latest = moment(data.pushed_at).fromNow()
-        tableContent += `| ${data.name} | ${data.stargazers_count} | ${data.description} | ${latest} |\n`
+        tableContent += `| ${data.name} | ${data.stargazers_count} | ${latest} | ${data.description} |\n`
       }
       if (item.children && item.children.length) {
         await RequestRecursion(item.children, deep + 1)
@@ -160,29 +160,6 @@ const RequestRepository = async () => {
   await WriteFile(textContent)
 }
 
-const GetAccessToken = async () => {
-  const { data } = await baseRequest({
-    url: `/login/oauth/authorize`,
-    // `method` 是创建请求时使用的方法
-    method: 'get', // default
-    data: {
-      client_id: "e6bfae9a939991ac7136",
-      redirect_uri: "",
-      login: "toweave",
-      scope: "",
-      state: "123",
-      allow_signup: true,
-    }
-    // data: {
-    //   client_id: "e6bfae9a939991ac7136",
-    //   client_secret: "c4af9f22cf02cea2a7a7c8b9547e074a3f7c506e",
-    //   code: "",
-    //   redirect_uri: "",
-    //   state: "",
-    // }
-  })
-  console.log(183, data)
-}
 // 响应
 app.use(async (ctx, next) => {
   const start = Date.now();
