@@ -134,11 +134,11 @@ const RequestRepository = async () => {
       if (item.type === 'title') {
         const titleSymbol = `##${Array(deep + 1).join('#')}`
         textContent += `${titleSymbol} ${item.title}\n`
-        textContent += `* ${item.description}\n`
+        textContent += `* ${item.description}\n\n`
       }
       if (item.type === 'repos') {
         if (tableContent === '') {
-          tableContent = `| Repository | Star | Description | Latest |\n| :--------: | :--------: | :--------: | :--------: |\n`
+          tableContent = `| :link:Repository:link: | Star | Description | :heart: Latest :heart: |\n| :-------- | --------: | :-------- | :-------- |\n`
         }
         // repository
         const { data } = await request({
@@ -153,7 +153,7 @@ const RequestRepository = async () => {
         await RequestRecursion(item.children, deep + 1)
       }
     }
-    textContent += tableContent + '\n'
+    textContent += tableContent + '\n\n'
   }
   await RequestRecursion(RepositoryJSON)
   console.log(45, textContent)
