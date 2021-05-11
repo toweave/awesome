@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
-    "koa": "^2.13.1"
+    "koa": "^2.13.1",
+    "moment": "^2.29.1"
   }
 }

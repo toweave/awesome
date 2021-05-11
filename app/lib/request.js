@@ -5,7 +5,9 @@ const instance = axios.create({
   timeout: 1000,
   headers: {
     // 'X-Custom-Header': 'foobar',
-    'Authorization': 'token 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'
+    'X-OAuth-Scopes': 'repo, user',
+    'X-Accepted-OAuth-Scopes': 'user',
+    'Authorization': 'token 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'
   }
 });
 
