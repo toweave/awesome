@@ -1,4 +1,5 @@
 const Koa = require('koa');
+const _ = require('lodash');
 const moment = require('moment');
 const { request } = require('./lib/request');
 
@@ -129,7 +130,7 @@ const RequestRepository = async () => {
   let textContent = ''
   const reposPath = '/repos/'
   const RequestRecursion = async (dataset, deep = 0) => {
-    let tableContent = ''
+    let prepareTableData = []
     for (let item of dataset) {
       if (item.type === 'title') {
         const titleSymbol = `##${Array(deep + 1).join('#')}`
@@ -137,23 +138,29 @@ const RequestRepository = async () => {
         textContent += `* ${item.description}\n\n`
       }
       if (item.type === 'repos') {
-        if (tableContent === '') {
-          tableContent = `|     Repository     | Star |     Latest     | Description |\n| :-------- | --------: | :-------- | :-------- |\n`
-        }
         // repository
         const { data } = await request({
           url: `${reposPath}${item.repos}`,
           // `method` 是创建请求时使用的方法
           method: 'get', // default
         })
-        const latest = moment(data.pushed_at).fromNow()
-        tableContent += `| ${data.name} | ${data.stargazers_count} | ${latest} | ${data.description} |\n`
+        // 添加扩展数据
+        // const latest = moment(data.pushed_at).fromNow()
+        data.latest = moment(data.pushed_at).fromNow()
+        prepareTableData.push(data)
       }
       if (item.children && item.children.length) {
         await RequestRecursion(item.children, deep + 1)
       }
     }
-    textContent += tableContent + '\n\n'
+    if (prepareTableData.length) {
+      const orderTableData = _.orderBy(prepareTableData, ['stargazers_count'], ['desc'])
+      let tableContent = `| Repository | Star | Description | Latest |\n| :---- | ----: | :---- | :---- |\n`
+      orderTableData.forEach((element) => {
+        tableContent += `| ${element.name} | ${element.stargazers_count} | ${element.description} | ${element.latest} |\n`
+      })
+      textContent += tableContent + '\n\n'
+    }
   }
   await RequestRecursion(RepositoryJSON)
   console.log(45, textContent)
