@@ -93,31 +93,31 @@ const RepositoryJSON = [
             "type": "repos",
             "description": "",
             "repos": "revel/revel"
+          }
+        ]
+      },
+      {
+        "title": "中间件",
+        "type": "title",
+        "description": "仿真中间件",
+        "children": [
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "didip/tollbooth"
           },
           {
-            "title": "中间件",
-            "type": "title",
-            "description": "仿真中间件",
-            "children": [
-              {
-                "title": "",
-                "type": "repos",
-                "description": "",
-                "repos": "didip/tollbooth"
-              },
-              {
-                "title": "",
-                "type": "repos",
-                "description": "",
-                "repos": "rs/cors"
-              },
-              {
-                "title": "",
-                "type": "repos",
-                "description": "",
-                "repos": "ulule/limiter"
-              }
-            ]
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "rs/cors"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "ulule/limiter"
           }
         ]
       }
@@ -131,7 +131,6 @@ const RequestRepository = async () => {
   const RequestRecursion = async (dataset, deep = 0) => {
     console.log(132, "dataset::", dataset)
     let tableContent = ''
-    tableContent = `| Repository | Star | Description | Latest |\n| ---- | ---- | ---- | ---- |\n`
     for (let item of dataset) {
       if (item.type === 'title') {
         const titleSymbol = `##${Array(deep + 1).join('#')}`
@@ -139,6 +138,9 @@ const RequestRepository = async () => {
         textContent += `* ${item.description}\n`
       }
       if (item.type === 'repos') {
+        if (tableContent === '') {
+          tableContent = `| Repository | Star | Description | Latest |\n| ---- | ---- | ---- | ---- |\n`
+        }
         // repository
         const { data } = await request({
           url: `${reposPath}${item.repos}`,
