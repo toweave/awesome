@@ -7,7 +7,7 @@ const instance = axios.create({
     // 'X-Custom-Header': 'foobar',
     'X-OAuth-Scopes': 'repo, user',
     'X-Accepted-OAuth-Scopes': 'user',
-    'Authorization': 'token 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'
+    'Authorization': 'token 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'
   }
 });
 

@@ -129,7 +129,6 @@ const RequestRepository = async () => {
   let textContent = ''
   const reposPath = '/repos/'
   const RequestRecursion = async (dataset, deep = 0) => {
-    console.log(132, "dataset::", dataset)
     let tableContent = ''
     for (let item of dataset) {
       if (item.type === 'title') {
@@ -139,7 +138,7 @@ const RequestRepository = async () => {
       }
       if (item.type === 'repos') {
         if (tableContent === '') {
-          tableContent = `| Repository | Star | Description | Latest |\n| ---- | ---- | ---- | ---- |\n`
+          tableContent = `| Repository | Star | Description | Latest |\n| :--------: | :--------: | :--------: | :--------: |\n`
         }
         // repository
         const { data } = await request({
@@ -148,85 +147,17 @@ const RequestRepository = async () => {
           method: 'get', // default
         })
         const latest = moment(data.pushed_at).fromNow()
-        tableContent += `| ${data.name} | ${data.stargazers_count} | ${data.description} | ${latest} |\n `
+        tableContent += `| ${data.name} | ${data.stargazers_count} | ${data.description} | ${latest} |\n`
       }
       if (item.children && item.children.length) {
         await RequestRecursion(item.children, deep + 1)
       }
     }
-    textContent += tableContent
+    textContent += tableContent + '\n'
   }
   await RequestRecursion(RepositoryJSON)
-  // for (let item of RepositoryJSON) {
-  //   if (item.type === 'title') {
-  //     textContent = `## ${item.title}  \n`
-  //     textContent += `* ${item.description} *  \n`
-  //   }
-  //   if (item.children && item.children.length) {
-  //     for (let element of item.children) {
-  //       if (element.type === 'title') {
-  //         textContent += `### ${element.title}  \n`
-  //         textContent += `* ${element.description} *  \n`
-  //       }
-  //       if (element.children && element.children.length) {
-  //         let tableContent = `| Repository | Star | Description | Latest |  \n| ---- | ---- | ---- | ---- |    \n`
-  //         for (let term of element.children) {
-  //           if (term.type === 'title') {
-  //             textContent += `#### ${term.title}  \n`
-  //             textContent += `* ${term.description} *  \n`
-  //           }
-  //           if (term.type === 'repos') {
-  //             // repository
-  //             const { data } = await request({
-  //               url: `${reposPath}${term.repos}`,
-  //               // `method` 是创建请求时使用的方法
-  //               method: 'get', // default
-  //             })
-  //             const latest = moment(data.pushed_at).fromNow()
-  //             tableContent += `| ${data.name} | ${data.stargazers_count} | ${data.description} | ${latest} | \n `
-  //           }
-  //
-  //           if (term.children && term.children.length) {
-  //             let childContent = `| Repository | Star | Description | Latest |  \n| ---- | ---- | ---- | ---- |    \n`
-  //             for (let child of term.children) {
-  //               if (child.type === 'title') {
-  //                 childContent += `#### ${child.title}  \n`
-  //                 childContent += `* ${child.description} *  \n`
-  //               }
-  //               if (child.type === 'repos') {
-  //                 // repository
-  //                 const { data } = await request({
-  //                   url: `${reposPath}${child.repos}`,
-  //                   // `method` 是创建请求时使用的方法
-  //                   method: 'get', // default
-  //                 })
-  //                 const latest = moment(data.pushed_at).fromNow()
-  //                 childContent += `| ${data.name} | ${data.stargazers_count} | ${data.description} | ${latest} | \n `
-  //               }
-  //             }
-  //             // 拼接子级 table
-  //             textContent += childContent + '  \n'
-  //           }
-  //         }
-  //         // 拼接 table
-  //         textContent += tableContent + '  \n'
-  //       }
-  //     }
-  //   }
-  // }
   console.log(45, textContent)
   await WriteFile(textContent)
-  // // repository
-  // const { data } = await request({
-  //   url: '/repos/vercel/fetch',
-  //   // `method` 是创建请求时使用的方法
-  //   method: 'get', // default
-  // })
-  // console.log(43, data)
-  // const latest = moment(data.pushed_at).fromNow()
-  // textContent += `| ${data.name} | ${data.stargazers_count} | ${data.description} | ${latest} |`
-  // console.log(45, textContent)
-  // await WriteFile(textContent)
 }
 
 // 响应
