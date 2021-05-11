@@ -6,10 +6,10 @@
 
 | Repository :link: | Star | Description | <div style="width: 140px">Latest :heart:</div> |
 | :-------- | --------: | :-------- | :-------- |
-| oto | 802 | ♪ A low-level library to play sound on multiple platforms ♪ | 3 months ago |
-| portaudio | 449 | Go bindings for the PortAudio audio I/O library | 8 months ago |
-| music-theory | 338 | Go models of Note, Scale, Chord and Key | 10 months ago |
-| waveform | 337 | Go package capable of generating waveform images from audio streams. MIT Licensed. | a year ago |
+| oto | 802 | ♪ A low-level library to play sound on multiple platforms ♪ | 3-months-ago |
+| portaudio | 449 | Go bindings for the PortAudio audio I/O library | 8-months-ago |
+| music-theory | 338 | Go models of Note, Scale, Chord and Key | 10-months-ago |
+| waveform | 337 | Go package capable of generating waveform images from audio streams. MIT Licensed. | a-year-ago |
 
 
 ### [Web框架](#Web框架)
