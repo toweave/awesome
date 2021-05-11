@@ -138,7 +138,7 @@ const RequestRepository = async () => {
       }
       if (item.type === 'repos') {
         if (tableContent === '') {
-          tableContent = `| :link:Repository:link: | Star | Description | :heart: Latest :heart: |\n| :-------- | --------: | :-------- | :-------- |\n`
+          tableContent = `| Repository :link: | Star | Description | Latest :heart: |\n| :-------- | --------: | :-------- | :-------- |\n`
         }
         // repository
         const { data } = await request({
