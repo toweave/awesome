@@ -4,7 +4,7 @@
 ### [音频和音乐](#音频和音乐)
 * 用于操作音频的库。 (翻译出错了? 试试 [英文版](README_EN.md#audio-and-music) 吧~)
 
-| :link:Repository:link: | Star | Description | :heart: Latest :heart: |
+| Repository :link: | Star | Description | <div style="width: 140px">Latest :heart:</div> |
 | :-------- | --------: | :-------- | :-------- |
 | oto | 802 | ♪ A low-level library to play sound on multiple platforms ♪ | 3 months ago |
 | portaudio | 449 | Go bindings for the PortAudio audio I/O library | 8 months ago |
@@ -15,18 +15,18 @@
 ### [Web框架](#Web框架)
 * 全栈 web 框架。 (翻译出错了? 试试 英文版 吧~)
 
-| :link:Repository:link: | Star | Description | :heart: Latest :heart: |
+| Repository :link: | Star | Description | <div style="width: 140px">Latest :heart:</div> |
 | :-------- | --------: | :-------- | :-------- |
-| gin | 47916 | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. | a day ago |
+| gin | 47921 | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. | a day ago |
 | echo | 19772 | High performance, minimalist Go web framework | 2 days ago |
-| fiber | 13271 | ⚡️ Express inspired web framework written in Go | 16 hours ago |
+| fiber | 13275 | ⚡️ Express inspired web framework written in Go | 19 hours ago |
 | revel | 12253 | A high productivity, full-stack web framework for the Go language. | 2 months ago |
 
 
 ### 中间件
 * 仿真中间件
 
-| :link:Repository:link: | Star | Description | :heart: Latest :heart: |
+| Repository :link: | Star | Description | <div style="width: 140px">Latest :heart:</div> |
 | :-------- | --------: | :-------- | :-------- |
 | tollbooth | 1938 | Simple middleware to rate-limit HTTP requests. | 5 months ago |
 | cors | 1822 | Go net/http configurable handler to handle CORS requests | 5 months ago |
