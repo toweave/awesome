@@ -234,7 +234,7 @@ const FlattenData = (dataset, deep = 0) => {
                   repos: k2.repos,
                 })
               }
-              // 第四层 提升到 第三层
+              // 第四层 提升到 第二层
               if (k2.type === 'title') {
                 data[i0].children.push({
                   title: k2.title,
@@ -243,7 +243,7 @@ const FlattenData = (dataset, deep = 0) => {
                   repos: k2.repos,
                   children: k2.children.filter(element => element.type === 'repos'),
                 })
-                // 第五层 提升到 第三层
+                // 第五层 提升到 第二
                 if (Array.isArray(k2.children)) {
                   k2.children.forEach((k3, i3) => {
                     if (k3.type === 'title') {
