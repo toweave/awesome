@@ -268,8 +268,24 @@ const FlattenData = (dataset, deep = 0) => {
   return data
 }
 
-const RequestRepository = async () => {
+const navigationText = () => {
   let textContent = ''
+  const navigationRecursion = (dataset, deep = 0) => {
+    deep++
+    for (let item of dataset) {
+      if (item.type === 'title') {
+        const placeholderBlank = `${Array(deep).join('  ')}`
+        textContent += `${placeholderBlank} - ${item.title}\n`
+        navigationRecursion(item.children, deep)
+      }
+    }
+  }
+  navigationRecursion(RepositoryJSON)
+  return textContent
+}
+
+const RequestRepository = async () => {
+  let textContent = navigationText() + '\n---\n\n'
   const reposPath = '/repos/'
   const RequestRecursion = async (dataset, deep = 0) => {
     let prepareTableData = []
