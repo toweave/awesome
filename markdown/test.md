@@ -41,7 +41,7 @@
 ### [Authentication and OAuth](#authentication-and-oauth)
 * Libraries for implementing authentications schemes.
 
-| Repository | Star | Description | Latest123456789 |
+| Repository | Star | Description | ************ |
 | :---- | ----: | :---- | :---- |
 | [oauth2](https://github.com/golang/oauth2) | 3636 | Go OAuth2 | 15 days ago |
 | [goth](https://github.com/markbates/goth) | 3158 | Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. | sdf |
