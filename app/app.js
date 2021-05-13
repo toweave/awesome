@@ -402,7 +402,7 @@ const navigationText = () => {
     deep++
     for (let item of dataset) {
       if (item.type === 'title') {
-        const placeholderBlank = `${Array(deep).join('  ')}`
+        const placeholderBlank = `${Array(deep + 1).join('  ')}`
         textContent += `${placeholderBlank} - ${item.title}\n`
         navigationRecursion(item.children, deep)
       }
@@ -414,11 +414,11 @@ const navigationText = () => {
 
 const RequestRepository = async () => {
   let textContent = `
-  # Awesome Go [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]\n
-  * A curated list of awesome Go frameworks, libraries, software and resources.\n
-  * We have no monthly cost, but we have employees working hard to maintain the Awesome Go.\n
-  * If you see a package or project here that is no longer maintained or is not a good fit, please submit a issue to improve this file. Thank you!
-  * Order by alphabetical and star count.\n
+  # Awesome Go !!!\n
+  A curated list of awesome Go frameworks, libraries, software and resources.\n
+  We have no monthly cost, but we have employees working hard to maintain the Awesome Go.\n
+  If you see a package or project here that is no longer maintained or is not a good fit, please submit a issue to improve this file. Thank you!
+  Order by alphabetical and star count.\n
   `
   textContent += navigationText() + '\n---\n\n'
   const reposPath = '/repos/'
