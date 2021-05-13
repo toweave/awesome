@@ -30,15 +30,69 @@ const RepositoryJSON = [
   {
     "title": "[Awesome Go](#awesome-go)",
     "type": "title",
-    "description": "",
+    "description": "A curated list of awesome Go frameworks, libraries, software and resources.",
     "repos": "",
     "children": [
       {
-        "title": "[音频和音乐](#音频和音乐)",
+        "title": "[Audio and Music](#audio-and-music)",
         "type": "title",
-        "description": "用于操作音频的库。 (翻译出错了? 试试 [英文版](README_EN.md#audio-and-music) 吧~)",
+        "description": "Libraries for manipulating audio",
         "repos": "",
         "children": [
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "mewkiz/flac"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "Comcast/gaad"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "DylanMeeus/GoAudio"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "dh1tw/gosamplerate"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "bogem/id3v2"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "gen2brain/malgo"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "tosone/minimp3"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "go-mix/mix"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "go-music-theory/music-theory"
+          },
           {
             "title": "",
             "type": "repos",
@@ -55,7 +109,13 @@ const RepositoryJSON = [
             "title": "",
             "type": "repos",
             "description": "",
-            "repos": "go-music-theory/music-theory"
+            "repos": "rakyll/portmidi"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "mccoyst/vorbis"
           },
           {
             "title": "",
@@ -66,134 +126,202 @@ const RepositoryJSON = [
         ]
       },
       {
-        "title": "[Web框架](#Web框架)",
+        "title": "[Authentication and OAuth](#authentication-and-oauth)",
         "type": "title",
-        "description": "全栈 web 框架。 (翻译出错了? 试试 英文版 吧~)",
+        "description": "Libraries for implementing authentications schemes.",
         "repos": "",
         "children": [
           {
             "title": "",
             "type": "repos",
             "description": "",
-            "repos": "labstack/echo"
+            "repos": "volatiletech/authboss"
           },
           {
             "title": "",
             "type": "repos",
             "description": "",
-            "repos": "gin-gonic/gin"
+            "repos": "hako/branca"
           },
           {
             "title": "",
             "type": "repos",
             "description": "",
-            "repos": "gofiber/fiber"
+            "repos": "hsluoyz/casbin"
           },
           {
             "title": "",
             "type": "repos",
             "description": "",
-            "repos": "revel/revel"
+            "repos": "mengzhuo/cookiestxt"
           },
           {
-            "title": "中间件 123",
-            "type": "title",
-            "description": "仿真中间件",
-            "children": [
-              {
-                "title": "",
-                "type": "repos",
-                "description": "",
-                "repos": "didip/tollbooth"
-              },
-              {
-                "title": "",
-                "type": "repos",
-                "description": "",
-                "repos": "rs/cors"
-              },
-              {
-                "title": "",
-                "type": "repos",
-                "description": "",
-                "repos": "ulule/limiter"
-              },
-              {
-                "title": "中间件 123-child",
-                "type": "title",
-                "description": "仿真中间件",
-                "children": [
-                  {
-                    "title": "",
-                    "type": "repos",
-                    "description": "",
-                    "repos": "didip/tollbooth"
-                  },
-                  {
-                    "title": "",
-                    "type": "repos",
-                    "description": "",
-                    "repos": "rs/cors"
-                  },
-                  {
-                    "title": "",
-                    "type": "repos",
-                    "description": "",
-                    "repos": "ulule/limiter"
-                  }
-                ]
-              }
-            ]
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "dimuska139/go-email-normalizer"
           },
           {
-            "title": "中间件 abc",
-            "type": "title",
-            "description": "仿真中间件",
-            "children": [
-              {
-                "title": "",
-                "type": "repos",
-                "description": "",
-                "repos": "didip/tollbooth"
-              },
-              {
-                "title": "",
-                "type": "repos",
-                "description": "",
-                "repos": "rs/cors"
-              },
-              {
-                "title": "",
-                "type": "repos",
-                "description": "",
-                "repos": "ulule/limiter"
-              },
-              {
-                "title": "中间件 abc-child",
-                "type": "title",
-                "description": "仿真中间件",
-                "children": [
-                  {
-                    "title": "",
-                    "type": "repos",
-                    "description": "",
-                    "repos": "didip/tollbooth"
-                  },
-                  {
-                    "title": "",
-                    "type": "repos",
-                    "description": "",
-                    "repos": "rs/cors"
-                  },
-                  {
-                    "title": "",
-                    "type": "repos",
-                    "description": "",
-                    "repos": "ulule/limiter"
-                  }
-                ]
-              }
-            ]
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "shaj13/go-guardian"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "square/go-jose"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "RichardKnop/go-oauth2-server"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "dghubble/gologin"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "mikespook/gorbac"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "markbates/goth"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "goji/httpauth"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "abraithwaite/jeff"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "robbert229/jwt"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "pascaldekloe/jwt"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "cristalhq/jwt"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "adam-hanna/jwt-auth"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "tarent/loginsrv"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "golang/oauth2"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "openshift/osin"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "jltorresm/otpgo"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "o1egl/paseto"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "xyproto/permissions2"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "zpatrick/rbac"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "SonicRoshan/scope"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "alexedwards/scs"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "chmike/securecookie"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "icza/session"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "f0rmiga/sessiongate-go"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "adam-hanna/sessions"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "swithek/sessionup"
+          },
+          {
+            "title": "",
+            "type": "repos",
+            "description": "",
+            "repos": "brianvoe/sjwt"
           }
         ]
       },
@@ -285,7 +413,14 @@ const navigationText = () => {
 }
 
 const RequestRepository = async () => {
-  let textContent = navigationText() + '\n---\n\n'
+  let textContent = `
+  # Awesome Go [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]\n
+  * A curated list of awesome Go frameworks, libraries, software and resources.\n
+  * We have no monthly cost, but we have employees working hard to maintain the Awesome Go.\n
+  * If you see a package or project here that is no longer maintained or is not a good fit, please submit a issue to improve this file. Thank you!
+  * Order By Alphabetical.\n
+  `
+  textContent += navigationText() + '\n---\n\n'
   const reposPath = '/repos/'
   const RequestRecursion = async (dataset, deep = 0) => {
     let prepareTableData = []
@@ -316,12 +451,11 @@ const RequestRepository = async () => {
       const orderTableData = _.orderBy(prepareTableData, ['stargazers_count'], ['desc'])
       let tableContent = `| Repository | Star | Description | Latest |\n| :---- | ----: | :---- | :---- |\n`
       orderTableData.forEach((element) => {
-        tableContent += `| ${element.name} | ${element.stargazers_count} | ${element.description} | ${element.latest} |\n`
+        tableContent += `| [${element.name}](${element.html_url}) | ${element.stargazers_count} | ${element.description} | ${element.latest} |\n`
       })
       textContent += tableContent + '\n\n'
     }
   }
-  console.log(1111, JSON.stringify(FlattenData(RepositoryJSON), null, 2))
   await RequestRecursion(FlattenData(RepositoryJSON))
   console.log(45, textContent)
   await WriteFile(textContent)
