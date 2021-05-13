@@ -1,16 +1,16 @@
 
-  # Awesome Go [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+  # Awesome Go !!!
 
-  * A curated list of awesome Go frameworks, libraries, software and resources.
+  A curated list of awesome Go frameworks, libraries, software and resources.
 
-  * We have no monthly cost, but we have employees working hard to maintain the Awesome Go.
+  We have no monthly cost, but we have employees working hard to maintain the Awesome Go.
 
-  * If you see a package or project here that is no longer maintained or is not a good fit, please submit a issue to improve this file. Thank you!
-  * Order by alphabetical and star count.
+  If you see a package or project here that is no longer maintained or is not a good fit, please submit a issue to improve this file. Thank you!
+  Order by alphabetical and star count.
 
-   - [Awesome Go](#awesome-go)
-   - [Audio and Music](#audio-and-music)
-   - [Authentication and OAuth](#authentication-and-oauth)
+     - [Awesome Go](#awesome-go)
+     - [Audio and Music](#audio-and-music)
+     - [Authentication and OAuth](#authentication-and-oauth)
 
 ---
 
@@ -28,7 +28,7 @@
 | [music-theory](https://github.com/go-music-theory/music-theory) | 337 | Go models of Note, Scale, Chord and Key | 10 months ago |
 | [portmidi](https://github.com/rakyll/portmidi) | 254 | Go bindings for libportmidi | 7 months ago |
 | [id3v2](https://github.com/bogem/id3v2) | 189 | 🎵 ID3 decoding and encoding library for Go | 22 days ago |
-| [flac](https://github.com/mewkiz/flac) | 152 | Package flac provides access to FLAC (Free Lossless Audio Codec) streams. | 3 months ago |
+| [flac](https://github.com/mewkiz/flac) | 152 | Package flac provides access to FLAC (Free Lossless Audio Codec) streams. | 4 months ago |
 | [malgo](https://github.com/gen2brain/malgo) | 145 | Mini audio library | 6 days ago |
 | [mix](https://github.com/go-mix/mix) | 138 | Sequence-based Go-native audio mixer for music apps | a year ago |
 | [GoAudio](https://github.com/DylanMeeus/GoAudio) | 127 | Go tools for audio processing & creation 🎶 | 2 months ago |
@@ -43,7 +43,7 @@
 
 | Repository | StarCount | Description | LatestUpdates |
 | :---- | ----: | :---- | :---- |
-| [oauth2](https://github.com/golang/oauth2) | 3636 | Go OAuth2 | 15 days ago |
+| [oauth2](https://github.com/golang/oauth2) | 3636 | Go OAuth2 | 16 days ago |
 | [goth](https://github.com/markbates/goth) | 3158 | Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. | 24 days ago |
 | [authboss](https://github.com/volatiletech/authboss) | 2652 | The boss of http auth. | 15 days ago |
 | [loginsrv](https://github.com/tarent/loginsrv) | 1776 | JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, .. | 3 months ago |
@@ -55,7 +55,7 @@
 | [scs](https://github.com/alexedwards/scs) | 874 | HTTP Session Management for Go | a month ago |
 | [paseto](https://github.com/o1egl/paseto) | 507 | Platform-Agnostic Security Tokens implementation in GO (Golang) | a year ago |
 | [permissions2](https://github.com/xyproto/permissions2) | 428 |   :closed_lock_with_key: Middleware for keeping track of users, login states and permissions | 8 months ago |
-| [jwt](https://github.com/cristalhq/jwt) | 259 | Safe, simple and fast JSON Web Tokens for Go | 20 days ago |
+| [jwt](https://github.com/cristalhq/jwt) | 258 | Safe, simple and fast JSON Web Tokens for Go | 20 days ago |
 | [go-guardian](https://github.com/shaj13/go-guardian) | 248 | Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication. | 19 days ago |
 | [jwt](https://github.com/pascaldekloe/jwt) | 248 | JSON Web Token library | 2 months ago |
 | [jeff](https://github.com/abraithwaite/jeff) | 225 | 🍍Jeff provides the simplest way to manage web sessions in Go. | 9 months ago |
