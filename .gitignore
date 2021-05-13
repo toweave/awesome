@@ -1,4 +1,7 @@
 # gitignore
+
+app/config/*
+
 node_modules
 
 dist
