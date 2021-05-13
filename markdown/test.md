@@ -6,7 +6,7 @@
   * We have no monthly cost, but we have employees working hard to maintain the Awesome Go.
 
   * If you see a package or project here that is no longer maintained or is not a good fit, please submit a issue to improve this file. Thank you!
-  * Order By Alphabetical.
+  * Order by alphabetical and star count.
 
    - [Awesome Go](#awesome-go)
    - [Audio and Music](#audio-and-music)
@@ -20,7 +20,7 @@
 ### [Audio and Music](#audio-and-music)
 * Libraries for manipulating audio
 
-| Repository | Star | Description | LatestUpdates |
+| Repository | StarCount | Description | LatestUpdates |
 | :---- | ----: | :---- | :---- |
 | [oto](https://github.com/hajimehoshi/oto) | 803 | ♪ A low-level library to play sound on multiple platforms ♪ | 3 months ago |
 | [portaudio](https://github.com/gordonklaus/portaudio) | 449 | Go bindings for the PortAudio audio I/O library | 8 months ago |
@@ -41,10 +41,10 @@
 ### [Authentication and OAuth](#authentication-and-oauth)
 * Libraries for implementing authentications schemes.
 
-| Repository | Star | Description | LatestUpdates |
+| Repository | StarCount | Description | LatestUpdates |
 | :---- | ----: | :---- | :---- |
 | [oauth2](https://github.com/golang/oauth2) | 3636 | Go OAuth2 | 15 days ago |
-| [goth](https://github.com/markbates/goth) | 3158 | Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. | sdf |
+| [goth](https://github.com/markbates/goth) | 3158 | Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. | 24 days ago |
 | [authboss](https://github.com/volatiletech/authboss) | 2652 | The boss of http auth. | 15 days ago |
 | [loginsrv](https://github.com/tarent/loginsrv) | 1776 | JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, .. | 3 months ago |
 | [go-jose](https://github.com/square/go-jose) | 1757 | An implementation of JOSE standards (JWE, JWS, JWT) in Go | 17 days ago |

@@ -418,7 +418,7 @@ const RequestRepository = async () => {
   * A curated list of awesome Go frameworks, libraries, software and resources.\n
   * We have no monthly cost, but we have employees working hard to maintain the Awesome Go.\n
   * If you see a package or project here that is no longer maintained or is not a good fit, please submit a issue to improve this file. Thank you!
-  * Order By Alphabetical.\n
+  * Order by alphabetical and star count.\n
   `
   textContent += navigationText() + '\n---\n\n'
   const reposPath = '/repos/'
@@ -449,7 +449,7 @@ const RequestRepository = async () => {
     }
     if (prepareTableData.length) {
       const orderTableData = _.orderBy(prepareTableData, ['stargazers_count'], ['desc'])
-      let tableContent = `| Repository | Star | Description | Latest |\n| :---- | ----: | :---- | :---- |\n`
+      let tableContent = `| Repository | StarCount | Description | LatestUpdates |\n| :---- | ----: | :---- | :---- |\n`
       orderTableData.forEach((element) => {
         tableContent += `| [${element.name}](${element.html_url}) | ${element.stargazers_count} | ${element.description} | ${element.latest} |\n`
       })
