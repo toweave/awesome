@@ -44,7 +44,7 @@
 | Repository | Star | Description | Latest |
 | :---- | ----: | :---- | :---- |
 | [oauth2](https://github.com/golang/oauth2) | 3636 | Go OAuth2 | 15 days ago |
-| [goth](https://github.com/markbates/goth) | 3158 | Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. | 24 days ago |
+| [goth](https://github.com/markbates/goth) | 3158 | Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. | 1234564654646546454564 |
 | [authboss](https://github.com/volatiletech/authboss) | 2652 | The boss of http auth. | 15 days ago |
 | [loginsrv](https://github.com/tarent/loginsrv) | 1776 | JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, .. | 3 months ago |
 | [go-jose](https://github.com/square/go-jose) | 1757 | An implementation of JOSE standards (JWE, JWS, JWT) in Go | 17 days ago |
