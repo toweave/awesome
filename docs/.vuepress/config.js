@@ -1,4 +1,5 @@
 module.exports = {
   title: 'Awesome',
-  description: 'Awesome Toweave'
+  description: 'Awesome Toweave',
+  base: "/awesome/"
 }
