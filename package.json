@@ -1,0 +1,30 @@
+{
+  "name": "awesome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "gh-pages -d docs/.vuepress/dist -b gh-pages",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toweave/awesome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toweave/awesome/issues"
+  },
+  "homepage": "https://github.com/toweave/awesome#readme",
+  "devDependencies": {
+    "async-validator": "^1.11.5",
+    "gh-pages": "^3.1.0",
+    "vuepress": "^1.8.2"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.1"
+  }
+}
