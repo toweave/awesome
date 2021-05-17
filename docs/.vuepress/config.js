@@ -9,8 +9,8 @@ module.exports = {
   themeConfig: {
     nav: MenuNav,
     sidebar: {
-      '/project/': SidebarGuide('团队指引', 'Advanced'),
-      '/go/': SidebarReadMe('Go', 'Go Project'),
+      '/go/': SidebarReadMe('Go From Github.', 'Go Project'),
+      '/': SidebarReadMe('Language form Github.', 'Top 10 Rank'),
     }
   },
   markdown: {

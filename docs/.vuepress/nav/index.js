@@ -4,23 +4,27 @@ module.exports = [
         link: '/'
     },
     {
-        text: 'Web 前端',
-        link: '/web/environments/'
+        text: 'Book',
+        link: '/book/'
     },
     {
-        text: '安卓开发',
-        link: '/app/environments/'
+        text: 'Awesome C',
+        link: '/c/'
     },
     {
-        text: '项目介绍',
-        link: '/project/'
+        text: 'Awesome Python',
+        link: '/python/'
     },
     {
-        text: '团队指引',
-        link: '/guide/team/foreword.html'
+        text: 'Awesome Java',
+        link: '/java/'
     },
     {
-        text: 'MarkDown',
-        link: '/markdown/'
+        text: 'Awesome More',
+        items: [
+          { text: 'Awesome Visual Basic', link: '/visual-basic/' },
+          { text: 'Awesome JavaScript', link: '/javascript/' },
+          { text: 'Awesome Go', link: '/go/' }
+        ]
     }
 ]
