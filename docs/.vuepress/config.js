@@ -9,7 +9,9 @@ module.exports = {
   themeConfig: {
     nav: MenuNav,
     sidebar: {
-      '/go/': SidebarReadMe('Go From Github.', 'Go Project'),
+      '/book/': SidebarReadMe('Books From Github.', 'Book'),
+      '/c/': SidebarReadMe('C, C++ From Github.', 'C'),
+      '/go/': SidebarReadMe('Go From Github.', 'Go'),
       '/': SidebarReadMe('Language form Github.', 'Top 10 Rank'),
     }
   },
