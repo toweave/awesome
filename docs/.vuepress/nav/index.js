@@ -26,5 +26,9 @@ module.exports = [
           { text: 'Awesome JavaScript', link: '/javascript/' },
           { text: 'Awesome Go', link: '/go/' }
         ]
+    },
+    {
+        text: 'GitHub',
+        link: 'https://github.com/toweave/awesome/'
     }
 ]
