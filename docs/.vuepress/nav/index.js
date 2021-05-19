@@ -8,23 +8,31 @@ module.exports = [
         link: '/book/'
     },
     {
-        text: 'Awesome C',
+        text: 'C, C++',
         link: '/c/'
     },
     {
-        text: 'Awesome Python',
+        text: 'Python',
         link: '/python/'
     },
     {
-        text: 'Awesome Java',
+        text: 'Java',
         link: '/java/'
+    },
+    {
+        text: 'Visual Basic',
+        link: '/visual-basic/'
+    },
+    {
+        text: 'JavaScript',
+        link: '/javascript/'
     },
     {
         text: 'Awesome More',
         items: [
-          { text: 'Awesome Visual Basic', link: '/visual-basic/' },
-          { text: 'Awesome JavaScript', link: '/javascript/' },
-          { text: 'Awesome Go', link: '/go/' }
+          { text: 'PHP', link: '/php/' },
+          { text: 'Go', link: '/go/' },
+          { text: 'Updating', link: '/' }
         ]
     },
     {
