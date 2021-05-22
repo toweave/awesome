@@ -12,6 +12,7 @@ module.exports = {
       '/book/': SidebarReadMe('Books From Github.', 'Book'),
       '/c/': SidebarReadMe('C, C++ From Github.', 'C'),
       '/go/': SidebarReadMe('Go From Github.', 'Go'),
+      '/python/': SidebarReadMe('Go From Python.', 'Python'),
       '/': SidebarReadMe('Language form Github.', 'Top 10 Rank'),
     }
   },
