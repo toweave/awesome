@@ -35,4 +35,4 @@ jobs:
         user_email: 'toweave@163.com'
         personal_token: ${{ secrets.PERSONAL_TOKEN }}
         publish_branch: gh-pages 
-        pulish_dir: ./docs/.vuepress/dist
+        publish_dir: ./docs/.vuepress/dist
