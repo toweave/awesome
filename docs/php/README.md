@@ -3,7 +3,7 @@
 * A curated list of awesome Go frameworks, libraries, software and resources.
 * Inspired by Awesome.
 * If you see a package or project here that is no longer maintained or is not a good fit, please submit a issue to improve this file. Thank you!
-* Last Sync Time: Mon May 31 2021 11:25:51 GMT+0800 (GMT+08:00)
+* Last Sync Time: Mon May 31 2021 11:25:23 GMT+0800 (GMT+08:00)
 * Synchronize Every Day.
 #### Order by alphabetical and star count.
 
