@@ -3,7 +3,7 @@
 * A curated list of awesome Go frameworks, libraries, software and resources.
 * Inspired by Awesome.
 * If you see a package or project here that is no longer maintained or is not a good fit, please submit a issue to improve this file. Thank you!
-* Last Sync Time: Mon May 31 2021 11:25:51 GMT+0800 (GMT+08:00)
+* Last Sync Time: Mon May 31 2021 18:30:36 GMT+0800 (GMT+08:00)
 * Synchronize Every Day.
 #### Order by alphabetical and star count.
 
@@ -42,7 +42,7 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [oauth2](https://github.com/golang/oauth2) | 3655 | Go OAuth2 | 13 days ago |
+| [oauth2](https://github.com/golang/oauth2) | 3656 | Go OAuth2 | 14 days ago |
 | [goth](https://github.com/markbates/goth) | 3182 | Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. | a month ago |
 | [authboss](https://github.com/volatiletech/authboss) | 2666 | The boss of http auth. | 13 days ago |
 | [loginsrv](https://github.com/tarent/loginsrv) | 1782 | JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, .. | 3 months ago |
@@ -51,7 +51,7 @@
 | [osin](https://github.com/openshift/osin) | 1670 | Golang OAuth2 server library | 4 months ago |
 | [gologin](https://github.com/dghubble/gologin) | 1389 | Go login handlers for authentication providers (OAuth1, OAuth2) | a month ago |
 | [gorbac](https://github.com/mikespook/gorbac) | 1174 | goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang. | 25 days ago |
-| [scs](https://github.com/alexedwards/scs) | 878 | HTTP Session Management for Go | 2 months ago |
+| [scs](https://github.com/alexedwards/scs) | 879 | HTTP Session Management for Go | 2 months ago |
 | [paseto](https://github.com/o1egl/paseto) | 514 | Platform-Agnostic Security Tokens implementation in GO (Golang) | a year ago |
 | [permissions2](https://github.com/xyproto/permissions2) | 430 |   :closed_lock_with_key: Middleware for keeping track of users, login states and permissions | 9 months ago |
 | [jwt](https://github.com/cristalhq/jwt) | 266 | Safe, simple and fast JSON Web Tokens for Go | a month ago |
