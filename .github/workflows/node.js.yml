@@ -25,7 +25,7 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: ${{ matrix.node-version }}
-    - run: git remote add origin https://toweave:${{ secrets.GITHUBPASSWORD }}@github.com/toweave/awesome.git
+    # - run: git remote add origin https://toweave:${{ secrets.GITHUBPASSWORD }}@github.com/toweave/awesome.git
     - run: npm ci
     - run: npm run docs:build
     - run: npm run deploy
