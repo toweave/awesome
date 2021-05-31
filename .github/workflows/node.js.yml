@@ -27,12 +27,12 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: git config --global user.email "toweave@163.com"
     - run: git config --global user.name "toweave"
-    # - run: git remote add origin https://toweave:${{ secrets.GITHUBPASSWORD }}@github.com/toweave/awesome.git
     - run: npm ci
     - run: npm run docs:build
     # Deploy
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
-        personal_token: ${{ secrets.GIT_ACTION }}
+        personal_token: ${{ secrets.PERSONAL_TOKEN }}
+        publish_branch: gh-pages 
         pulish_dir: ./docs/.vuepress/dist
