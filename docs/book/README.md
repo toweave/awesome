@@ -3,7 +3,7 @@
 * A curated list of programming books.
 * Inspired by Awesome.
 * If you see a package or project here that is no longer maintained or is not a good fit, please submit a issue to improve this file. Thank you!
-* Last Sync Time: Wed Jun 09 2021 15:38:39 GMT+0800 (GMT+08:00)
+* Last Sync Time: Thu Jun 10 2021 10:07:22 GMT+0800 (GMT+08:00)
 * Synchronize Every Day.
 #### Order by alphabetical and star count.
 
@@ -28,14 +28,14 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 191957 | :books: Freely available programming books | 3 days ago |
-| [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 80423 | :books: 免费的计算机编程类中文书籍，欢迎投稿 | 15 days ago |
-| [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 40790 | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | a day ago |
-| [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) | 31372 | Manually curated collection of resources for frontend web developers. | 3 months ago |
-| [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) | 12119 | 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等 | 8 months ago |
-| [free-books](https://github.com/ruanyf/free-books) | 11651 | 互联网上的免费书籍 | 2 months ago |
-| [books](https://github.com/programthink/books) | 10232 | 【编程随想】收藏的电子书清单（多个学科，含下载链接） | a month ago |
-| [os01](https://github.com/tuhdo/os01) | 9238 | Bootstrap yourself to write an OS from scratch. A book for self-learner. | 2 months ago |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 192064 | :books: Freely available programming books | 3 days ago |
+| [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 80435 | :books: 免费的计算机编程类中文书籍，欢迎投稿 | 16 days ago |
+| [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 40800 | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | 2 days ago |
+| [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) | 31374 | Manually curated collection of resources for frontend web developers. | 3 months ago |
+| [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) | 12122 | 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等 | 8 months ago |
+| [free-books](https://github.com/ruanyf/free-books) | 11654 | 互联网上的免费书籍 | 2 months ago |
+| [books](https://github.com/programthink/books) | 10239 | 【编程随想】收藏的电子书清单（多个学科，含下载链接） | a month ago |
+| [os01](https://github.com/tuhdo/os01) | 9242 | Bootstrap yourself to write an OS from scratch. A book for self-learner. | 2 months ago |
 
 
 ### [Python](#python)
@@ -43,9 +43,9 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [python-guide](https://github.com/realpython/python-guide) | 23105 | Python best practices guidebook, written for humans.  | 11 days ago |
-| [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) | 16771 | Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course. | 4 months ago |
-| [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) | 10296 | Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions. | 3 months ago |
+| [python-guide](https://github.com/realpython/python-guide) | 23109 | Python best practices guidebook, written for humans.  | 12 days ago |
+| [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) | 16775 | Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course. | 4 months ago |
+| [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) | 10303 | Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions. | 3 months ago |
 
 
 ### [JavaScript](#javascript)
@@ -53,13 +53,13 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | 139865 | A book series on JavaScript. @YDKJS on twitter. | 8 days ago |
-| [sheetjs](https://github.com/SheetJS/sheetjs) | 25789 | :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit | a day ago |
-| [wtfjs](https://github.com/denysdovhan/wtfjs) | 22279 | 🤪 A list of funny and tricky JavaScript examples | 2 days ago |
-| [node-lessons](https://github.com/alsotang/node-lessons) | 16230 | :closed_book:《Node.js 包教不包会》 by alsotang | 7 months ago |
+| [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | 139907 | A book series on JavaScript. @YDKJS on twitter. | 9 days ago |
+| [sheetjs](https://github.com/SheetJS/sheetjs) | 25794 | :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit | 2 days ago |
+| [wtfjs](https://github.com/denysdovhan/wtfjs) | 22286 | 🤪 A list of funny and tricky JavaScript examples | 3 days ago |
+| [node-lessons](https://github.com/alsotang/node-lessons) | 16231 | :closed_book:《Node.js 包教不包会》 by alsotang | 7 months ago |
 | [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) | 14220 | Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter. | 5 months ago |
 | [react-in-patterns](https://github.com/krasimir/react-in-patterns) | 10883 | A free book that talks about design patterns/techniques used while developing with React. | 9 months ago |
-| [babel-handbook](https://github.com/jamiebuilds/babel-handbook) | 10027 | :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel. | 7 days ago |
+| [babel-handbook](https://github.com/jamiebuilds/babel-handbook) | 10029 | :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel. | 8 days ago |
 | [backbone-fundamentals](https://github.com/addyosmani/backbone-fundamentals) | 9415 | :book: A creative-commons book on Backbone.js for beginners and advanced users alike | 2 years ago |
 
 
@@ -68,8 +68,8 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) | 15138 | :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿) | 21 days ago |
-| [typescript-book](https://github.com/basarat/typescript-book) | 13764 | :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹 | 4 days ago |
+| [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) | 15144 | :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿) | 22 days ago |
+| [typescript-book](https://github.com/basarat/typescript-book) | 13767 | :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹 | 4 days ago |
 
 
 ### [Go](#go)
@@ -77,10 +77,10 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) | 26041 | 《The Way to Go》中文译本，中文正式名《Go 入门指南》 | 9 days ago |
-| [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) | 15138 | :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿) | 21 days ago |
+| [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) | 26044 | 《The Way to Go》中文译本，中文正式名《Go 入门指南》 | 10 days ago |
+| [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) | 15144 | :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿) | 22 days ago |
 | [book](https://github.com/qyuhen/book) | 11630 | 学习笔记 | 2 months ago |
-| [GoBooks](https://github.com/dariubs/GoBooks) | 9465 | List of Golang books | 8 days ago |
+| [GoBooks](https://github.com/dariubs/GoBooks) | 9469 | List of Golang books | 8 days ago |
 
 
 ### [Docker](#docker)
@@ -88,7 +88,7 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [docker_practice](https://github.com/yeasy/docker_practice) | 18798 | Learn and understand Docker technologies, with real DevOps practice! | 9 days ago |
+| [docker_practice](https://github.com/yeasy/docker_practice) | 18799 | Learn and understand Docker technologies, with real DevOps practice! | 10 days ago |
 
 
 ### [Bash](#bash)
@@ -96,7 +96,7 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | 27126 | 📖 A collection of pure bash alternatives to external processes. | 5 months ago |
+| [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | 27140 | 📖 A collection of pure bash alternatives to external processes. | 5 months ago |
 
 
 ## [Deep Learning](#deep-learning)
@@ -107,18 +107,18 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) | 31223 | Deep Learning Book Chinese Translation | 2 years ago |
-| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 24364 | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。 | 7 hours ago |
-| [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) | 17380 | 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book | 2 hours ago |
-| [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books) | 13215 | deeplearning.ai（吴恩达老师的深度学习课程笔记及资源） | 6 months ago |
-| [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) | 12862 | Jupyter notebooks for the code samples of the book "Deep Learning with Python" | 3 days ago |
-| [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) | 12572 | Code samples for my book "Neural Networks and Deep Learning" | 4 months ago |
-| [fastbook](https://github.com/fastai/fastbook) | 12572 | The fastai book, published as Jupyter Notebooks | 10 days ago |
-| [awesome-nlp](https://github.com/keon/awesome-nlp) | 11997 | :book: A curated list of resources dedicated to Natural Language Processing (NLP) | 6 days ago |
-| [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) | 11642 | 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework. | 24 days ago |
+| [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) | 31226 | Deep Learning Book Chinese Translation | 2 years ago |
+| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 24379 | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。 | 8 hours ago |
+| [pumpkin-book](https://github.com/datawhalechina/pumpkin-book) | 17384 | 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book | 20 hours ago |
+| [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books) | 13225 | deeplearning.ai（吴恩达老师的深度学习课程笔记及资源） | 6 months ago |
+| [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) | 12871 | Jupyter notebooks for the code samples of the book "Deep Learning with Python" | 4 days ago |
+| [fastbook](https://github.com/fastai/fastbook) | 12581 | The fastai book, published as Jupyter Notebooks | 10 days ago |
+| [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) | 12573 | Code samples for my book "Neural Networks and Deep Learning" | 4 months ago |
+| [awesome-nlp](https://github.com/keon/awesome-nlp) | 11999 | :book: A curated list of resources dedicated to Natural Language Processing (NLP) | 6 days ago |
+| [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) | 11643 | 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework. | 25 days ago |
 | [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) | 11227 | The "Python Machine Learning (1st edition)"  book code repository and info resource | 8 months ago |
-| [d2l-en](https://github.com/d2l-ai/d2l-en) | 10056 | Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 175 universities. | 3 hours ago |
-| [mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) | 9367 | MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville | 5 months ago |
-| [pytorch-book](https://github.com/chenyuntc/pytorch-book) | 8926 | PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》) | 3 months ago |
+| [d2l-en](https://github.com/d2l-ai/d2l-en) | 10059 | Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 175 universities. | 21 hours ago |
+| [mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) | 9369 | MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville | 5 months ago |
+| [pytorch-book](https://github.com/chenyuntc/pytorch-book) | 8927 | PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》) | 3 months ago |
 
 
