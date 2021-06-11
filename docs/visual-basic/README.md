@@ -3,7 +3,7 @@
 * A curated list of awesome Go frameworks, libraries, software and resources.
 * Inspired by Awesome.
 * If you see a package or project here that is no longer maintained or is not a good fit, please submit a issue to improve this file. Thank you!
-* Last Sync Time: Thu Jun 10 2021 10:13:31 GMT+0800 (GMT+08:00)
+* Last Sync Time: Fri Jun 11 2021 15:49:56 GMT+0800 (GMT+08:00)
 * Synchronize Every Day.
 #### Order by alphabetical and star count.
 
@@ -21,11 +21,11 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [oto](https://github.com/hajimehoshi/oto) | 817 | ♪ A low-level library to play sound on multiple platforms ♪ | 4 months ago |
-| [portaudio](https://github.com/gordonklaus/portaudio) | 451 | Go bindings for the PortAudio audio I/O library | 9 months ago |
+| [oto](https://github.com/hajimehoshi/oto) | 818 | ♪ A low-level library to play sound on multiple platforms ♪ | 4 months ago |
+| [portaudio](https://github.com/gordonklaus/portaudio) | 452 | Go bindings for the PortAudio audio I/O library | 9 months ago |
 | [music-theory](https://github.com/go-music-theory/music-theory) | 341 | Go models of Note, Scale, Chord and Key | a year ago |
 | [waveform](https://github.com/mdlayher/waveform) | 337 | Go package capable of generating waveform images from audio streams. MIT Licensed. | a year ago |
-| [portmidi](https://github.com/rakyll/portmidi) | 255 | Go bindings for libportmidi | 8 months ago |
+| [portmidi](https://github.com/rakyll/portmidi) | 256 | Go bindings for libportmidi | 8 months ago |
 | [id3v2](https://github.com/bogem/id3v2) | 190 | 🎵 ID3 decoding and encoding library for Go | 2 months ago |
 | [flac](https://github.com/mewkiz/flac) | 156 | Package flac provides access to FLAC (Free Lossless Audio Codec) streams. | 4 months ago |
 | [malgo](https://github.com/gen2brain/malgo) | 149 | Mini audio library | a month ago |
@@ -42,26 +42,26 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [oauth2](https://github.com/golang/oauth2) | 3672 | Go OAuth2 | 5 hours ago |
+| [oauth2](https://github.com/golang/oauth2) | 3673 | Go OAuth2 | 10 hours ago |
 | [goth](https://github.com/markbates/goth) | 3194 | Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. | 2 months ago |
-| [authboss](https://github.com/volatiletech/authboss) | 2678 | The boss of http auth. | 23 days ago |
+| [authboss](https://github.com/volatiletech/authboss) | 2679 | The boss of http auth. | 24 days ago |
 | [loginsrv](https://github.com/tarent/loginsrv) | 1786 | JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, .. | 3 months ago |
-| [go-jose](https://github.com/square/go-jose) | 1771 | An implementation of JOSE standards (JWE, JWS, JWT) in Go | 4 days ago |
-| [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) | 1763 | A standalone, specification-compliant,  OAuth2 server written in Golang. | 5 months ago |
+| [go-jose](https://github.com/square/go-jose) | 1771 | An implementation of JOSE standards (JWE, JWS, JWT) in Go | 5 days ago |
+| [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) | 1764 | A standalone, specification-compliant,  OAuth2 server written in Golang. | 5 months ago |
 | [osin](https://github.com/openshift/osin) | 1672 | Golang OAuth2 server library | 4 months ago |
-| [gologin](https://github.com/dghubble/gologin) | 1391 | Go login handlers for authentication providers (OAuth1, OAuth2) | 7 hours ago |
-| [gorbac](https://github.com/mikespook/gorbac) | 1178 | goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang. | a month ago |
-| [scs](https://github.com/alexedwards/scs) | 884 | HTTP Session Management for Go | 4 days ago |
-| [paseto](https://github.com/o1egl/paseto) | 515 | Platform-Agnostic Security Tokens implementation in GO (Golang) | a year ago |
+| [gologin](https://github.com/dghubble/gologin) | 1391 | Go login handlers for authentication providers (OAuth1, OAuth2) | 2 days ago |
+| [gorbac](https://github.com/mikespook/gorbac) | 1180 | goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang. | a month ago |
+| [scs](https://github.com/alexedwards/scs) | 884 | HTTP Session Management for Go | 5 days ago |
+| [paseto](https://github.com/o1egl/paseto) | 516 | Platform-Agnostic Security Tokens implementation in GO (Golang) | a year ago |
 | [permissions2](https://github.com/xyproto/permissions2) | 429 |   :closed_lock_with_key: Middleware for keeping track of users, login states and permissions | 9 months ago |
-| [jwt](https://github.com/cristalhq/jwt) | 268 | Safe, simple and fast JSON Web Tokens for Go | 2 days ago |
-| [go-guardian](https://github.com/shaj13/go-guardian) | 264 | Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication. | 2 months ago |
+| [jwt](https://github.com/cristalhq/jwt) | 268 | Safe, simple and fast JSON Web Tokens for Go | 3 days ago |
+| [go-guardian](https://github.com/shaj13/go-guardian) | 265 | Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication. | 2 months ago |
 | [jwt](https://github.com/pascaldekloe/jwt) | 251 | JSON Web Token library | 3 months ago |
 | [jeff](https://github.com/abraithwaite/jeff) | 225 | 🍍Jeff provides the simplest way to manage web sessions in Go. | 10 months ago |
 | [httpauth](https://github.com/goji/httpauth) | 206 | HTTP Authentication middlewares | 10 months ago |
-| [jwt-auth](https://github.com/adam-hanna/jwt-auth) | 204 | This package provides json web token (jwt) middleware for goLang http servers | 13 days ago |
+| [jwt-auth](https://github.com/adam-hanna/jwt-auth) | 204 | This package provides json web token (jwt) middleware for goLang http servers | 14 days ago |
 | [branca](https://github.com/hako/branca) | 152 | :key: Secure alternative to JWT. Authenticated Encrypted API Tokens for Go. | 10 months ago |
-| [sessionup](https://github.com/swithek/sessionup) | 112 | Straightforward HTTP session management | a day ago |
+| [sessionup](https://github.com/swithek/sessionup) | 112 | Straightforward HTTP session management | 3 days ago |
 | [session](https://github.com/icza/session) | 107 | Go session management for web servers (including support for Google App Engine - GAE). | 2 years ago |
 | [jwt](https://github.com/robbert229/jwt) | 89 | This is an implementation of JWT in golang! | 7 months ago |
 | [sjwt](https://github.com/brianvoe/sjwt) | 88 | Simple JWT Golang | 2 years ago |
@@ -70,9 +70,9 @@
 | [securecookie](https://github.com/chmike/securecookie) | 50 | Fast, secure and efficient secure cookie encoder/decoder  | a month ago |
 | [otpgo](https://github.com/jltorresm/otpgo) | 19 | Time-Based One-Time Password (TOTP) and HMAC-Based One-Time Password (HOTP) library for Go. | 3 months ago |
 | [go-email-normalizer](https://github.com/dimuska139/go-email-normalizer) | 17 | Golang library for providing a canonical representation of email address. | 6 months ago |
-| [scope](https://github.com/SonicRoshan/scope) | 12 | Easily Manage OAuth2 Scopes In Go | 16 days ago |
+| [scope](https://github.com/SonicRoshan/scope) | 12 | Easily Manage OAuth2 Scopes In Go | 17 days ago |
 | [sessiongate-go](https://github.com/f0rmiga/sessiongate-go) | 9 | A driver for the SessionGate Redis module - easy session management using the Go language. | 3 years ago |
 | [cookiestxt](https://github.com/mengzhuo/cookiestxt) | 6 | cookiestxt implement parser of cookies txt format | 3 months ago |
-| [casbin](https://github.com/hsluoyz/casbin) | 1 | An authorization library that supports access control models like ACL, RBAC, ABAC in Golang | 12 days ago |
+| [casbin](https://github.com/hsluoyz/casbin) | 1 | An authorization library that supports access control models like ACL, RBAC, ABAC in Golang | 13 days ago |
 
 
