@@ -20,8 +20,8 @@ module.exports = [
         link: '/java/'
     },
     {
-        text: 'Visual Basic',
-        link: '/visual-basic/'
+        text: 'Golang',
+        link: '/go/'
     },
     {
         text: 'JavaScript',
@@ -31,7 +31,7 @@ module.exports = [
         text: 'Awesome More',
         items: [
           { text: 'PHP', link: '/php/' },
-          { text: 'Go', link: '/go/' },
+          { text: 'Visual Basic', link: '/visual-basic/' },
           { text: 'Updating', link: '/' }
         ]
     },
