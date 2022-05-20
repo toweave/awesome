@@ -3,7 +3,7 @@
 * A curated list of JavaScript frameworks, libraries, software and resources.
 * Inspired by Awesome.
 * If you see a package or project here that is no longer maintained or is not a good fit, please submit a issue to improve this file. Thank you!
-* Last Sync Time: Fri May 20 2022 10:38:59 GMT+0800 (中国标准时间)
+* Last Sync Time: Fri May 20 2022 11:41:19 GMT+0800 (中国标准时间)
 * Synchronize Every Week.
 #### Order by alphabetical and star count.
 
@@ -68,7 +68,7 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [react](https://github.com/facebook/react) | 188153 | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 2 hours ago |
+| [react](https://github.com/facebook/react) | 188155 | A declarative, efficient, and flexible JavaScript library for building user interfaces. | 3 hours ago |
 
 
 ### [React Tools](#react-tools)
@@ -76,19 +76,19 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [storybook](https://github.com/storybookjs/storybook) | 71034 | 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more! | 7 hours ago |
+| [storybook](https://github.com/storybookjs/storybook) | 71034 | 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more! | 8 hours ago |
 | [docz](https://github.com/doczjs/docz) | 22611 | ✍ It has never been so easy to document your things! | 3 days ago |
 | [react-loadable](https://github.com/jamiebuilds/react-loadable) | 16327 | :hourglass_flowing_sand: A higher order component for loading components with promises. | 3 months ago |
 | [reactotron](https://github.com/infinitered/reactotron) | 13568 | A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows. | 3 days ago |
 | [react-hot-loader](https://github.com/gaearon/react-hot-loader) | 12193 | Tweak React components in real time. (Deprecated: use Fast Refresh instead.) | 21 days ago |
 | [react-devtools](https://github.com/facebook/react-devtools) | 11004 | An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools. | 3 years ago |
 | [react-styleguidist](https://github.com/styleguidist/react-styleguidist) | 10354 | Isolated React component development environment with a living style guide | 3 days ago |
-| [why-did-you-render](https://github.com/welldone-software/why-did-you-render) | 8608 | why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.) | 3 days ago |
-| [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) | 7786 | React-specific linting rules for ESLint | an hour ago |
+| [why-did-you-render](https://github.com/welldone-software/why-did-you-render) | 8609 | why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.) | 3 days ago |
+| [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) | 7786 | React-specific linting rules for ESLint | 2 hours ago |
 | [react-cosmos](https://github.com/react-cosmos/react-cosmos) | 7511 | Sandbox for developing and testing UI components in isolation | 2 months ago |
 | [loadable-components](https://github.com/gregberge/loadable-components) | 6568 | The recommended Code Splitting library for React ✂️✨ | 23 days ago |
 | [eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) | 2791 | Static AST checker for a11y rules on JSX elements. | 19 days ago |
-| [axe-core-npm](https://github.com/dequelabs/axe-core-npm) | 348 |  | a day ago |
+| [axe-core-npm](https://github.com/dequelabs/axe-core-npm) | 348 |  | 2 days ago |
 | [dataformsjs](https://github.com/dataformsjs/dataformsjs) | 136 | 🌟 DataFormsJS 🌟 A minimal JavaScript Framework, standalone React and Web Components, and JSX Compiler for rapid development of high quality websites and single page applications. | 18 days ago |
 
 
@@ -97,9 +97,9 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [create-react-app](https://github.com/facebook/create-react-app) | 95083 | Set up a modern web app by running one command. | a day ago |
+| [create-react-app](https://github.com/facebook/create-react-app) | 95085 | Set up a modern web app by running one command. | a day ago |
 | [react-starter-kit](https://github.com/kriasoft/react-starter-kit) | 21192 | React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture | 10 days ago |
-| [create-react-library](https://github.com/transitive-bullshit/create-react-library) | 4665 | ⚡CLI for creating reusable react libraries. | a month ago |
+| [create-react-library](https://github.com/transitive-bullshit/create-react-library) | 4666 | ⚡CLI for creating reusable react libraries. | a month ago |
 
 
 ### [React Frameworks](#react-frameworks)
@@ -107,10 +107,10 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [next.js](https://github.com/vercel/next.js) | 86887 | The React Framework | 4 hours ago |
-| [gatsby](https://github.com/gatsbyjs/gatsby) | 52886 | Build blazing fast, modern apps and websites with React | an hour ago |
-| [react-admin](https://github.com/marmelab/react-admin) | 19700 | A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design | 9 hours ago |
-| [aleph.js](https://github.com/alephjs/aleph.js) | 4065 | The Full-stack Framework in Deno. | 7 hours ago |
+| [next.js](https://github.com/vercel/next.js) | 86887 | The React Framework | 5 hours ago |
+| [gatsby](https://github.com/gatsbyjs/gatsby) | 52886 | Build blazing fast, modern apps and websites with React | 5 minutes ago |
+| [react-admin](https://github.com/marmelab/react-admin) | 19700 | A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design | 10 hours ago |
+| [aleph.js](https://github.com/alephjs/aleph.js) | 4065 | The Full-stack Framework in Deno. | 41 minutes ago |
 
 
 ### [React Styling](#react-styling)
@@ -118,8 +118,8 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [styled-components](https://github.com/styled-components/styled-components) | 36580 | Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅 | 15 days ago |
-| [emotion](https://github.com/emotion-js/emotion) | 14924 | 👩‍🎤 CSS-in-JS library designed for high performance style composition | 14 hours ago |
+| [styled-components](https://github.com/styled-components/styled-components) | 36582 | Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅 | 15 days ago |
+| [emotion](https://github.com/emotion-js/emotion) | 14924 | 👩‍🎤 CSS-in-JS library designed for high performance style composition | 15 hours ago |
 | [radium](https://github.com/FormidableLabs/radium) | 7435 | A toolchain for React component styling. | 3 months ago |
 | [jss](https://github.com/cssinjs/jss) | 6722 | JSS is an authoring tool for CSS which uses JavaScript as a host language. | 25 days ago |
 | [aphrodite](https://github.com/Khan/aphrodite) | 5284 | Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation | 9 months ago |
@@ -130,7 +130,7 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [react-router](https://github.com/remix-run/react-router) | 46954 | Declarative routing for React | 8 hours ago |
+| [react-router](https://github.com/remix-run/react-router) | 46954 | Declarative routing for React | 9 hours ago |
 | [router](https://github.com/reach/router) | 6919 |  | 21 days ago |
 | [wouter](https://github.com/molefrog/wouter) | 4074 | 🥢 A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS. | 2 months ago |
 | [navi](https://github.com/frontarm/navi) | 2073 | 🧭 Declarative, asynchronous routing for React. | a month ago |
@@ -143,24 +143,24 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [ant-design](https://github.com/ant-design/ant-design) | 80342 | An enterprise-class UI design language and React UI library | 7 minutes ago |
-| [material-ui](https://github.com/mui/material-ui) | 78506 | MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design. | 2 minutes ago |
-| [chakra-ui](https://github.com/chakra-ui/chakra-ui) | 25999 | ⚡️ Simple, Modular & Accessible UI Components for your React Applications | 2 hours ago |
-| [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) | 20713 | Bootstrap components built with React | 5 hours ago |
-| [blueprint](https://github.com/palantir/blueprint) | 18940 | A React-based UI toolkit for the web | 14 hours ago |
-| [fluentui](https://github.com/microsoft/fluentui) | 13316 | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | an hour ago |
+| [ant-design](https://github.com/ant-design/ant-design) | 80342 | An enterprise-class UI design language and React UI library | 13 minutes ago |
+| [material-ui](https://github.com/mui/material-ui) | 78507 | MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design. | a minute ago |
+| [chakra-ui](https://github.com/chakra-ui/chakra-ui) | 26001 | ⚡️ Simple, Modular & Accessible UI Components for your React Applications | 40 minutes ago |
+| [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) | 20713 | Bootstrap components built with React | 6 hours ago |
+| [blueprint](https://github.com/palantir/blueprint) | 18941 | A React-based UI toolkit for the web | 15 hours ago |
+| [fluentui](https://github.com/microsoft/fluentui) | 13316 | Fluent UI web represents a collection of utilities, React components, and web components for building web applications. | 2 hours ago |
 | [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) | 12749 | The official Semantic-UI-React integration | 14 days ago |
-| [evergreen](https://github.com/segmentio/evergreen) | 11618 | 🌲 Evergreen React UI Framework by Segment | a day ago |
-| [reactstrap](https://github.com/reactstrap/reactstrap) | 10287 | Simple React Bootstrap 5 components | 13 hours ago |
-| [grommet](https://github.com/grommet/grommet) | 7899 | a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package | 2 hours ago |
+| [evergreen](https://github.com/segmentio/evergreen) | 11618 | 🌲 Evergreen React UI Framework by Segment | 2 days ago |
+| [reactstrap](https://github.com/reactstrap/reactstrap) | 10287 | Simple React Bootstrap 5 components | 14 hours ago |
+| [grommet](https://github.com/grommet/grommet) | 7899 | a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package | 3 hours ago |
 | [rebass](https://github.com/rebassjs/rebass) | 7722 | :atom_symbol: React primitive UI components built with styled-system. | a month ago |
-| [baseweb](https://github.com/uber/baseweb) | 7681 | A React Component library implementing the Base design language | 4 minutes ago |
-| [rsuite](https://github.com/rsuite/rsuite) | 6708 | 🧱 A suite of React components . | 12 hours ago |
-| [react-spectrum](https://github.com/adobe/react-spectrum) | 6480 | A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences. | 2 hours ago |
-| [ariakit](https://github.com/ariakit/ariakit) | 5832 | Toolkit for building accessible web apps with React | 5 hours ago |
-| [eui](https://github.com/elastic/eui) | 3550 | Elastic UI Framework 🙌 | 4 hours ago |
-| [ring-ui](https://github.com/JetBrains/ring-ui) | 2954 | A collection of JetBrains Web UI components | 15 hours ago |
-| [primereact](https://github.com/primefaces/primereact) | 2741 | The Most Complete React UI Component Library | 14 hours ago |
+| [baseweb](https://github.com/uber/baseweb) | 7681 | A React Component library implementing the Base design language | an hour ago |
+| [rsuite](https://github.com/rsuite/rsuite) | 6708 | 🧱 A suite of React components . | 13 hours ago |
+| [react-spectrum](https://github.com/adobe/react-spectrum) | 6480 | A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences. | an hour ago |
+| [ariakit](https://github.com/ariakit/ariakit) | 5833 | Toolkit for building accessible web apps with React | an hour ago |
+| [eui](https://github.com/elastic/eui) | 3550 | Elastic UI Framework 🙌 | 5 hours ago |
+| [ring-ui](https://github.com/JetBrains/ring-ui) | 2954 | A collection of JetBrains Web UI components | 16 hours ago |
+| [primereact](https://github.com/primefaces/primereact) | 2740 | The Most Complete React UI Component Library | 15 hours ago |
 | [react-bulma-components](https://github.com/couds/react-bulma-components) | 1144 | React components for Bulma framework | 8 days ago |
 | [bumbag-ui](https://github.com/jxom/bumbag-ui) | 973 | Build themeable React & React Native applications with your Bumbag 👝 | 9 days ago |
 | [react-bulma](https://github.com/kulakowka/react-bulma) | 464 | React.js components for Modern CSS framework based on Flexbox  | 3 years ago |
@@ -172,41 +172,41 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [awesome-react-components](https://github.com/brillout/awesome-react-components) | 29796 | Curated List of React Components & Libraries. | 10 hours ago |
-| [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) | 26989 | Beautiful and accessible drag and drop for lists with React | 12 hours ago |
-| [react-select](https://github.com/JedWatson/react-select) | 24607 | The Select Component for React.js | 12 hours ago |
+| [awesome-react-components](https://github.com/brillout/awesome-react-components) | 29797 | Curated List of React Components & Libraries. | 11 hours ago |
+| [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) | 26990 | Beautiful and accessible drag and drop for lists with React | 13 hours ago |
+| [react-select](https://github.com/JedWatson/react-select) | 24607 | The Select Component for React.js | 13 hours ago |
 | [react-virtualized](https://github.com/bvaughn/react-virtualized) | 23624 | React components for efficiently rendering large lists and tabular data | a month ago |
-| [react-spring](https://github.com/pmndrs/react-spring) | 23118 | ✌️ A spring physics based React animation library | 5 hours ago |
-| [react-dnd](https://github.com/react-dnd/react-dnd) | 17615 | Drag and Drop for React | 10 days ago |
+| [react-spring](https://github.com/pmndrs/react-spring) | 23121 | ✌️ A spring physics based React animation library | 6 hours ago |
+| [react-dnd](https://github.com/react-dnd/react-dnd) | 17616 | Drag and Drop for React | 10 days ago |
 | [cleave.js](https://github.com/nosir/cleave.js) | 17293 | Format input text content when you are typing... | 3 months ago |
-| [react-table](https://github.com/TanStack/react-table) | 17146 | 🤖 Headless UI for building powerful tables & datagrids for TS/JS, React, Vue, Solid | 6 hours ago |
+| [react-table](https://github.com/TanStack/react-table) | 17146 | 🤖 Headless UI for building powerful tables & datagrids for TS/JS, React, Vue, Solid | 7 hours ago |
 | [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) | 15726 | A draggable and resizable grid layout with responsive breakpoints, for React. | 3 days ago |
-| [motion](https://github.com/framer/motion) | 14568 | Open source, production-ready animation and gesture library for React | 15 days ago |
-| [formatjs](https://github.com/formatjs/formatjs) | 13134 | The monorepo home to all of the FormatJS related libraries, most notably react-intl. | an hour ago |
+| [motion](https://github.com/framer/motion) | 14568 | Open source, production-ready animation and gesture library for React | 16 days ago |
+| [formatjs](https://github.com/formatjs/formatjs) | 13134 | The monorepo home to all of the FormatJS related libraries, most notably react-intl. | 2 hours ago |
 | [react-window](https://github.com/bvaughn/react-window) | 12473 | React components for efficiently rendering large lists and tabular data | 23 days ago |
 | [react-dates](https://github.com/react-dates/react-dates) | 11827 | An easily internationalizable, mobile-friendly datepicker library for the web | 8 days ago |
-| [react-slick](https://github.com/akiran/react-slick) | 10370 | React carousel component  | 7 hours ago |
+| [react-slick](https://github.com/akiran/react-slick) | 10370 | React carousel component  | 8 hours ago |
 | [text-mask](https://github.com/text-mask/text-mask) | 8129 | Input mask for React, Angular, Ember, Vue, & plain JavaScript | 3 months ago |
 | [react-draggable](https://github.com/react-grid-layout/react-draggable) | 7555 | React draggable component | 23 days ago |
-| [react-i18next](https://github.com/i18next/react-i18next) | 7333 | Internationalization for react done right. Using the i18next i18n ecosystem. | 6 days ago |
+| [react-i18next](https://github.com/i18next/react-i18next) | 7334 | Internationalization for react done right. Using the i18next i18n ecosystem. | 6 days ago |
 | [react-modal](https://github.com/reactjs/react-modal) | 6932 | Accessible modal dialog component for React | 21 days ago |
 | [react-datepicker](https://github.com/Hacker0x01/react-datepicker) | 6545 | A simple and reusable datepicker component for React | a day ago |
-| [react-big-calendar](https://github.com/jquense/react-big-calendar) | 5670 | gcal/outlook like calendar component | a day ago |
+| [react-big-calendar](https://github.com/jquense/react-big-calendar) | 5670 | gcal/outlook like calendar component | 2 days ago |
 | [react-data-grid](https://github.com/adazzle/react-data-grid) | 5345 | Feature-rich and customizable data grid React component | a day ago |
 | [react-joyride](https://github.com/gilbarbara/react-joyride) | 4538 | Create guided tours in your apps | 6 days ago |
 | [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) | 3505 | Font Awesome React component | 21 days ago |
-| [tsparticles](https://github.com/matteobruni/tsparticles) | 3294 | tsParticles - Easily create highly customizable particles, confetti and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components. | 44 minutes ago |
-| [qrcode.react](https://github.com/zpao/qrcode.react) | 2871 | A <QRCode/> component for use with React. | 4 days ago |
+| [tsparticles](https://github.com/matteobruni/tsparticles) | 3294 | tsParticles - Easily create highly customizable particles, confetti and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components. | 2 hours ago |
+| [qrcode.react](https://github.com/zpao/qrcode.react) | 2872 | A <QRCode/> component for use with React. | 4 days ago |
 | [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) | 2802 | Create skeleton screens that automatically adapt to your app! | a month ago |
-| [react-rnd](https://github.com/bokuweb/react-rnd) | 2762 | 🖱  A resizable and draggable component for React. | 8 hours ago |
+| [react-rnd](https://github.com/bokuweb/react-rnd) | 2762 | 🖱  A resizable and draggable component for React. | 9 hours ago |
 | [react-popper](https://github.com/floating-ui/react-popper) | 2268 | 🍿⚛Official React library to use Popper, the positioning library | 17 days ago |
 | [cookies](https://github.com/reactivestack/cookies) | 2265 | Load and save cookies within your React application | 4 days ago |
 | [react-hotkeys](https://github.com/greena13/react-hotkeys) | 1996 | Declarative hotkey and focus area management for React | 3 months ago |
 | [react-list](https://github.com/caseywebdev/react-list) | 1901 | :scroll: A versatile infinite scroll React component. | 2 months ago |
 | [react-device-detect](https://github.com/duskload/react-device-detect) | 1896 | Detect device, and render view according to detected device type. | a month ago |
 | [react-colorful](https://github.com/omgovich/react-colorful) | 1867 | 🎨 A tiny (2,8 KB) color picker component for React and Preact apps | 3 months ago |
-| [react-resizable](https://github.com/react-grid-layout/react-resizable) | 1796 | A simple React component that is resizable with a handle.  | 21 days ago |
-| [re-resizable](https://github.com/bokuweb/re-resizable) | 1684 | 📏  A resizable component for React. | 7 hours ago |
+| [react-resizable](https://github.com/react-grid-layout/react-resizable) | 1797 | A simple React component that is resizable with a handle.  | 21 days ago |
+| [re-resizable](https://github.com/bokuweb/re-resizable) | 1684 | 📏  A resizable component for React. | 8 hours ago |
 | [rheostat](https://github.com/airbnb/rheostat) | 1658 | Rheostat is a www, mobile, and accessible slider component built with React | 7 months ago |
 | [react-spinkit](https://github.com/KyleAMathews/react-spinkit) | 1467 | A collection of loading indicators animated with CSS for React | a month ago |
 | [react-spaces](https://github.com/aeagle/react-spaces) | 1051 | React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces. | 3 months ago |
@@ -217,7 +217,7 @@
 | [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) | 596 | :sparkles: A sortable and resizable pane component for React. | 4 days ago |
 | [react-gtm](https://github.com/alinemorelli/react-gtm) | 518 | React Google Tag Manager | 21 days ago |
 | [react-keydown](https://github.com/glortho/react-keydown) | 499 | Lightweight keydown wrapper for React components | 3 months ago |
-| [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) | 465 | 👀  Easily apply tilt hover effect on React components - lightweight/zero dependencies (3kB) | 7 hours ago |
+| [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) | 465 | 👀  Easily apply tilt hover effect on React components - lightweight/zero dependencies (3kB) | 8 hours ago |
 | [react-truncate-markup](https://github.com/parsable/react-truncate-markup) | 133 | ✂️ React component for truncating JSX markup | a year ago |
 | [react-searchbox-awesome](https://github.com/axmz/react-searchbox-awesome) | 22 | The coolest searchbox for React.js! | 2 months ago |
 
@@ -227,10 +227,10 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [jest](https://github.com/facebook/jest) | 39011 | Delightful JavaScript Testing. | 8 hours ago |
+| [jest](https://github.com/facebook/jest) | 39011 | Delightful JavaScript Testing. | 9 hours ago |
 | [enzyme](https://github.com/enzymejs/enzyme) | 19866 | JavaScript Testing utilities for React | 2 months ago |
 | [react-testing-library](https://github.com/testing-library/react-testing-library) | 16406 | 🐐 Simple and complete React DOM testing utilities that encourage good testing practices. | 2 days ago |
-| [majestic](https://github.com/Raathigesh/majestic) | 7334 | ⚡ Zero config GUI for Jest | 16 days ago |
+| [majestic](https://github.com/Raathigesh/majestic) | 7334 | ⚡ Zero config GUI for Jest | 17 days ago |
 | [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) | 4518 | 🐏 Simple and complete React hooks testing utilities that encourage good testing practices. | 2 days ago |
 
 
@@ -239,12 +239,12 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [uppy](https://github.com/transloadit/uppy) | 25246 | The next open source file uploader for web browsers :dog:  | 6 hours ago |
-| [slate](https://github.com/ianstormtaylor/slate) | 24383 | A completely customizable framework for building rich text editors. (Currently in beta.) | 7 hours ago |
-| [draft-js](https://github.com/facebook/draft-js) | 21716 | A React framework for building text editors. | 13 hours ago |
+| [uppy](https://github.com/transloadit/uppy) | 25245 | The next open source file uploader for web browsers :dog:  | 7 hours ago |
+| [slate](https://github.com/ianstormtaylor/slate) | 24383 | A completely customizable framework for building rich text editors. (Currently in beta.) | 8 hours ago |
+| [draft-js](https://github.com/facebook/draft-js) | 21716 | A React framework for building text editors. | 14 hours ago |
 | [react-motion](https://github.com/chenglou/react-motion) | 20860 | A spring that solves your animation problems. | 3 months ago |
 | [react-helmet](https://github.com/nfl/react-helmet) | 16259 | A document head manager for React | 3 days ago |
-| [bit](https://github.com/teambit/bit) | 15191 | A tool for composable software development. | 2 hours ago |
+| [bit](https://github.com/teambit/bit) | 15191 | A tool for composable software development. | 12 minutes ago |
 | [riot](https://github.com/riot/riot) | 14662 | Simple and elegant component-based UI library | 2 days ago |
 | [react-desktop](https://github.com/gabrielbull/react-desktop) | 9332 | React UI Components for macOS High Sierra and Windows 10 | 3 months ago |
 | [react-toolbox](https://github.com/react-toolbox/react-toolbox) | 8701 | A set of React components implementing Google's Material Design specification with the power of CSS Modules | 5 months ago |
@@ -252,8 +252,8 @@
 | [react-responsive](https://github.com/yocontra/react-responsive) | 6146 | CSS media queries in react - for responsive design, and more. | 9 days ago |
 | [react-snap](https://github.com/stereobooster/react-snap) | 4707 | 👻 Zero-configuration framework-agnostic static prerendering for SPAs | a month ago |
 | [reactivesearch](https://github.com/appbaseio/reactivesearch) | 4603 | Search UI components for React and Vue: powered by appbase.io / Elasticsearch | 2 days ago |
-| [react-instantsearch](https://github.com/algolia/react-instantsearch) | 1789 | ⚡️ Lightning-fast search for React and React Native applications, by Algolia. | 19 hours ago |
-| [reapop](https://github.com/LouisBarranqueiro/reapop) | 1302 | :postbox: A simple and customizable React notifications system | 6 hours ago |
+| [react-instantsearch](https://github.com/algolia/react-instantsearch) | 1789 | ⚡️ Lightning-fast search for React and React Native applications, by Algolia. | 20 hours ago |
+| [reapop](https://github.com/LouisBarranqueiro/reapop) | 1302 | :postbox: A simple and customizable React notifications system | 7 hours ago |
 | [react-magic](https://github.com/reactjs/react-magic) | 896 | Automatically AJAXify plain HTML with the power of React. It's magic! | 3 months ago |
 | [refract](https://github.com/fanduel-oss/refract) | 812 | Harness the power of reactive programming to supercharge your components | 3 days ago |
 | [react-extras](https://github.com/sindresorhus/react-extras) | 689 | Useful components and utilities for working with React | 3 months ago |
@@ -274,11 +274,11 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [react-three-fiber](https://github.com/pmndrs/react-three-fiber) | 17975 | 🇨🇭 A React renderer for Three.js | 8 hours ago |
+| [react-three-fiber](https://github.com/pmndrs/react-three-fiber) | 17975 | 🇨🇭 A React renderer for Three.js | 9 hours ago |
 | [react-dropzone](https://github.com/react-dropzone/react-dropzone) | 8950 | Simple HTML5 drag-drop zone with React.js. | 12 days ago |
 | [om](https://github.com/omcljs/om) | 6669 | ClojureScript interface to Facebook's React | 2 years ago |
 | [react-rails](https://github.com/reactjs/react-rails) | 6480 | Integrate React.js with Rails views and controllers, the asset pipeline, or webpacker. | a day ago |
-| [reagent](https://github.com/reagent-project/reagent) | 4448 | A minimalistic ClojureScript interface to React.js | 14 hours ago |
+| [reagent](https://github.com/reagent-project/reagent) | 4448 | A minimalistic ClojureScript interface to React.js | 15 hours ago |
 | [reactfire](https://github.com/FirebaseExtended/reactfire) | 3027 | Hooks, Context Providers, and Components that make it easy to interact with Firebase. | 3 days ago |
 | [express-react-views](https://github.com/reactjs/express-react-views) | 2744 | This is an Express view engine which renders React components on server. It renders static markup and *does not* support mounting those views on the client. | 4 months ago |
 | [ngReact](https://github.com/ngReact/ngReact) | 2630 | Use React Components in Angular | 3 years ago |
@@ -287,7 +287,7 @@
 | [react-three-legacy](https://github.com/Izzimach/react-three-legacy) | 1533 | React bindings to create and control a 3D scene using three.js | 2 years ago |
 | [react-three-renderer](https://github.com/toxicFork/react-three-renderer) | 1496 | Render into a three.js canvas using React. | 2 years ago |
 | [react.backbone](https://github.com/clayallsopp/react.backbone) | 844 | Plugin for React to make Backbone migration easier | 4 years ago |
-| [react-masonry-css](https://github.com/paulcollett/react-masonry-css) | 695 | React Masonry layout component powered by CSS, dependancy free | 3 months ago |
+| [react-masonry-css](https://github.com/paulcollett/react-masonry-css) | 696 | React Masonry layout component powered by CSS, dependancy free | 3 months ago |
 | [rx-react](https://github.com/fdecampredon/rx-react) | 621 | ReactJS bindings for RxJS | 6 years ago |
 | [react-recaptcha](https://github.com/appleboy/react-recaptcha) | 616 | A react.js reCAPTCHA for Google | a month ago |
 | [react-jade](https://github.com/pugjs/react-jade) | 554 | DEPRECATED, see | 5 years ago |
@@ -330,15 +330,15 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [react-query](https://github.com/tannerlinsley/react-query) | 27361 | ⚛️ Hooks for fetching, caching and updating asynchronous data in React | 21 hours ago |
-| [mobx](https://github.com/mobxjs/mobx) | 25250 | Simple, scalable state management. | 9 hours ago |
-| [xstate](https://github.com/statelyai/xstate) | 19993 | State machines and statecharts for the modern web. | 12 hours ago |
-| [zustand](https://github.com/pmndrs/zustand) | 17028 | 🐻 Bear necessities for state management in React | 5 days ago |
-| [Recoil](https://github.com/facebookexperimental/Recoil) | 16731 | Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React. | 3 hours ago |
+| [react-query](https://github.com/tannerlinsley/react-query) | 27362 | ⚛️ Hooks for fetching, caching and updating asynchronous data in React | a day ago |
+| [mobx](https://github.com/mobxjs/mobx) | 25252 | Simple, scalable state management. | 11 hours ago |
+| [xstate](https://github.com/statelyai/xstate) | 19993 | State machines and statecharts for the modern web. | 13 hours ago |
+| [zustand](https://github.com/pmndrs/zustand) | 17031 | 🐻 Bear necessities for state management in React | 5 days ago |
+| [Recoil](https://github.com/facebookexperimental/Recoil) | 16733 | Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React. | 4 hours ago |
 | [easy-peasy](https://github.com/ctrlplusb/easy-peasy) | 4706 | Vegetarian friendly state for React | 19 days ago |
-| [effector](https://github.com/effector/effector) | 3722 | Business logic with ease ☄️ | 17 hours ago |
+| [effector](https://github.com/effector/effector) | 3722 | Business logic with ease ☄️ | 18 hours ago |
 | [reactn](https://github.com/CharlesStover/reactn) | 1914 | React, but with built-in global state management. | 3 months ago |
-| [hookstate](https://github.com/avkonst/hookstate) | 1330 | The simple but very powerful and incredibly fast state management for React that is based on hooks | 20 days ago |
+| [hookstate](https://github.com/avkonst/hookstate) | 1330 | The simple but very powerful and incredibly fast state management for React that is based on hooks | 21 days ago |
 
 
 ### [React Renderers](#react-renderers)
@@ -346,13 +346,13 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [ink](https://github.com/vadimdemedes/ink) | 18423 | 🌈 React for interactive command-line apps | 3 days ago |
-| [react-three-fiber](https://github.com/pmndrs/react-three-fiber) | 17975 | 🇨🇭 A React renderer for Three.js | 8 hours ago |
+| [ink](https://github.com/vadimdemedes/ink) | 18424 | 🌈 React for interactive command-line apps | 3 days ago |
+| [react-three-fiber](https://github.com/pmndrs/react-three-fiber) | 17975 | 🇨🇭 A React renderer for Three.js | 9 hours ago |
 | [react-sketchapp](https://github.com/airbnb/react-sketchapp) | 14899 | render React components to Sketch ⚛️💎 | 2 months ago |
-| [remotion](https://github.com/remotion-dev/remotion) | 13006 | 🎥      Create videos programmatically in React | 9 hours ago |
-| [react-pdf](https://github.com/diegomura/react-pdf) | 10636 | 📄  Create PDF files using React | 17 hours ago |
+| [remotion](https://github.com/remotion-dev/remotion) | 13006 | 🎥      Create videos programmatically in React | 10 hours ago |
+| [react-pdf](https://github.com/diegomura/react-pdf) | 10636 | 📄  Create PDF files using React | 18 hours ago |
 | [react-blessed](https://github.com/Yomguithereal/react-blessed) | 4277 | A react renderer for blessed. | a year ago |
-| [react-figma](https://github.com/react-figma/react-figma) | 2008 | ⚛️ A React renderer for Figma | 6 hours ago |
+| [react-figma](https://github.com/react-figma/react-figma) | 2008 | ⚛️ A React renderer for Figma | 7 hours ago |
 | [react-nil](https://github.com/pmndrs/react-nil) | 620 | ⃝ A react null renderer | a year ago |
 
 
@@ -361,9 +361,9 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [formik](https://github.com/jaredpalmer/formik) | 30394 | Build forms in React, without the tears 😭  | 9 days ago |
+| [formik](https://github.com/jaredpalmer/formik) | 30395 | Build forms in React, without the tears 😭  | 9 days ago |
 | [react-hook-form](https://github.com/react-hook-form/react-hook-form) | 28270 | 📋 React Hooks for form state management and validation (Web + React Native) | 2 days ago |
-| [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) | 11440 | A React component for building Web forms from JSON Schema. | 14 minutes ago |
+| [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) | 11440 | A React component for building Web forms from JSON Schema. | an hour ago |
 | [formily](https://github.com/alibaba/formily) | 7680 | Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3 | 4 days ago |
 | [react-final-form](https://github.com/final-form/react-final-form) | 6944 | 🏁 High performance subscription-based form state management for React | 2 months ago |
 | [unform](https://github.com/unform/unform) | 4425 | Performance-focused API for React forms 🚀 | 3 days ago |
@@ -406,8 +406,8 @@
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
 | [immutable-js](https://github.com/immutable-js/immutable-js) | 31983 | Immutable persistent data collections for Javascript which increase efficiency and simplicity. | 11 days ago |
-| [immer](https://github.com/immerjs/immer) | 22856 | Create the next immutable state by mutating the current one | 9 hours ago |
-| [rxdb](https://github.com/pubkey/rxdb) | 17487 | 🔄 A client side, offline-first, reactive database for JavaScript Applications | an hour ago |
+| [immer](https://github.com/immerjs/immer) | 22856 | Create the next immutable state by mutating the current one | 10 hours ago |
+| [rxdb](https://github.com/pubkey/rxdb) | 17488 | 🔄 A client side, offline-first, reactive database for JavaScript Applications | 2 hours ago |
 | [WatermelonDB](https://github.com/Nozbe/WatermelonDB) | 8319 | 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️ | 2 days ago |
 | [baobab](https://github.com/Yomguithereal/baobab) | 3117 | JavaScript & TypeScript persistent and optionally immutable data tree with cursors. | 9 days ago |
 | [ReSub](https://github.com/microsoft/ReSub) | 610 | A library for writing React components that automatically manage subscriptions to data sources simply by accessing them | 2 months ago |
@@ -422,10 +422,10 @@
 | [google-map-react](https://github.com/google-map-react/google-map-react) | 5692 | Google map library for react that allows rendering components as markers :tada: | 7 days ago |
 | [react-google-maps](https://github.com/tomchentw/react-google-maps) | 4502 | React.js Google Maps integration component | a month ago |
 | [pigeon-maps](https://github.com/mariusandra/pigeon-maps) | 3238 | ReactJS Maps without external dependencies | 17 days ago |
-| [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) | 1723 | A React binding of mapbox-gl-js | 15 hours ago |
+| [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) | 1723 | A React binding of mapbox-gl-js | 16 hours ago |
 | [google-maps-react](https://github.com/fullstackreact/google-maps-react) | 1560 | Companion code to the "How to Write a Google Maps React Component" Tutorial | 22 days ago |
 | [react-gmaps](https://github.com/MicheleBertoli/react-gmaps) | 314 | A Google Maps component for React.js | a year ago |
-| [react-geo](https://github.com/terrestris/react-geo) | 252 | A set of geo related modules to use in combination with React, Ant Design and OpenLayers. | 20 hours ago |
+| [react-geo](https://github.com/terrestris/react-geo) | 252 | A set of geo related modules to use in combination with React, Ant Design and OpenLayers. | 21 hours ago |
 | [react-googlemaps](https://github.com/pieterv/react-googlemaps) | 222 | A declarative React interface to Google Maps | 6 years ago |
 | [react-maps](https://github.com/matnel/react-maps) | 44 |  | 8 years ago |
 
@@ -435,10 +435,10 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [recharts](https://github.com/recharts/recharts) | 18242 | Redefined chart library built with React and D3 | 10 hours ago |
-| [visx](https://github.com/airbnb/visx) | 15211 | 🐯 visx , visualization components | 9 days ago |
-| [nivo](https://github.com/plouc/nivo) | 10132 | nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries | 14 hours ago |
-| [victory](https://github.com/FormidableLabs/victory) | 9608 | A collection of composable React components for building interactive data visualizations | 3 hours ago |
+| [recharts](https://github.com/recharts/recharts) | 18242 | Redefined chart library built with React and D3 | 11 hours ago |
+| [visx](https://github.com/airbnb/visx) | 15212 | 🐯 visx , visualization components | 9 days ago |
+| [nivo](https://github.com/plouc/nivo) | 10132 | nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries | 15 hours ago |
+| [victory](https://github.com/FormidableLabs/victory) | 9608 | A collection of composable React components for building interactive data visualizations | 4 hours ago |
 | [react-vis](https://github.com/uber/react-vis) | 8237 | Data Visualization Components | 21 days ago |
 | [echarts-for-react](https://github.com/hustcc/echarts-for-react) | 3645 | ⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。 | 22 days ago |
 | [react-apexcharts](https://github.com/apexcharts/react-apexcharts) | 928 | 📊 React Component for ApexCharts | 2 months ago |
@@ -450,17 +450,17 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [react-native](https://github.com/facebook/react-native) | 102783 | A framework for building native applications using React | 44 minutes ago |
+| [react-native](https://github.com/facebook/react-native) | 102783 | A framework for building native applications using React | 2 hours ago |
 | [awesome-react-native](https://github.com/jondot/awesome-react-native) | 31391 | Awesome React Native components, news, tools, and learning material! | 12 days ago |
 | [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) | 15765 | Customizable Icons for React Native with support for image source and full styling. | 2 months ago |
 | [ignite](https://github.com/infinitered/ignite) | 13831 | Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more! | 3 days ago |
 | [create-react-native-app](https://github.com/expo/create-react-native-app) | 12963 | Create React Native apps that run on iOS, Android, and web | 24 days ago |
-| [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) | 11653 | 💬 The most complete chat UI for React Native | 20 days ago |
+| [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) | 11653 | 💬 The most complete chat UI for React Native | 21 days ago |
 | [react-native-code-push](https://github.com/microsoft/react-native-code-push) | 8030 | React Native module for CodePush | 3 days ago |
 | [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) | 6815 | 🚩 FastImage, performant React Native image component. | a month ago |
 | [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) | 5757 | Device Information for React Native iOS and Android | 14 days ago |
-| [realm-js](https://github.com/realm/realm-js) | 4829 |  Realm is a mobile database: an alternative to SQLite & key-value stores | 11 hours ago |
-| [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) | 4808 | Declarative API exposing platform native touch and gesture system to React Native. | 16 hours ago |
+| [realm-js](https://github.com/realm/realm-js) | 4829 |  Realm is a mobile database: an alternative to SQLite & key-value stores | 12 hours ago |
+| [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) | 4808 | Declarative API exposing platform native touch and gesture system to React Native. | 17 hours ago |
 | [recyclerlistview](https://github.com/Flipkart/recyclerlistview) | 4329 | High performance listview for React Native and web! | 3 days ago |
 | [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) | 3612 | Hacker News iOS and Android App - Made with React Native. | 2 months ago |
 | [react-native-fbsdk](https://github.com/facebookarchive/react-native-fbsdk) | 3002 | A React Native wrapper around the Facebook SDKs for Android and iOS.  Provides access to Facebook login, sharing, graph requests, app events etc. | a year ago |
@@ -476,7 +476,7 @@
 | [ziliun-react-native](https://github.com/sonnylazuardi/ziliun-react-native) | 287 | Ziliun article reader android app built with React Native | 6 years ago |
 | [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view) | 184 | An unified React Native Picker Modal component for iOS and Android. | 21 days ago |
 | [NBAreact](https://github.com/jbkuczma/NBAreact) | 107 | 🏀 iOS and Android NBA app created with React Native | 4 years ago |
-| [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) | 82 | An easy way to integrate your React (or Preact) app into React Native app with WebView. | 5 hours ago |
+| [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) | 82 | An easy way to integrate your React (or Preact) app into React Native app with WebView. | 6 hours ago |
 | [SplashWalls](https://github.com/nashvail/SplashWalls) | 74 | iOS Wallpaper downloading app created in React Native. | 6 years ago |
 | [timetable](https://github.com/EarlGeorge/timetable) | 51 | Bus Timetable app React Native | 21 days ago |
 | [uncompress-react-native](https://github.com/didisouzacosta/uncompress-react-native) | 35 | Simple library to decompress files .zip, .rar, .cbz, .cbr in React Native. | 3 days ago |
@@ -487,19 +487,19 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [redux](https://github.com/reduxjs/redux) | 58057 | Predictable state container for JavaScript apps | 2 minutes ago |
-| [redux-saga](https://github.com/redux-saga/redux-saga) | 22191 | An alternative side effect model for Redux apps | 7 days ago |
-| [react-redux](https://github.com/reduxjs/react-redux) | 22122 | Official React bindings for Redux | 8 days ago |
+| [redux](https://github.com/reduxjs/redux) | 58059 | Predictable state container for JavaScript apps | an hour ago |
+| [redux-saga](https://github.com/redux-saga/redux-saga) | 22192 | An alternative side effect model for Redux apps | 7 days ago |
+| [react-redux](https://github.com/reduxjs/react-redux) | 22123 | Official React bindings for Redux | 8 days ago |
 | [normalizr](https://github.com/paularmstrong/normalizr) | 20867 | Normalizes nested JSON according to a schema | 2 months ago |
 | [reselect](https://github.com/reduxjs/reselect) | 18617 | Selector library for Redux | 18 days ago |
 | [redux-thunk](https://github.com/reduxjs/redux-thunk) | 17147 | Thunk middleware for Redux | 2 months ago |
-| [redux-devtools](https://github.com/reduxjs/redux-devtools) | 12730 | DevTools for Redux with hot reloading, action replay, and customizable UI | 6 hours ago |
+| [redux-devtools](https://github.com/reduxjs/redux-devtools) | 12730 | DevTools for Redux with hot reloading, action replay, and customizable UI | 7 hours ago |
 | [redux-form](https://github.com/redux-form/redux-form) | 12593 | A Higher Order Component using react-redux to keep form state in a Redux store | 16 days ago |
 | [redux-persist](https://github.com/rt2zz/redux-persist) | 12074 | persist and rehydrate a redux store | 21 days ago |
 | [awesome-redux](https://github.com/xgrommx/awesome-redux) | 11952 | Awesome list of Redux examples and middlewares | 7 months ago |
 | [redux-observable](https://github.com/redux-observable/redux-observable) | 7797 | RxJS middleware for action side effects in Redux using "Epics" | 3 days ago |
 | [redux-toolkit](https://github.com/reduxjs/redux-toolkit) | 7785 | The official, opinionated, batteries-included toolset for efficient Redux development | 4 days ago |
-| [connected-react-router](https://github.com/supasate/connected-react-router) | 4693 | A Redux binding for React Router v4 | 9 days ago |
+| [connected-react-router](https://github.com/supasate/connected-react-router) | 4694 | A Redux binding for React Router v4 | 9 days ago |
 | [redux-undo](https://github.com/omnidan/redux-undo) | 2776 | :recycle: higher order reducer to add undo/redo functionality to redux state containers | 3 months ago |
 
 
@@ -508,15 +508,15 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [graphql-js](https://github.com/graphql/graphql-js) | 18754 | A reference implementation of GraphQL for JavaScript | 3 hours ago |
+| [graphql-js](https://github.com/graphql/graphql-js) | 18754 | A reference implementation of GraphQL for JavaScript | 4 hours ago |
 | [graphql-spec](https://github.com/graphql/graphql-spec) | 13749 | GraphQL is a query language and execution engine tied to any backend service. | 6 days ago |
 | [graphql-spec](https://github.com/graphql/graphql-spec) | 13749 | GraphQL is a query language and execution engine tied to any backend service. | 6 days ago |
 | [graphql](https://github.com/graphql-go/graphql) | 8514 | An implementation of GraphQL for Go / Golang | 14 days ago |
 | [graphql-playground](https://github.com/graphql/graphql-playground) | 7977 | 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration) | 18 days ago |
 | [graphene](https://github.com/graphql-python/graphene) | 7207 | GraphQL framework for Python | 13 days ago |
 | [express-graphql](https://github.com/graphql/express-graphql) | 6291 | Create a GraphQL HTTP server with Express. | a month ago |
-| [graphql-java](https://github.com/graphql-java/graphql-java) | 5505 | GraphQL Java implementation | 3 hours ago |
-| [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) | 5215 | GraphQL for .NET | 8 hours ago |
+| [graphql-java](https://github.com/graphql-java/graphql-java) | 5505 | GraphQL Java implementation | 4 hours ago |
+| [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) | 5215 | GraphQL for .NET | 9 hours ago |
 | [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) | 5058 | Ruby implementation of GraphQL  | a day ago |
 | [juniper](https://github.com/graphql-rust/juniper) | 4510 | GraphQL server library for Rust | 3 days ago |
 | [graphql-php](https://github.com/webonyx/graphql-php) | 4315 | A PHP port of GraphQL reference implementation | 3 days ago |
@@ -529,7 +529,7 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [relay](https://github.com/facebook/relay) | 16945 | Relay is a JavaScript framework for building data-driven React applications. | 7 hours ago |
+| [relay](https://github.com/facebook/relay) | 16945 | Relay is a JavaScript framework for building data-driven React applications. | 8 hours ago |
 | [jscodeshift](https://github.com/facebook/jscodeshift) | 7359 | A JavaScript codemod toolkit. | 2 days ago |
 | [graphql-relay-js](https://github.com/graphql/graphql-relay-js) | 1462 | A library to help construct a graphql-js server supporting react-relay. | 2 months ago |
 | [react-router-relay](https://github.com/relay-tools/react-router-relay) | 560 | [Deprecated] Relay Classic integration for React Router | 3 years ago |
@@ -541,15 +541,15 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [kibana](https://github.com/elastic/kibana) | 17443 | Your window into the Elastic Stack | 13 minutes ago |
-| [spectrum](https://github.com/withspectrum/spectrum) | 10502 | Simple, powerful online communities. | 3 days ago |
+| [kibana](https://github.com/elastic/kibana) | 17443 | Your window into the Elastic Stack | 8 minutes ago |
+| [spectrum](https://github.com/withspectrum/spectrum) | 10504 | Simple, powerful online communities. | 3 days ago |
 | [webamp](https://github.com/captbaritone/webamp) | 8581 | Winamp 2 reimplemented for the browser | 10 days ago |
 | [overreacted.io](https://github.com/gaearon/overreacted.io) | 6450 | Personal blog by Dan Abramov. | a month ago |
 | [debugger](https://github.com/firefox-devtools/debugger) | 4600 | The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠 | a year ago |
 | [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) | 4289 | Hacker News clone rewritten with universal JavaScript, using React and GraphQL. | a month ago |
 | [dnote](https://github.com/dnote/dnote) | 2296 | A simple command line notebook for programmers | 10 days ago |
 | [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) | 1907 | 🛍️ Simple ecommerce cart application built with Typescript and React | 3 days ago |
-| [mattermost-webapp](https://github.com/mattermost/mattermost-webapp) | 1701 | Webapp of Mattermost server: https://github.com/mattermost/mattermost-server | 2 hours ago |
+| [mattermost-webapp](https://github.com/mattermost/mattermost-webapp) | 1701 | Webapp of Mattermost server: https://github.com/mattermost/mattermost-server | 3 hours ago |
 | [react-reduction](https://github.com/reduction-admin/react-reduction) | 1345 | React Reduction - Free Admin Template Built with React and Bootstrap4 | a month ago |
 | [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) | 878 | Responsive React 'The Movie Database' (TMDb) App | a year ago |
 
@@ -570,9 +570,9 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [mini-vue](https://github.com/cuixiaorui/mini-vue) | 6528 | 实现最简 vue3 模型( Help you learn more efficiently vue3 source code ) | 5 days ago |
+| [mini-vue](https://github.com/cuixiaorui/mini-vue) | 6532 | 实现最简 vue3 模型( Help you learn more efficiently vue3 source code ) | 5 days ago |
 | [vscode-recipes](https://github.com/microsoft/vscode-recipes) | 5382 |  | 6 months ago |
-| [intro-to-vue](https://github.com/sdras/intro-to-vue) | 2726 | Workshop Materials for my Introduction to Vue.js Workshop | 20 days ago |
+| [intro-to-vue](https://github.com/sdras/intro-to-vue) | 2726 | Workshop Materials for my Introduction to Vue.js Workshop | 21 days ago |
 | [vuejs-learn](https://github.com/bhnddowinf/vuejs-learn) | 1977 | (vue.js official website tutorials ，contains video , codes, baudi yun, youtube) 网路上有很多 VUE 综合应用的视频，但大部份的视频 ，都当你已经了解官网 所以讲的节奏难免偏快。 此视频(都是上代码)，以官网为重，将官网的观念，以视频搭配代码，实际演示。 如果官网有看不懂的地方，比对一下，视频跟代码，就会了解了。 减少你摸索的时间。(註：mvvm 的框架，不管是 ng , react, vue, avalonjs, 都是好的框架，而有经验的前端，至少都会两套以上的 mvvm。) | 5 years ago |
 | [vuejs2-learn](https://github.com/bhnddowinf/vuejs2-learn) | 1506 | vuejs2 官网讲解 (vue.js 2 official website tutorials ，contains video , codes, baudi yun, youtube) | 5 years ago |
 | [vue-js-workshop](https://github.com/jayway/vue-js-workshop) | 322 | Jayway Vue.js workshop | a year ago |
@@ -586,9 +586,9 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [javascript](https://github.com/airbnb/javascript) | 123116 | JavaScript Style Guide | 5 days ago |
+| [javascript](https://github.com/airbnb/javascript) | 123119 | JavaScript Style Guide | 5 days ago |
 | [foundation-sites](https://github.com/foundation/foundation-sites) | 29237 | The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device. | 6 days ago |
-| [quasar](https://github.com/quasarframework/quasar) | 21235 | Quasar Framework - Build high-performance VueJS user interfaces in record time | 11 hours ago |
+| [quasar](https://github.com/quasarframework/quasar) | 21236 | Quasar Framework - Build high-performance VueJS user interfaces in record time | 12 hours ago |
 | [vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) | 7498 | An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI. | 3 months ago |
 | [Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs) | 3062 | 基于vue.js重写Cnodejs.org社区的webapp | 5 years ago |
 | [douban](https://github.com/jeneser/douban) | 2323 | Awesome douban DEMO created with Vue2.x + Vuex + Vue-router + Superagent | 5 years ago |
@@ -605,7 +605,7 @@
 | [electron-boilerplate-vue](https://github.com/bradstewart/electron-boilerplate-vue) | 726 | Boilerplate application for Electron runtime | 5 years ago |
 | [CMS-of-Blog](https://github.com/ciqulover/CMS-of-Blog) | 665 | deprecated | 2 years ago |
 | [vue-blog](https://github.com/FatDong1/vue-blog) | 659 | 🔥 Vue.js + Node.js + Mongodb 前后端分离的个人博客【废弃】 | 2 years ago |
-| [vue-shopping](https://github.com/andylei18/vue-shopping) | 623 | 基于Vue模仿蘑菇街的单页应用http://andylei18.github.io/vue-shopping/ | 10 months ago |
+| [vue-shopping](https://github.com/andylei18/vue-shopping) | 622 | 基于Vue模仿蘑菇街的单页应用http://andylei18.github.io/vue-shopping/ | 10 months ago |
 | [shopify-theme-lab](https://github.com/uicrooks/shopify-theme-lab) | 577 | Shopify theme development environment using Liquid, Vue and Tailwind CSS. Built on top of Shopify CLI 🧪 | 2 months ago |
 | [daily-zhihu](https://github.com/walleeeee/daily-zhihu) | 530 | 基于Vue2.0的知乎日报单页应用 | 4 years ago |
 | [asp-net-core-vue-starter](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) | 520 | ASP.NET Core + Vue.js starter project | 3 days ago |
@@ -641,7 +641,7 @@
 | [VuejsSSRSample](https://github.com/mgyongyosi/VuejsSSRSample) | 146 | ASP.NET Core Vue.js server-side rendering sample: | 4 years ago |
 | [vue2.0-demos](https://github.com/qianyinghuanmie/vue2.0-demos) | 142 | vue2.0-demos（mobile） | 3 years ago |
 | [vue-cion-design-system](https://github.com/visualjerk/vue-cion-design-system) | 137 | CION - Design system boilerplate for Vue.js | 21 days ago |
-| [vuetify-swipeout](https://github.com/davidgaroro/vuetify-swipeout) | 134 | 👆 A swipe out example built with Vue 2 + Vuetify + Swiper. | 21 days ago |
+| [vuetify-swipeout](https://github.com/davidgaroro/vuetify-swipeout) | 134 | 👆 A swipe out example built with Vue 2 + Vuetify + Swiper. | 22 days ago |
 | [samples](https://github.com/johnnynotsolucky/samples) | 122 |  | 21 days ago |
 | [vue-zhihudaily-2.0](https://github.com/cs1707/vue-zhihudaily-2.0) | 109 | Zhihudaily demo built with Vue 2.0, vue-router & vuex, with server-side rendering | 5 years ago |
 | [todomvc-vue-composition-api](https://github.com/vuesomedev/todomvc-vue-composition-api) | 109 | TodoMVC built with Vue 3 Composition Api and Vuex | a month ago |
@@ -735,18 +735,18 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [stackedit](https://github.com/benweet/stackedit) | 19247 | In-browser Markdown editor | 15 hours ago |
+| [stackedit](https://github.com/benweet/stackedit) | 19248 | In-browser Markdown editor | 16 hours ago |
 | [wiki](https://github.com/requarks/wiki) | 16669 | Wiki.js , A modern and powerful wiki app built on Node.js | a day ago |
 | [koel](https://github.com/koel/koel) | 13642 | 🐦 A personal music streaming server that works. | 3 days ago |
 | [hotel](https://github.com/typicode/hotel) | 9764 | 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains | a year ago |
-| [vue-storefront](https://github.com/vuestorefront/vue-storefront) | 9416 | The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license. | 19 hours ago |
+| [vue-storefront](https://github.com/vuestorefront/vue-storefront) | 9416 | The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Newest updates: https://blog.vuestorefront.io. Always Open Source, MIT license. | 20 hours ago |
 | [Stacer](https://github.com/oguzhaninan/Stacer) | 7738 | Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web | a month ago |
-| [daily](https://github.com/dailydotdev/daily) | 6995 | Building the homepage every developer deserves 👩🏽‍💻 👨‍💻 | 23 days ago |
+| [daily](https://github.com/dailydotdev/daily) | 6996 | Building the homepage every developer deserves 👩🏽‍💻 👨‍💻 | 23 days ago |
 | [vuido](https://github.com/mimecorg/vuido) | 6070 | Native desktop applications using Vue.js. | 3 years ago |
 | [pagekit](https://github.com/pagekit/pagekit) | 5476 | Pagekit CMS | 2 months ago |
-| [akaunting](https://github.com/akaunting/akaunting) | 5016 | Free and Online Accounting Software | 2 hours ago |
-| [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) | 4828 | Native mobile applications using Vue and NativeScript. | 6 hours ago |
-| [bagisto](https://github.com/bagisto/bagisto) | 4472 | An easy to use, free and open source laravel eCommerce platform to build your online shop in no time. | 16 hours ago |
+| [akaunting](https://github.com/akaunting/akaunting) | 5016 | Free and Online Accounting Software | 3 hours ago |
+| [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) | 4828 | Native mobile applications using Vue and NativeScript. | 7 hours ago |
+| [bagisto](https://github.com/bagisto/bagisto) | 4472 | An easy to use, free and open source laravel eCommerce platform to build your online shop in no time. | 17 hours ago |
 | [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) | 3904 | An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners. | 3 months ago |
 | [docute](https://github.com/egoist/docute) | 3630 | 📚 Effortless documentation, done right. | 3 days ago |
 | [coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) | 3007 | Open source admin template based on Bootstrap 5 and Vue 3 | 7 days ago |
@@ -760,23 +760,23 @@
 | [goldfish](https://github.com/Caiyeon/goldfish) | 2174 | A HashiCorp Vault UI written with VueJS and Vault native Go API | 4 years ago |
 | [vuegg](https://github.com/vuegg/vuegg) | 2145 | :hatching_chick: vue GUI generator | a month ago |
 | [eme](https://github.com/egoist/eme) | 1993 | Elegant Markdown Editor. | a month ago |
-| [MQTTX](https://github.com/emqx/MQTTX) | 1792 | Elegant cross-platform MQTT 5.0 desktop client | 7 days ago |
+| [MQTTX](https://github.com/emqx/MQTTX) | 1793 | Elegant cross-platform MQTT 5.0 desktop client | 7 days ago |
 | [Yacht](https://github.com/SelfhostedPro/Yacht) | 1671 | A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for. | 9 days ago |
 | [astrum](https://github.com/NoDivide/astrum) | 1552 | A lightweight pattern library designed to be included with any web project. | 6 days ago |
 | [voten](https://github.com/voten-co/voten) | 1234 | The code that powers voten.co | 2 years ago |
 | [flox](https://github.com/devfake/flox) | 1080 | Self Hosted Movie, Series and Anime Watch List | 7 months ago |
 | [vue2-admin-lte](https://github.com/devjin0617/vue2-admin-lte) | 1050 | :bar_chart: adminLTE to vuejs v2.x converting project  | 2 years ago |
 | [code-notes](https://github.com/lauthieb/code-notes) | 1022 | A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀 | 2 months ago |
-| [enso](https://github.com/laravel-enso/enso) | 1018 | Laravel Vue SPA, Bulma themed. For demo login use `admin@laravel-enso.com` & `password` - | 21 days ago |
+| [enso](https://github.com/laravel-enso/enso) | 1017 | Laravel Vue SPA, Bulma themed. For demo login use `admin@laravel-enso.com` & `password` - | 21 days ago |
 | [Veniqa](https://github.com/Viveckh/Veniqa) | 981 | MEVN Full Stack E-Commerce Solution. Built using MEVN Stack (Node.js, Express.js, Vue.js, MongoDB) with Developer Friendliness and Cloud Integrations in mind. Previously Powered the Veniqa New York Startup. 100% Customizable. For Demos and Documentation, Visit Official Website | 21 days ago |
 | [Buka](https://github.com/oguzhaninan/Buka) | 972 | Buka is a modern software that helps you manage your ebook at ease.  | 2 months ago |
 | [laravel-file-manager](https://github.com/alexusmai/laravel-file-manager) | 832 | File manager for Laravel | 3 months ago |
 | [dockeron](https://github.com/dockeron/dockeron) | 779 | 🤖🤖🤖 Electron + Vue.js for Docker | a year ago |
 | [vue-crud](https://github.com/what-crud/vue-crud) | 739 | Vue.js based REST-ful CRUD system | 21 days ago |
-| [vue-light-bootstrap-dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) | 706 | Vue Light Bootstrap Dashboard - FREE BOOTSTRAP 4 VUEJS ADMIN TEMPLATE | 15 days ago |
+| [vue-light-bootstrap-dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) | 706 | Vue Light Bootstrap Dashboard - FREE BOOTSTRAP 4 VUEJS ADMIN TEMPLATE | 16 days ago |
 | [vue-wordpress-pwa](https://github.com/bstavroulakis/vue-wordpress-pwa) | 686 | An offline-first SPA using Vue.js, the WordPress REST API and Progressive Web Apps | 4 days ago |
 | [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) | 617 | DynamoDb GUI Client | 2 months ago |
-| [antares](https://github.com/antares-sql/antares) | 579 | A modern, fast and productivity driven SQL client with a focus in UX. | 19 hours ago |
+| [antares](https://github.com/antares-sql/antares) | 579 | A modern, fast and productivity driven SQL client with a focus in UX. | 20 hours ago |
 | [tamiat](https://github.com/tamiat/tamiat) | 528 | :sailboat:  Vuejs and Golang based CMS | 7 months ago |
 | [Gokotta](https://github.com/Zhangdroid/Gokotta) | 510 | A simple music player built by electron and vue | 4 years ago |
 | [xmr-miner](https://github.com/bradoyler/xmr-miner) | 484 | Web-based Cryptocurrency miner, built with Vue.js | 4 years ago |
@@ -789,11 +789,11 @@
 | [podlove-web-player](https://github.com/podlove/podlove-web-player) | 354 | Podlove Web Player is a Podcast-optimized, HTML5-based audio player based on VueJS. | a year ago |
 | [Nucleus](https://github.com/alirizaadiyahsi/Nucleus) | 328 | Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication | a day ago |
 | [surfbird](https://github.com/pixeldesu/surfbird) | 326 | A Microblogging client built on Electron and Vue | 4 years ago |
-| [karrot-frontend](https://github.com/karrot-dev/karrot-frontend) | 326 | Karrot is a free and open-source tool for grassroots initiatives and groups of people that want to coordinate face-to-face activities on a local, autonomous and voluntary basis. | 36 minutes ago |
+| [karrot-frontend](https://github.com/karrot-dev/karrot-frontend) | 326 | Karrot is a free and open-source tool for grassroots initiatives and groups of people that want to coordinate face-to-face activities on a local, autonomous and voluntary basis. | 2 hours ago |
 | [Vuemmerce](https://github.com/ivanlori/Vuemmerce) | 323 | Responsive ecommerce template built with Vue.js and Nuxt.js | 18 days ago |
-| [socialhome](https://github.com/jaywink/socialhome) | 319 | A federated social home | 20 days ago |
+| [socialhome](https://github.com/jaywink/socialhome) | 319 | A federated social home | 21 days ago |
 | [Pathfinding-Visualizer-ThreeJS](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) | 319 | A visualizer for pathfinding algorithms in 3D with maze generation, first-person view and device camera input. | 21 days ago |
-| [logchimp](https://github.com/logchimp/logchimp) | 313 | Track your customers feedback to build better products with LogChimp | 2 hours ago |
+| [logchimp](https://github.com/logchimp/logchimp) | 313 | Track your customers feedback to build better products with LogChimp | 3 hours ago |
 | [search-engine](https://github.com/approach0/search-engine) | 306 | A math-aware search engine. | a year ago |
 | [roastandbrew](https://github.com/serversideup/roastandbrew) | 301 | Updated content available! We learned a lot since we originally wrote this article. We now have this updated for Laravel 8, Vue, and NuxtJS 👉 https://srvrsi.de/book | 2 years ago |
 | [Epiboard](https://github.com/Alexays/Epiboard) | 299 | Web Extension — A new tab page extension with material design and useful features :new: :tada: | 21 days ago |
@@ -814,7 +814,7 @@
 | [json-schema-editor](https://github.com/tangram-js/json-schema-editor) | 212 | JSON Schema Editor is an intuitive editor for JSON schema. It provides a tree view to present the structure of schema, and a property inspector to edit the properties of schema element. Develop with Vue.js 2 and Firebase. | a year ago |
 | [materialize-blog](https://github.com/forehalo/materialize-blog) | 210 | redesign blog using material design | 3 years ago |
 | [json-editor](https://github.com/tangram-js/json-editor) | 204 | A schema-aware editor for JSON document. It provides a tree view to present the structure of JSON document, user could manipulate the JSON from context menu. It also has a text view to present the content of JSON document, user may edit JSON within. Develop with Vue.js 2. | 22 days ago |
-| [pychat](https://github.com/akoidan/pychat) | 202 | webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing | 6 hours ago |
+| [pychat](https://github.com/akoidan/pychat) | 202 | webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing | 7 hours ago |
 | [protovue](https://github.com/v1Labs/protovue) | 192 | A prototyping component library | 4 years ago |
 | [vue-crypto-dashboard](https://github.com/JayeshLab/vue-crypto-dashboard) | 192 | Cryptocurrency Dashboard made with Vue | a month ago |
 | [vue-expenses](https://github.com/simplyvinay/vue-expenses) | 185 | A simple expense tracking application | a month ago |
@@ -843,7 +843,7 @@
 | [exceljson](https://github.com/palerdot/exceljson) | 104 | convert CSV, TSV to/from JSON. | 5 years ago |
 | [nippon-color](https://github.com/ssshooter/nippon-color) | 103 | copy nippon-color PWA build with vue-cli 3 | 4 years ago |
 | [coypu](https://github.com/bartkozal/coypu) | 102 | Text-editor-like weekly planner | 2 years ago |
-| [FireX-Proxy](https://github.com/Orogenesis/FireX-Proxy) | 96 | FireX Proxy for Mozilla Firefox, Google Chrome | 21 days ago |
+| [FireX-Proxy](https://github.com/Orogenesis/FireX-Proxy) | 96 | FireX Proxy for Mozilla Firefox, Google Chrome | 22 days ago |
 | [vue-pwa-speech](https://github.com/aofdev/vue-pwa-speech) | 94 | A Vue2 Performs synchronous speech recognition Speech to text Google Cloud Speech With Progressive Web App | 4 years ago |
 | [vue-music163](https://github.com/pluto1114/vue-music163) | 92 | A webapp what base Vue2.0 contains seaching and playing music  | 4 years ago |
 | [AdminLTE-VueJS2](https://github.com/otezz/AdminLTE-VueJS2) | 89 | AdminLTE + VueJS 2 | a year ago |
@@ -865,7 +865,7 @@
 | [discord-logo](https://github.com/NNTin/discord-logo) | 55 | animated discord logo in svg | 24 days ago |
 | [vue-crossword](https://github.com/Piterden/vue-crossword) | 54 | Crossword puzzle builder VueJS application. | 22 days ago |
 | [explore-github](https://github.com/mazipan/explore-github) | 52 | 🐙🔍 VueJS 2 Github Explorer Using API v3 | 2 years ago |
-| [peregrine-cms](https://github.com/headwirecom/peregrine-cms) | 48 | an api first, head optional cms with based on vuejs and apache sling | 3 hours ago |
+| [peregrine-cms](https://github.com/headwirecom/peregrine-cms) | 48 | an api first, head optional cms with based on vuejs and apache sling | 4 hours ago |
 | [vue-pug-stylus](https://github.com/wesssel/vue-pug-stylus) | 43 | Vue boilerplate 💚 🐶 🖌 | 4 years ago |
 | [jade-press](https://github.com/jade-press/jade-press) | 40 | cms based on mongodb, nodejs, koa, vue and more | 4 years ago |
 | [v-oogle](https://github.com/VeryWow/v-oogle) | 40 | Google.com, reVued. 🔎 | 4 years ago |
@@ -874,7 +874,7 @@
 | [vue-pwa-rekognition](https://github.com/aofdev/vue-pwa-rekognition) | 37 | Vue2 + Amazon Rekognition + Amazon S3 + Progressive Web App With Face Detection | 4 years ago |
 | [sheiley-shop-app](https://github.com/itsalb3rt/sheiley-shop-app) | 36 | Sheiley Shop is a PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 | a month ago |
 | [marked.cc](https://github.com/msjaber/marked.cc) | 35 | 📝 Create and share beautiful images of your notes and prose. | 3 months ago |
-| [afterman](https://github.com/itsalb3rt/afterman) | 33 | 🌕 Create beutiful docs in markdown and HTML from postman collection | 3 hours ago |
+| [afterman](https://github.com/itsalb3rt/afterman) | 33 | 🌕 Create beutiful docs in markdown and HTML from postman collection | 4 hours ago |
 | [vuejs-extension-pack](https://github.com/mubaidr/vuejs-extension-pack) | 32 | Popular VS Code extensions for Vue.js development. | 7 months ago |
 | [vue-paper-dashboard](https://github.com/cristijora/vue-paper-dashboard) | 30 |  | 4 years ago |
 | [SaleinaCMS](https://github.com/saleina/SaleinaCMS) | 26 | An Open Source Static Site CMS Built With Love & Vue. | 3 months ago |
@@ -884,7 +884,7 @@
 | [News-Weaver](https://github.com/Rud156/News-Weaver) | 23 | A web based RSS Aggregator | 3 years ago |
 | [hubaga](https://github.com/picocodes/hubaga) | 23 | A WordPress eCommerce platform for developers | 3 years ago |
 | [jsettlers-web](https://github.com/generateui/jsettlers-web) | 23 | web client for JSettlers2 | 4 years ago |
-| [agile-visitors](https://github.com/itsalb3rt/agile-visitors) | 23 | Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort. | 9 hours ago |
+| [agile-visitors](https://github.com/itsalb3rt/agile-visitors) | 23 | Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort. | 10 hours ago |
 | [chucknorris](https://github.com/mazipan/chucknorris) | 22 | 🏋️ Chuck Norris Jokes Generator | 3 years ago |
 | [Book-Trading-Club](https://github.com/mubaidr/Book-Trading-Club) | 21 | A sample application using node.js api and vuejs | 2 years ago |
 | [grid-awesome](https://github.com/louisbourque/grid-awesome) | 21 | Use Grid-Awesome to generate boilerplate css for grid layouts using the css display: grid; property. | 4 months ago |
@@ -945,7 +945,7 @@
 | [vue-announcer](https://github.com/vue-a11y/vue-announcer) | 219 | A simple way with Vue to announce any useful information for screen readers. | 3 months ago |
 | [vue-axe](https://github.com/vue-a11y/vue-axe) | 171 | Accessibility auditing for Vue.js applications. | 2 months ago |
 | [eslint-plugin-vue-a11y](https://github.com/maranran/eslint-plugin-vue-a11y) | 152 | Static AST checker for accessibility rules on elements in .vue | 3 months ago |
-| [eslint-plugin-vuejs-accessibility](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) | 141 | An eslint plugin for checking Vue.js files for accessibility | 4 hours ago |
+| [eslint-plugin-vuejs-accessibility](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) | 141 | An eslint plugin for checking Vue.js files for accessibility | 5 hours ago |
 | [vue-focus-lock](https://github.com/theKashey/vue-focus-lock) | 130 | It is a trap! A lock for a Focus. A11y util for scoping a focus. | 5 months ago |
 | [vue-skip-to](https://github.com/vue-a11y/vue-skip-to) | 69 | It helps people who only use the keyboard to jump to what matters most. | 10 months ago |
 
@@ -955,8 +955,8 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [ag-grid](https://github.com/ag-grid/ag-grid) | 8360 | The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript. | 6 hours ago |
-| [vue-easytable](https://github.com/Happy-Coding-Clans/vue-easytable) | 2753 | 🍉  Table Component/ Data Grid / Data Table.Support Virtual Scroll,Column Fixed,Header Fixed,Header Grouping,Filter,Sort,Cell Ellipsis,Row Expand,Row Checkbox ... | 11 hours ago |
+| [ag-grid](https://github.com/ag-grid/ag-grid) | 8360 | The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript. | 7 hours ago |
+| [vue-easytable](https://github.com/Happy-Coding-Clans/vue-easytable) | 2753 | 🍉  Table Component/ Data Grid / Data Table.Support Virtual Scroll,Column Fixed,Header Fixed,Header Grouping,Filter,Sort,Cell Ellipsis,Row Expand,Row Checkbox ... | 12 hours ago |
 | [vuetable-2](https://github.com/ratiw/vuetable-2) | 2146 | data table simplify! -- datatable component for Vue 2.x. See documentation at  | 3 months ago |
 | [vue-good-table](https://github.com/xaksis/vue-good-table) | 1909 | An easy to use powerful data table for vuejs with advanced customizations including sorting, column filtering, pagination, grouping etc | 4 days ago |
 | [vue-tables-2](https://github.com/matfish2/vue-tables-2) | 1526 | Vue.js 2 grid components | 6 months ago |
@@ -972,7 +972,7 @@
 | [vue-datasource](https://github.com/coderdiaz/vue-datasource) | 424 | A vue.js component to create dynamic tables | 3 years ago |
 | [el-search-table-pagination](https://github.com/zollero/el-search-table-pagination) | 287 | 🐶  Combines Form, Table and Pagination components of Element UI together. | 22 days ago |
 | [vue-bootstrap4-table](https://github.com/rubanraj54/vue-bootstrap4-table) | 215 | Advanced table based on Vue 2 and Bootstrap 4 ⚡️ | a month ago |
-| [vue-pivot-table](https://github.com/Click2Buy/vue-pivot-table) | 204 | A vue component for pivot table | 21 days ago |
+| [vue-pivot-table](https://github.com/Click2Buy/vue-pivot-table) | 204 | A vue component for pivot table | 22 days ago |
 | [FancyGrid](https://github.com/FancyGrid/FancyGrid) | 187 | FancyGrid - JavaScript grid library with charts integration and server communication.  | 2 months ago |
 | [vue-materialize-datatable](https://github.com/MicroDroid/vue-materialize-datatable) | 168 | A fancy Materialize CSS datatable VueJS component. | a year ago |
 | [vuejs-smart-table](https://github.com/tochoromero/vuejs-smart-table) | 165 | Simple yet powerful Data Table for Vue with vanilla HTML structure | 3 months ago |
@@ -1049,9 +1049,9 @@
 | :---- | ----: | :---- | :---- |
 | [loaders.css](https://github.com/ConnorAtherton/loaders.css) | 10136 | Delightful, performance-focused pure css loading animations. | 2 months ago |
 | [epic-spinners](https://github.com/epicmaxco/epic-spinners) | 3606 | Easy to use css spinners collection with Vue.js integration | 2 years ago |
-| [vue-content-loader](https://github.com/egoist/vue-content-loader) | 2854 | SVG component to create placeholder loading, like Facebook cards loading. | 4 hours ago |
+| [vue-content-loader](https://github.com/egoist/vue-content-loader) | 2854 | SVG component to create placeholder loading, like Facebook cards loading. | 5 hours ago |
 | [vue-wait](https://github.com/f/vue-wait) | 1898 | Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications | a month ago |
-| [vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay) | 1004 | Vue.js component for full screen loading indicator :cyclone: | 14 hours ago |
+| [vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay) | 1004 | Vue.js component for full screen loading indicator :cyclone: | 15 hours ago |
 | [vue-radial-progress](https://github.com/wyzantinc/vue-radial-progress) | 452 | Radial progress bar component for Vue.js | 21 days ago |
 | [vue-simple-spinner](https://github.com/dzwillia/vue-simple-spinner) | 411 | A simple, flexible spinner for Vue.js | 3 months ago |
 | [vue-progress-path](https://github.com/Akryum/vue-progress-path) | 391 | Progress bars and loading indicators for Vue.js | 9 months ago |
@@ -1103,7 +1103,7 @@
 | [floating-vue](https://github.com/Akryum/floating-vue) | 2291 | 💬 Easy tooltips, popovers, dropdown, menus... for Vue | 8 days ago |
 | [vue-popper](https://github.com/RobinCK/vue-popper) | 419 | :whale: VueJS popover component based popper.js | 3 months ago |
 | [vue-directive-tooltip](https://github.com/hekigan/vue-directive-tooltip) | 168 | Vue.js tooltip directive. Easy to use, configure and style | 3 months ago |
-| [vue-custom-tooltip](https://github.com/adamdehaven/vue-custom-tooltip) | 53 | A reusable tooltip component for Vue (and VuePress) projects. | 20 days ago |
+| [vue-custom-tooltip](https://github.com/adamdehaven/vue-custom-tooltip) | 53 | A reusable tooltip component for Vue (and VuePress) projects. | 21 days ago |
 | [vue-popper-component](https://github.com/antongorodezkiy/vue-popper-component) | 47 | Popper.js directive for Vue.js | 5 years ago |
 | [k-pop](https://github.com/ChristianKienle/k-pop) | 15 | 🕺k-pop: Simple Popover Component using Vue | 3 months ago |
 | [vue-tooltipster](https://github.com/cpfarher/vue-tooltipster) | 6 | Vue tooltipster component | 4 years ago |
@@ -1115,7 +1115,7 @@
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
 | [viewerjs](https://github.com/fengyuanchen/viewerjs) | 6509 | JavaScript image viewer. | a month ago |
-| [vue-js-modal](https://github.com/euvl/vue-js-modal) | 4063 | Easy to use, highly customizable Vue.js modal library. | a day ago |
+| [vue-js-modal](https://github.com/euvl/vue-js-modal) | 4063 | Easy to use, highly customizable Vue.js modal library. | 2 days ago |
 | [a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) | 1943 | A very lightweight and flexible accessible modal dialog script. | 4 days ago |
 | [v-viewer](https://github.com/mirari/v-viewer) | 1912 | Image viewer component for vue, supports rotation, scale, zoom and so on, based on viewer.js | 4 months ago |
 | [sweet-modal-vue](https://github.com/visma-meglerfront/sweet-modal-vue) | 743 | The sweetest library to happen to modals. | 21 days ago |
@@ -1132,7 +1132,7 @@
 | [vuetify-dialog](https://github.com/yariksav/vuetify-dialog) | 192 | Easy dialogs in Vuetify.js framework | 9 months ago |
 | [vue-swal](https://github.com/anteriovieira/vue-swal) | 188 | A small wrapper for integrating SweetAlert to Vuejs | 3 years ago |
 | [vue-it-bigger](https://github.com/haiafara/vue-it-bigger) | 168 | A simple image / (YouTube) video lightbox component for Vue.js. | 2 days ago |
-| [vue-dialog-drag](https://github.com/emiliorizzo/vue-dialog-drag) | 167 | Simple vue draggable dialog | 21 days ago |
+| [vue-dialog-drag](https://github.com/emiliorizzo/vue-dialog-drag) | 167 | Simple vue draggable dialog | 22 days ago |
 | [vue-slideout-panel](https://github.com/officert/vue-slideout-panel) | 167 | Vue JS component for stackable slideout panels | 4 months ago |
 | [vue-gallery-slideshow](https://github.com/KitchenStories/vue-gallery-slideshow) | 166 | 🖼 Lightweight and responsive image gallery for Vue.js | 2 years ago |
 | [vue-pure-lightbox](https://github.com/DCzajkowski/vue-pure-lightbox) | 160 | Very simple lightbox plugin (without any dependencies) for Vuejs 🌅 | 14 days ago |
@@ -1182,7 +1182,7 @@
 | :---- | ----: | :---- | :---- |
 | [heroicons](https://github.com/tailwindlabs/heroicons) | 15112 | A set of free MIT-licensed high-quality SVG icons for UI development. | 2 months ago |
 | [tabler-icons](https://github.com/tabler/tabler-icons) | 11919 | A set of over 1950 free MIT-licensed high-quality SVG icons for you to use in your web projects. | 10 days ago |
-| [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) | 2320 | Font Awesome Vue component | 5 hours ago |
+| [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) | 2320 | Font Awesome Vue component | 6 hours ago |
 | [vue-awesome](https://github.com/Justineo/vue-awesome) | 2317 | Awesome SVG icon component for Vue.js, built-in with Font Awesome icons. | 22 days ago |
 | [heroicons-ui](https://github.com/sschoger/heroicons-ui) | 2084 |  | 2 years ago |
 | [vue-unicons](https://github.com/antonreshetov/vue-unicons) | 940 | 1000+ Pixel-perfect svg icons for your next project as Vue components | 6 months ago |
@@ -1202,7 +1202,7 @@
 | [vue-simple-line-icons](https://github.com/nkoik/vue-simple-line-icons) | 17 | 😸 Vue component for Simple Line Icons and you may choose a SVG or a Font icon just with a prop. | 3 years ago |
 | [md-svg-vue](https://github.com/IPRIT/md-svg-vue) | 15 | Material design icons by Google for Vue.js & Nuxt.js (server side support & inline svg with path) | 2 years ago |
 | [graphicon](https://github.com/nash403/graphicon) | 12 | A Vue.js plugin/component to help you manage your icons seamlessly | 3 years ago |
-| [vue-lang-code-flags](https://github.com/qWici/vue-lang-code-flags) | 11 | Vue component which shows the flag of the country from which the language comes from | 11 days ago |
+| [vue-lang-code-flags](https://github.com/qWici/vue-lang-code-flags) | 11 | Vue component which shows the flag of the country from which the language comes from | 12 days ago |
 | [vicon](https://github.com/Lt0/vicon) | 5 | icon component for vue | 4 years ago |
 | [vue-heroicons](https://github.com/Kholid060/vue-heroicons) | 4 | Vue component for 104 premium Heroicons-UI svg icons | 2 years ago |
 
@@ -1215,7 +1215,7 @@
 | [slideout](https://github.com/Mango/slideout) | 7983 | A touch slideout navigation menu for your mobile web apps. | 2 years ago |
 | [vue-burger-menu](https://github.com/mbj36/vue-burger-menu) | 719 | 🍔 An off-canvas sidebar Vue component - https://vue-burger-menu.netlify.com/ | 3 months ago |
 | [vue-js-popover](https://github.com/euvl/vue-js-popover) | 441 | :dango: Vue.js 2 library for dropdowns / popovers / tooltips | 21 days ago |
-| [vue-stripe-menu](https://github.com/oleksiikhr/vue-stripe-menu) | 405 | Creating a navigation menu with animations like on Stripe | 20 days ago |
+| [vue-stripe-menu](https://github.com/oleksiikhr/vue-stripe-menu) | 405 | Creating a navigation menu with animations like on Stripe | 21 days ago |
 | [vue-drawer-layout](https://github.com/hjl19911127/vue-drawer-layout) | 399 | A simple DrawerLayout component for Vue.js. | 3 years ago |
 | [vue-menu](https://github.com/michitaro/vue-menu) | 255 | Menu/Contextmenu Component for vue2 | 2 months ago |
 | [vue-quick-menu](https://github.com/AshleyLv/vue-quick-menu) | 218 | This is web navigation component base on vue2.0+. It can be used in both PC and mobile. | a year ago |
@@ -1244,10 +1244,10 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [swiper](https://github.com/nolimits4web/swiper) | 31119 | Most modern mobile touch slider with hardware accelerated transitions | 14 hours ago |
+| [swiper](https://github.com/nolimits4web/swiper) | 31119 | Most modern mobile touch slider with hardware accelerated transitions | 15 hours ago |
 | [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) | 12298 | 🏆 Swiper component for @vuejs | 9 days ago |
 | [glide](https://github.com/glidejs/glide) | 6432 | A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more | 16 days ago |
-| [egjs-flicking](https://github.com/naver/egjs-flicking) | 1999 | 🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel. | 20 hours ago |
+| [egjs-flicking](https://github.com/naver/egjs-flicking) | 1999 | 🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel. | 21 hours ago |
 | [vue-carousel](https://github.com/SSENSE/vue-carousel) | 1643 | A flexible, responsive, touch-friendly carousel for Vue.js | 3 days ago |
 | [vue-agile](https://github.com/lukaszflorczak/vue-agile) | 1393 | 🎠 A carousel component for Vue.js | 20 days ago |
 | [vue-carousel-3d](https://github.com/Wlada/vue-carousel-3d) | 861 | Vue Carousel 3D - Beautiful, flexible and touch supported 3D Carousel for Vue.js | 2 months ago |
@@ -1260,7 +1260,7 @@
 | [vue-flickity](https://github.com/drewjbartlett/vue-flickity) | 370 | A Vue Slider / Carousel Component for Flickity.js | 9 months ago |
 | [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider) | 348 | Slider Component of Vue.js. | 2 years ago |
 | [vue-glide](https://github.com/antonreshetov/vue-glide) | 263 | A slider and carousel as vue component on top of the Glide.js | a year ago |
-| [vue-splide](https://github.com/Splidejs/vue-splide) | 178 | The Splide component for Vue. | 5 days ago |
+| [vue-splide](https://github.com/Splidejs/vue-splide) | 178 | The Splide component for Vue. | 6 days ago |
 | [vue-owl-carousel](https://github.com/s950329/vue-owl-carousel) | 151 | Vue component for Owl Carousel 2 | 2 months ago |
 | [vue-tiny-slider](https://github.com/viktorlarsson/vue-tiny-slider) | 136 | Vanilla javascript slider for all purposes created by ganlanyuan in Vue. | 3 months ago |
 | [vue-snap](https://github.com/bartdominiak/vue-snap) | 133 | ⚡️ Lightweight Carousel based on CSS Scroll Snapping (Vue 2/3) | 21 days ago |
@@ -1269,10 +1269,10 @@
 | [vue-piece-slider](https://github.com/dreambo8563/vue-piece-slider) | 95 | animated slides in a fragmented look 🐞🌳✡️📐 | 2 years ago |
 | [vue-swimlane](https://github.com/mubaidr/vue-swimlane) | 72 | A Text Swimlane plugin for Vue.js  | 10 months ago |
 | [vue-slider](https://github.com/fanyeh/vue-slider) | 63 | A Netflix like slider developed using Vuejs | 4 years ago |
-| [Lingallery](https://github.com/ChristophAnastasiades/Lingallery) | 57 | Lingallery is a simple image gallery component for Vue.js | 21 days ago |
+| [Lingallery](https://github.com/ChristophAnastasiades/Lingallery) | 57 | Lingallery is a simple image gallery component for Vue.js | 22 days ago |
 | [vue-l-carousel](https://github.com/lsycxyj/vue-l-carousel) | 56 | A responsive carousel(namely slider or swiper) component for Vue.js v2.x+. | 4 years ago |
 | [lory](https://github.com/vue-bulma/lory) | 43 | Vue Slider Component is based on lory | 5 years ago |
-| [slither-slider](https://github.com/dolbex/slither-slider) | 38 | A Vue JS slider that slides whatever you throw at it | 21 days ago |
+| [slither-slider](https://github.com/dolbex/slither-slider) | 38 | A Vue JS slider that slides whatever you throw at it | 22 days ago |
 | [vue-split-carousel](https://github.com/Aaron00101010/vue-split-carousel) | 35 | a carousel component for vue, meanwhile display several carousel item | 11 days ago |
 | [vuerollr](https://github.com/japick/vuerollr) | 24 | Mouseover gallery plugin for Vue.js | 15 days ago |
 | [vue-cat-carousel](https://github.com/hanssagita/vue-cat-carousel) | 9 | Lightweight,Simple and custom-able Vue Carousel | 3 months ago |
@@ -1287,9 +1287,9 @@
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
 | [apexcharts.js](https://github.com/apexcharts/apexcharts.js) | 11462 | 📊 Interactive JavaScript Charts built on SVG | a day ago |
-| [vue-echarts](https://github.com/ecomfe/vue-echarts) | 7076 | Apache ECharts component for Vue.js. | 8 days ago |
+| [vue-echarts](https://github.com/ecomfe/vue-echarts) | 7076 | Apache ECharts component for Vue.js. | 9 days ago |
 | [v-charts](https://github.com/ElemeFE/v-charts) | 6611 | 基于 Vue2.0 和 ECharts 封装的图表组件📈📊 | 2 months ago |
-| [vue-chartjs](https://github.com/apertureless/vue-chartjs) | 4712 | 📊  Vue.js wrapper for Chart.js | 8 hours ago |
+| [vue-chartjs](https://github.com/apertureless/vue-chartjs) | 4712 | 📊  Vue.js wrapper for Chart.js | 9 hours ago |
 | [vue-trend](https://github.com/QingWei-Li/vue-trend) | 1166 | 🌈 Simple, elegant spark lines for Vue.js | 3 months ago |
 | [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) | 1075 | 📊 Vue.js component for ApexCharts | 2 months ago |
 | [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) | 896 | Vue.js(v2.x+) component wrap for ECharts.js(v3.x+) | a year ago |
@@ -1297,7 +1297,7 @@
 | [vue-d3-network](https://github.com/emiliorizzo/vue-d3-network) | 467 | Vue component to graph networks using d3-force | 3 months ago |
 | [vue-bar](https://github.com/DeviaVir/vue-bar) | 442 | Simple, elegant spark bars for Vue.js | 3 months ago |
 | [vue-highcharts](https://github.com/weizhenye/vue-highcharts) | 405 | :bar_chart: Highcharts component for Vue | 2 years ago |
-| [vue-google-charts](https://github.com/devstark-com/vue-google-charts) | 395 | Reactive Vue.js wrapper for Google Charts lib | 18 hours ago |
+| [vue-google-charts](https://github.com/devstark-com/vue-google-charts) | 395 | Reactive Vue.js wrapper for Google Charts lib | 19 hours ago |
 | [vue-charts](https://github.com/GimmyHchs/vue-charts) | 365 | Base on Vue2.0 wrapper for ChartJs. (Deprecated) | 2 years ago |
 | [vue-trend-chart](https://github.com/dmtrbrl/vue-trend-chart) | 248 | Simple trend charts for Vue.js | 3 months ago |
 | [flowchart-vue](https://github.com/joyceworks/flowchart-vue) | 247 | Flowchart & designer component for Vue.js. | 3 months ago |
@@ -1360,7 +1360,7 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [tui.calendar](https://github.com/nhn/tui.calendar) | 9912 | 🍞📅A JavaScript calendar that has everything you need. | an hour ago |
+| [tui.calendar](https://github.com/nhn/tui.calendar) | 9912 | 🍞📅A JavaScript calendar that has everything you need. | 3 hours ago |
 | [Pikaday](https://github.com/Pikaday/Pikaday) | 7832 | A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS | a month ago |
 | [v-calendar](https://github.com/nathanreyes/v-calendar) | 3419 | An elegant calendar and datepicker plugin for Vue. | 2 days ago |
 | [vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar) | 1461 | vue calendar fullCalendar. no jquery required. Schedule events management | 10 months ago |
@@ -1388,7 +1388,7 @@
 | [vue-pikaday](https://github.com/NetCZ/vue-pikaday) | 37 | VueJS wrapper component for Pikaday datepicker | a month ago |
 | [vue-datepicker-infinite](https://github.com/leepyng/vue-datepicker-infinite) | 17 | easy datepicker of a vue 2.0 component | 3 years ago |
 | [vue-infinite-calendar](https://github.com/laleshii/vue-infinite-calendar) | 15 | A simple infinite calendar component in Vue 2 | 4 years ago |
-| [vue-date-tools](https://github.com/misterfresh/vue-date-tools) | 14 | A lightweight collection of Vue components (including molecules and organisms) to manage dates easily | 20 days ago |
+| [vue-date-tools](https://github.com/misterfresh/vue-date-tools) | 14 | A lightweight collection of Vue components (including molecules and organisms) to manage dates easily | 21 days ago |
 | [vue-schedule-board](https://github.com/jinfang134/vue-schedule-board) | 14 | A easy-to-use component to show somebody's schedule list to help interview arrangement or visit arrangement. | 2 years ago |
 | [vue-jquery-calendar](https://github.com/Parthfaladu/vue-jquery-calendar) | 1 |  | 21 days ago |
 
@@ -1401,7 +1401,7 @@
 | [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) | 2247 | Baidu Map components for Vue 2.x | 3 months ago |
 | [Vue2Leaflet](https://github.com/vue-leaflet/Vue2Leaflet) | 1863 | Vue 2 components for Leaflet maps | a month ago |
 | [vue-google-maps](https://github.com/xkjyeah/vue-google-maps) | 1848 | Google maps component for vue with 2-way data binding | 8 months ago |
-| [vue-cesium](https://github.com/zouyaoji/vue-cesium) | 747 | 🎉 Vue 3.x components for CesiumJS. | 19 hours ago |
+| [vue-cesium](https://github.com/zouyaoji/vue-cesium) | 747 | 🎉 Vue 3.x components for CesiumJS. | 20 hours ago |
 | [vuelayers](https://github.com/ghettovoice/vuelayers) | 640 | Web map Vue components with the power of OpenLayers | a month ago |
 | [vue-googlemaps](https://github.com/Akryum/vue-googlemaps) | 526 | Integrate Google Maps in your Vue application | 10 months ago |
 | [vue-mapbox](https://github.com/soal/vue-mapbox) | 411 | Vuejs 2 components for interacting with mapbox-gl-js | 21 days ago |
@@ -1409,10 +1409,10 @@
 | [vue-mapbox-gl](https://github.com/phegman/vue-mapbox-gl) | 263 | A Vue.js component for Mapbox GL JS | 21 days ago |
 | [vue2-gmap-custom-marker](https://github.com/eregnier/vue2-gmap-custom-marker) | 129 | vue google map custom marker component | 3 months ago |
 | [vue-choropleth](https://github.com/voluntadpear/vue-choropleth) | 113 | Choropleth Map component for Vue.js | 22 days ago |
-| [v-mapbox](https://github.com/geospoc/v-mapbox) | 102 | A cloned & maintained version of vue-mapbox | 3 hours ago |
+| [v-mapbox](https://github.com/geospoc/v-mapbox) | 102 | A cloned & maintained version of vue-mapbox | 4 hours ago |
 | [x5-gmaps](https://github.com/xon52/x5-gmaps) | 102 | A lightweight Google Maps plugin for Vue | 20 days ago |
 | [vue-static-map](https://github.com/eperedo/vue-static-map) | 23 | a simple component to generate an static google map | 4 years ago |
-| [v-mapbox-geocoder](https://github.com/geospoc/v-mapbox-geocoder) | 8 | Wrapper for vue-mapbox-geocoder | 3 hours ago |
+| [v-mapbox-geocoder](https://github.com/geospoc/v-mapbox-geocoder) | 8 | Wrapper for vue-mapbox-geocoder | 4 hours ago |
 | [vue-async-gmaps](https://github.com/vanderb/vue-async-gmaps) | 3 | Load google maps with privacy | 2 years ago |
 
 
@@ -1421,8 +1421,8 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) | 6739 | ⚡️ Blazing fast scrolling for any amount of data | 17 days ago |
-| [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) | 5504 | A draggable and resizable grid layout, for Vue.js. | 20 days ago |
+| [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) | 6740 | ⚡️ Blazing fast scrolling for any amount of data | 17 days ago |
+| [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) | 5505 | A draggable and resizable grid layout, for Vue.js. | 20 days ago |
 | [vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) | 3472 | ⚡️A vue component support big amount data list with high render performance  and efficient. | 3 months ago |
 | [grid](https://github.com/rebassjs/grid) | 2076 | This package has moved and renamed | 3 years ago |
 | [vue-waterfall](https://github.com/MopTym/vue-waterfall) | 2004 | A waterfall layout component for Vue.js | 4 years ago |
@@ -1464,24 +1464,24 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [element](https://github.com/ElemeFE/element) | 52096 | A Vue.js 2.0 UI Toolkit for Web | 2 days ago |
-| [ionic-framework](https://github.com/ionic-team/ionic-framework) | 47202 | A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript. | 6 hours ago |
-| [vuetify](https://github.com/vuetifyjs/vuetify) | 34264 | 🐉 Material Component Framework for Vue | 9 hours ago |
-| [quasar](https://github.com/quasarframework/quasar) | 21236 | Quasar Framework - Build high-performance VueJS user interfaces in record time | 11 hours ago |
+| [element](https://github.com/ElemeFE/element) | 52095 | A Vue.js 2.0 UI Toolkit for Web | 2 days ago |
+| [ionic-framework](https://github.com/ionic-team/ionic-framework) | 47202 | A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript. | 7 hours ago |
+| [vuetify](https://github.com/vuetifyjs/vuetify) | 34265 | 🐉 Material Component Framework for Vue | 10 hours ago |
+| [quasar](https://github.com/quasarframework/quasar) | 21236 | Quasar Framework - Build high-performance VueJS user interfaces in record time | 12 hours ago |
 | [vant](https://github.com/youzan/vant) | 19626 | Lightweight Mobile UI Components built on Vue | a day ago |
 | [vux](https://github.com/airyland/vux) | 17598 | Mobile UI Components based on Vue & WeUI | 8 months ago |
 | [framework7](https://github.com/framework7io/framework7) | 16748 | Full featured HTML framework for building iOS & Android apps | 3 days ago |
-| [ant-design-vue](https://github.com/vueComponent/ant-design-vue) | 16605 | 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜 | 12 hours ago |
+| [ant-design-vue](https://github.com/vueComponent/ant-design-vue) | 16605 | 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜 | 13 hours ago |
 | [mint-ui](https://github.com/ElemeFE/mint-ui) | 16506 | Mobile UI elements for Vue.js | 3 months ago |
-| [material-components-web](https://github.com/material-components/material-components-web) | 16198 | Modular and customizable Material Design UI components for the web | 8 hours ago |
+| [material-components-web](https://github.com/material-components/material-components-web) | 16198 | Modular and customizable Material Design UI components for the web | 9 hours ago |
 | [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) | 13882 | BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup. | 2 days ago |
 | [vue-material](https://github.com/vuematerial/vue-material) | 9601 | Material design for Vue.js | 3 days ago |
 | [buefy](https://github.com/buefy/buefy) | 9208 | Lightweight UI components for Vue.js based on Bulma | 9 days ago |
 | [OnsenUI](https://github.com/OnsenUI/OnsenUI) | 8578 | Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js. | a day ago |
 | [vue-native-core](https://github.com/GeekyAnts/vue-native-core) | 8361 | Vue Native is a framework to build cross platform native mobile apps using JavaScript | 3 days ago |
 | [muse-ui](https://github.com/museui/muse-ui) | 8313 | Material Design UI library for Vuejs 2.0 | 3 days ago |
-| [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) | 4828 | Native mobile applications using Vue and NativeScript. | 6 hours ago |
-| [nutui](https://github.com/jdf2e/nutui) | 4331 | 京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web) | an hour ago |
+| [nativescript-vue](https://github.com/nativescript-vue/nativescript-vue) | 4828 | Native mobile applications using Vue and NativeScript. | 7 hours ago |
+| [nutui](https://github.com/jdf2e/nutui) | 4332 | 京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web) | 35 minutes ago |
 | [element3](https://github.com/hug-sun/element3) | 3177 | A Vue.js 3.0 UI Toolkit for Web. Build with Javascript | a month ago |
 | [heyui](https://github.com/heyui/heyui) | 2447 | 🎉UI Toolkit for Web, Vue3.0 | 21 days ago |
 | [chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue) | 1531 | ⚡️ Build scalable and accessible Vue.js applications with ease. | 3 days ago |
@@ -1494,7 +1494,7 @@
 | [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) | 471 | Vue implementation of the Carbon Design System | a day ago |
 | [shards-vue](https://github.com/DesignRevision/shards-vue) | 396 | 🌟Shards Vue is a free, beautiful and modern Vue.js UI kit based on Shards. | 3 months ago |
 | [wave-ui](https://github.com/antoniandre/wave-ui) | 375 | An emerging UI framework for Vue.js (2 & 3) with only the bright side. ☀️ | a day ago |
-| [balm-ui](https://github.com/balmjs/balm-ui) | 365 | :diamonds: A modular and customizable UI library based on Material Design and Vue | 17 hours ago |
+| [balm-ui](https://github.com/balmjs/balm-ui) | 365 | :diamonds: A modular and customizable UI library based on Material Design and Vue | 2 minutes ago |
 | [vue-awesome-mui](https://github.com/Wscats/vue-awesome-mui) | 312 | :trophy:Mui component for Vue.js(1.x ~ 2.x) | 2 years ago |
 | [material-components-vue](https://github.com/matsp/material-components-vue) | 311 | Material Design styled components for Vue.js | 2 years ago |
 | [framevuerk](https://github.com/framevuerk/framevuerk) | 270 | Fast, Responsive, Multi Language, Both Direction Support and Configurable UI Framework based on Vue.js. | 22 days ago |
@@ -1504,7 +1504,7 @@
 | [vue-bulma-components](https://github.com/vouill/vue-bulma-components) | 158 | Translate Bulma css api to vue components | 3 years ago |
 | [eros-template](https://github.com/bmfe/eros-template) | 144 | 🔧 eros app 开发模板。 | 3 years ago |
 | [dao-style](https://github.com/DaoCloud/dao-style) | 116 | 🎉 A high quality component library built on Vue.js 2.0 | 10 months ago |
-| [vue-material-adapter](https://github.com/pgbross/vue-material-adapter) | 92 | Vue wrapper arround Material Components for the Web | 13 minutes ago |
+| [vue-material-adapter](https://github.com/pgbross/vue-material-adapter) | 92 | Vue wrapper arround Material Components for the Web | an hour ago |
 | [vueface](https://github.com/sudheerj/vueface) | 74 | UI Components for Vue | 3 months ago |
 | [vectre](https://github.com/vectrejs/vectre) | 64 | Most complete implementation of Spectre.css on Vue.js | 2 months ago |
 | [Vuc](https://github.com/loo41/Vuc) | 52 | 🎨 基于 Vuejs2 的 Canvas 组件库【服务器挂了。不在提供demo，github自带的静态网站不能发布，因为demo代码找不到了😂。】 | 3 months ago |
@@ -1525,12 +1525,12 @@
 | [vue-mdc](https://github.com/posva/vue-mdc) | 1213 | Material web components for Vue.js | 4 years ago |
 | [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) | 1083 | 👩‍🎨👨‍🎨 A minimalist dark design system for Vue.js. Based components designed for the insomniacs who enjoy dark interfaces as much as we do. | 2 months ago |
 | [Semantic-UI-Vue](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue) | 933 | Semantic UI integration for Vue | 21 days ago |
-| [uiv](https://github.com/uiv-lib/uiv) | 911 | Bootstrap 3 components implemented by Vue.js. | 4 hours ago |
+| [uiv](https://github.com/uiv-lib/uiv) | 911 | Bootstrap 3 components implemented by Vue.js. | 5 hours ago |
 | [Equal](https://github.com/quatrochan/Equal) | 792 | 🧬  Equal is a Vue 3 UI library based on TypeScript | 7 months ago |
 | [vue-strap](https://github.com/wffranco/vue-strap) | 339 | Bootstrap components built with Vue.js | 2 years ago |
 | [office-ui-fabric-vue](https://github.com/aidewoode/office-ui-fabric-vue) | 275 | Office UI Fabric implementation for Vue.js | a year ago |
 | [vuent](https://github.com/arturmiz/vuent) | 263 | 🎨 Vue.js components implementing Microsoft Fluent Design | 4 months ago |
-| [devextreme-vue](https://github.com/DevExpress/devextreme-vue) | 236 | Vue UI and data visualization components | 14 days ago |
+| [devextreme-vue](https://github.com/DevExpress/devextreme-vue) | 236 | Vue UI and data visualization components | 15 days ago |
 | [vue-atlas](https://github.com/nvms/vue-atlas) | 184 | A Vue.js 2 UI component library. | 21 days ago |
 | [banshee](https://github.com/banshee-ui/banshee) | 88 | A mostly renderless Vue UI component and utility framework. | 4 years ago |
 | [cdk](https://github.com/ChristianKienle/cdk) | 86 | 🎁 Vue Component Development Kit | 3 days ago |
@@ -1546,7 +1546,7 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | 76179 | :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin | 9 days ago |
+| [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | 76180 | :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin | 9 days ago |
 | [d2-admin](https://github.com/d2-projects/d2-admin) | 11452 | An elegant dashboard | 2 months ago |
 | [vue-material-admin](https://github.com/tookit/vue-material-admin) | 2201 | A vue material design admin template | 20 days ago |
 | [rest-admin](https://github.com/wxs77577/rest-admin) | 604 | Restful Admin Dashboard Based on Vue and Boostrap 4 | 22 days ago |

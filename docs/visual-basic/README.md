@@ -3,7 +3,7 @@
 * A curated list of awesome Go frameworks, libraries, software and resources.
 * Inspired by Awesome.
 * If you see a package or project here that is no longer maintained or is not a good fit, please submit a issue to improve this file. Thank you!
-* Last Sync Time: Fri May 20 2022 10:38:41 GMT+0800 (中国标准时间)
+* Last Sync Time: Fri May 20 2022 11:41:01 GMT+0800 (中国标准时间)
 * Synchronize Every Week.
 #### Order by alphabetical and star count.
 
@@ -42,7 +42,7 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [casbin](https://github.com/casbin/casbin) | 11938 | An authorization library that supports access control models like ACL, RBAC, ABAC in Golang | 6 days ago |
+| [casbin](https://github.com/casbin/casbin) | 11938 | An authorization library that supports access control models like ACL, RBAC, ABAC in Golang | 7 days ago |
 | [oauth2](https://github.com/golang/oauth2) | 4167 | Go OAuth2 | 2 days ago |
 | [goth](https://github.com/markbates/goth) | 3658 | Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. | 10 days ago |
 | [authboss](https://github.com/volatiletech/authboss) | 3058 | The boss of http auth. | a month ago |
@@ -50,7 +50,7 @@
 | [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) | 1904 | A standalone, specification-compliant,  OAuth2 server written in Golang. | 24 days ago |
 | [loginsrv](https://github.com/tarent/loginsrv) | 1859 | JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, .. | a year ago |
 | [osin](https://github.com/openshift/osin) | 1733 | Golang OAuth2 server library | 2 months ago |
-| [gologin](https://github.com/dghubble/gologin) | 1519 | Go login handlers for authentication providers (OAuth1, OAuth2) | 15 hours ago |
+| [gologin](https://github.com/dghubble/gologin) | 1519 | Go login handlers for authentication providers (OAuth1, OAuth2) | 16 hours ago |
 | [gorbac](https://github.com/mikespook/gorbac) | 1290 | goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang. | 2 months ago |
 | [scs](https://github.com/alexedwards/scs) | 1105 | HTTP Session Management for Go | a month ago |
 | [paseto](https://github.com/o1egl/paseto) | 595 | Platform-Agnostic Security Tokens implementation in GO (Golang) | 7 months ago |

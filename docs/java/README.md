@@ -3,7 +3,7 @@
 * A curated list of Java frameworks, libraries, software and resources.
 * Inspired by Awesome.
 * If you see a package or project here that is no longer maintained or is not a good fit, please submit a issue to improve this file. Thank you!
-* Last Sync Time: Fri May 20 2022 10:36:17 GMT+0800 (中国标准时间)
+* Last Sync Time: Fri May 20 2022 11:38:37 GMT+0800 (中国标准时间)
 * Synchronize Every Week.
 #### Order by alphabetical and star count.
 
@@ -88,7 +88,7 @@
 | :---- | ----: | :---- | :---- |
 | [mapstruct](https://github.com/mapstruct/mapstruct) | 5229 | An annotation processor for generating type-safe bean mappers | 14 days ago |
 | [modelmapper](https://github.com/modelmapper/modelmapper) | 1987 | Intelligent object mapping | 2 days ago |
-| [orika](https://github.com/orika-mapper/orika) | 1165 | Simpler, better and faster Java bean mapping framework | 2 months ago |
+| [orika](https://github.com/orika-mapper/orika) | 1166 | Simpler, better and faster Java bean mapping framework | 2 months ago |
 | [selma](https://github.com/xebia-france/selma) | 207 | Selma Java bean mapping that compiles | 2 years ago |
 | [jmapper-core](https://github.com/jmapper-framework/jmapper-core) | 191 | Elegance, high performance and robustness all in one java bean mapper | 4 months ago |
 | [remap](https://github.com/remondis-it/remap) | 97 | A declarative mapping library to simplify testable object mappings. | 9 days ago |
@@ -113,7 +113,7 @@
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
 | [lanterna](https://github.com/mabe02/lanterna) | 1860 | Java library for creating text-based GUIs | 8 days ago |
-| [jline3](https://github.com/jline/jline3) | 1052 | JLine is a Java library for handling console input. | 10 hours ago |
+| [jline3](https://github.com/jline/jline3) | 1052 | JLine is a Java library for handling console input. | 11 hours ago |
 | [jansi](https://github.com/fusesource/jansi) | 906 | Jansi is a small java library that allows you to use ANSI escape sequences to format your console output which works even on windows.  | 11 days ago |
 | [airline](https://github.com/airlift/airline) | 846 | Java annotation-based framework for parsing Git like command line structures | 9 days ago |
 | [asciitable](https://github.com/vdmeer/asciitable) | 385 | Several implementations of a text table, originally using ASCII and UTF-8 characters for borders. | 4 years ago |
@@ -127,13 +127,13 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [infer](https://github.com/facebook/infer) | 13289 | A static analyzer for Java, C, C++, and Objective-C | 9 hours ago |
-| [checkstyle](https://github.com/checkstyle/checkstyle) | 7067 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. | 11 hours ago |
-| [error-prone](https://github.com/google/error-prone) | 5956 | Catch common Java mistakes as compile-time errors | 5 hours ago |
+| [infer](https://github.com/facebook/infer) | 13289 | A static analyzer for Java, C, C++, and Objective-C | 10 hours ago |
+| [checkstyle](https://github.com/checkstyle/checkstyle) | 7067 | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. | 12 hours ago |
+| [error-prone](https://github.com/google/error-prone) | 5956 | Catch common Java mistakes as compile-time errors | 6 hours ago |
 | [pmd](https://github.com/pmd/pmd) | 3848 | An extensible multilanguage static code analyzer. | 2 days ago |
 | [NullAway](https://github.com/uber/NullAway) | 3104 | A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead | 3 days ago |
-| [spotbugs](https://github.com/spotbugs/spotbugs) | 2720 | SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code. | 41 minutes ago |
-| [spoon](https://github.com/INRIA/spoon) | 1324 | Spoon is a metaprogramming library to analyze and transform Java source code. :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful analysis and transformation API. | 13 hours ago |
+| [spotbugs](https://github.com/spotbugs/spotbugs) | 2720 | SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code. | 2 hours ago |
+| [spoon](https://github.com/INRIA/spoon) | 1324 | Spoon is a metaprogramming library to analyze and transform Java source code. :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful analysis and transformation API. | 14 hours ago |
 | [sonar-java](https://github.com/SonarSource/sonar-java) | 892 | :coffee: SonarSource Static Analyzer for Java Code Quality and Security | 3 days ago |
 
 
@@ -142,7 +142,7 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [generator-jhipster](https://github.com/jhipster/generator-jhipster) | 19533 | JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures. | 11 hours ago |
+| [generator-jhipster](https://github.com/jhipster/generator-jhipster) | 19533 | JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures. | 12 hours ago |
 | [auto](https://github.com/google/auto) | 9739 | A collection of source code generators for Java. | a day ago |
 | [javapoet](https://github.com/square/javapoet) | 9611 | A Java API for generating .java source files. | 2 days ago |
 | [FreeBuilder](https://github.com/inferred/FreeBuilder) | 790 | Automatic generation of the Builder pattern for Java | 3 months ago |
@@ -193,7 +193,7 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [protobuf](https://github.com/protocolbuffers/protobuf) | 54575 | Protocol Buffers - Google's data interchange format | 40 minutes ago |
+| [protobuf](https://github.com/protocolbuffers/protobuf) | 54575 | Protocol Buffers - Google's data interchange format | 19 minutes ago |
 | [wire](https://github.com/square/wire) | 3758 | gRPC and protocol buffers for Android, Kotlin, and Java. | 3 days ago |
 | [RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap) | 2623 | A better compressed bitset in Java | 7 days ago |
 | [simple-binary-encoding](https://github.com/real-logic/simple-binary-encoding) | 2622 | Simple Binary Encoding (SBE) - High Performance Message Codec | 3 days ago |
@@ -210,19 +210,19 @@
 | :---- | ----: | :---- | :---- |
 | [redisson](https://github.com/redisson/redisson) | 18997 | Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ... | 2 days ago |
 | [HikariCP](https://github.com/brettwooldridge/HikariCP) | 16770 | 光 HikariCP・A solid, high-performance, JDBC connection pool at last. | 18 days ago |
-| [realm-java](https://github.com/realm/realm-java) | 11291 | Realm is a mobile database: a replacement for SQLite & ORMs | an hour ago |
-| [jedis](https://github.com/redis/jedis) | 10441 | Redis Java client designed for performance and ease of use. | 14 hours ago |
+| [realm-java](https://github.com/realm/realm-java) | 11291 | Realm is a mobile database: a replacement for SQLite & ORMs | 2 hours ago |
+| [jedis](https://github.com/redis/jedis) | 10441 | Redis Java client designed for performance and ease of use. | 15 hours ago |
 | [Leaf](https://github.com/Meituan-Dianping/Leaf) | 5344 | Distributed ID Generate Service | a month ago |
 | [requery](https://github.com/requery/requery) | 3097 | requery - modern SQL based query & persistence for Java / Kotlin / Android | 2 months ago |
-| [Chronicle-Map](https://github.com/OpenHFT/Chronicle-Map) | 2409 | Replicate your Key Value Store across your network, with consistency, persistance and performance. | an hour ago |
+| [Chronicle-Map](https://github.com/OpenHFT/Chronicle-Map) | 2409 | Replicate your Key Value Store across your network, with consistency, persistance and performance. | 4 minutes ago |
 | [Jest](https://github.com/searchbox-io/Jest) | 2094 | Elasticsearch Java Rest Client. | 5 months ago |
 | [speedment](https://github.com/speedment/speedment) | 2004 | Speedment is a Stream ORM Java Toolkit and Runtime | 18 days ago |
 | [xodus](https://github.com/JetBrains/xodus) | 987 | Transactional schema-less embedded database used by JetBrains YouTrack and JetBrains Hub. | a month ago |
 | [flexy-pool](https://github.com/vladmihalcea/flexy-pool) | 927 | FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on demand. | 3 months ago |
 | [MariaDB4j](https://github.com/vorburger/MariaDB4j) | 677 | MariaDB Embedded in Java JAR | 19 days ago |
 | [Jinq](https://github.com/my2iu/Jinq) | 633 | LINQ-style queries for Java 8 | 3 months ago |
-| [exist](https://github.com/eXist-db/exist) | 346 | eXist Native XML Database and Application Platform | 6 hours ago |
-| [arangodb-java-driver](https://github.com/arangodb/arangodb-java-driver) | 186 | The official ArangoDB Java driver. | 8 hours ago |
+| [exist](https://github.com/eXist-db/exist) | 346 | eXist Native XML Database and Application Platform | 7 hours ago |
+| [arangodb-java-driver](https://github.com/arangodb/arangodb-java-driver) | 186 | The official ArangoDB Java driver. | 9 hours ago |
 | [jetcd](https://github.com/justinsb/jetcd) | 134 | Java binding for etcd | 14 days ago |
 | [modality](https://github.com/arkanovicz/modality) | 11 | Model Layer Implementation for a J2EE Pull MVC WebApp | 25 days ago |
 | [querystream](https://github.com/querystream/querystream) | 7 | Build JPA Criteria queries using a Stream-like API | 25 days ago |
@@ -233,7 +233,7 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [ical4j](https://github.com/ical4j/ical4j) | 585 | A Java library for parsing and building iCalendar data models | 14 hours ago |
+| [ical4j](https://github.com/ical4j/ical4j) | 585 | A Java library for parsing and building iCalendar data models | 15 hours ago |
 | [Time4J](https://github.com/MenoData/Time4J) | 367 | Advanced date, time and interval library for Java with sun/moon-astronomy and calendars like Chinese, Coptic, Ethiopian, French Republican, Hebrew, Hijri, Historic Christian, Indian National, Japanese, Julian, Korean, Minguo, Persian, Thai, Vietnamese | 7 days ago |
 | [threeten-extra](https://github.com/ThreeTen/threeten-extra) | 337 | Provides additional date-time classes that complement those in JDK 8 | 4 days ago |
 
@@ -243,7 +243,7 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [guice](https://github.com/google/guice) | 11111 | Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 8 and above, brought to you by Google. | 2 hours ago |
+| [guice](https://github.com/google/guice) | 11111 | Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 8 and above, brought to you by Google. | 3 hours ago |
 | [governator](https://github.com/Netflix/governator) | 805 | Governator is a library of extensions and utilities that enhance Google Guice to provide: classpath scanning and automatic binding, lifecycle management, configuration to field mapping, field validation and parallelized object warmup. | 6 months ago |
 | [feather](https://github.com/zsoltherpai/feather) | 332 | Lightweight dependency injection for Java and Android (JSR-330) | 4 years ago |
 | [jaywire](https://github.com/vanillasource/jaywire) | 50 | JayWire Dependency Injection | a year ago |
@@ -256,7 +256,7 @@
 | :---- | ----: | :---- | :---- |
 | [javaparser](https://github.com/javaparser/javaparser) | 4199 | Java 1-15 Parser and Abstract Syntax Tree for Java, including preview features to Java 13 | 6 days ago |
 | [HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) | 1819 | Java unlimited redefinition of classes at runtime. | a month ago |
-| [manifold](https://github.com/manifold-systems/manifold) | 1263 | Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. | a day ago |
+| [manifold](https://github.com/manifold-systems/manifold) | 1263 | Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. | 36 minutes ago |
 | [javasymbolsolver](https://github.com/javaparser/javasymbolsolver) | 286 | *old repository* --> this is now integrated in https://github.com/javaparser/javaparser | 4 years ago |
 | [faux-pas](https://github.com/zalando/faux-pas) | 112 | A library that simplifies error handling for Functional Programming in Java | 11 days ago |
 | [sneakythrow](https://github.com/rainerhahnekamp/sneakythrow) | 69 | SneakyThrow is a Java library to ignore checked exceptions | 3 years ago |
@@ -268,8 +268,8 @@
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
 | [zuul](https://github.com/Netflix/zuul) | 11945 | Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more. | a day ago |
-| [resilience4j](https://github.com/resilience4j/resilience4j) | 7990 | Resilience4j is a fault tolerance library designed for Java8 and functional programming | 18 hours ago |
-| [hazelcast](https://github.com/hazelcast/hazelcast) | 4852 |  Open-source distributed computation and storage platform | 28 minutes ago |
+| [resilience4j](https://github.com/resilience4j/resilience4j) | 7990 | Resilience4j is a fault tolerance library designed for Java8 and functional programming | 20 hours ago |
+| [hazelcast](https://github.com/hazelcast/hazelcast) | 4852 |  Open-source distributed computation and storage platform | 2 hours ago |
 | [failsafe](https://github.com/failsafe-lib/failsafe) | 3722 | Fault tolerance and resilience patterns for the JVM | 3 days ago |
 | [scalecube-services](https://github.com/scalecube/scalecube-services) | 547 | a microservices library - scalecube-services is a high throughput, low latency reactive microservices library built to scale. it features: API-Gateways, service-discovery, service-load-balancing, the architecture supports plug-and-play service communication modules and features. built to provide performance and low-latency real-time stream-processing. its open and designed to accommodate changes. (no sidecar in a form of broker or any kind) | 2 months ago |
 | [dropwizard-circuitbreaker](https://github.com/mtakaki/dropwizard-circuitbreaker) | 41 | A circuit breaker design pattern for dropwizard | 2 years ago |
@@ -313,7 +313,7 @@
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
 | [ta4j](https://github.com/ta4j/ta4j) | 1497 | A Java library for technical analysis. | a month ago |
-| [stripe-java](https://github.com/stripe/stripe-java) | 604 | Java library for the Stripe API.     | 2 hours ago |
+| [stripe-java](https://github.com/stripe/stripe-java) | 604 | Java library for the Stripe API.     | 3 hours ago |
 | [parity](https://github.com/paritytrading/parity) | 501 |  | 3 months ago |
 | [philadelphia](https://github.com/paritytrading/philadelphia) | 264 | Fast FIX protocol library for the JVM | a day ago |
 | [connect-java-sdk](https://github.com/square/connect-java-sdk) | 38 | Java client library for the Square Connect v2 API | a year ago |
@@ -345,7 +345,7 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [graphhopper](https://github.com/graphhopper/graphhopper) | 3651 | Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server. | 11 hours ago |
+| [graphhopper](https://github.com/graphhopper/graphhopper) | 3652 | Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server. | 13 hours ago |
 | [mapsforge](https://github.com/mapsforge/mapsforge) | 968 | Vector map library and writer - running on Android and Desktop. | 10 days ago |
 | [spatial4j](https://github.com/locationtech/spatial4j) | 831 | LocationTech Spatial4j: A Geospatial Library for Java | 3 months ago |
 | [geo](https://github.com/davidmoten/geo) | 368 | Geohash utitlies in java | 24 days ago |
@@ -371,8 +371,8 @@
 | [async-http-client](https://github.com/AsyncHttpClient/async-http-client) | 5945 | Asynchronous Http and WebSocket Client library for Java  | 3 months ago |
 | [ribbon](https://github.com/Netflix/ribbon) | 4243 | Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support. | a month ago |
 | [unirest-java](https://github.com/Kong/unirest-java) | 2282 | Unirest in Java: Simplified, lightweight HTTP client library. | a month ago |
-| [google-http-java-client](https://github.com/googleapis/google-http-java-client) | 1234 | Google HTTP Client Library for Java | 5 hours ago |
-| [riptide](https://github.com/zalando/riptide) | 226 | Client-side response routing for Spring | 8 hours ago |
+| [google-http-java-client](https://github.com/googleapis/google-http-java-client) | 1234 | Google HTTP Client Library for Java | 6 hours ago |
+| [riptide](https://github.com/zalando/riptide) | 226 | Client-side response routing for Spring | 9 hours ago |
 | [methanol](https://github.com/mizosoft/methanol) | 136 | ⚗️ Lightweight HTTP extensions for Java | 9 days ago |
 
 
@@ -415,10 +415,10 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [quartz](https://github.com/quartz-scheduler/quartz) | 4994 | Code for Quartz Scheduler | 10 hours ago |
-| [ShedLock](https://github.com/lukas-krecan/ShedLock) | 2402 | Distributed lock for your scheduled tasks | 7 hours ago |
-| [jobrunr](https://github.com/jobrunr/jobrunr) | 950 | An extremely easy way to perform background processing in Java. Backed by persistent storage. Open and free for commercial use. | 8 hours ago |
-| [db-scheduler](https://github.com/kagkarlsson/db-scheduler) | 582 | Persistent cluster-friendly scheduler for Java | 20 hours ago |
+| [quartz](https://github.com/quartz-scheduler/quartz) | 4994 | Code for Quartz Scheduler | 11 hours ago |
+| [ShedLock](https://github.com/lukas-krecan/ShedLock) | 2402 | Distributed lock for your scheduled tasks | 8 hours ago |
+| [jobrunr](https://github.com/jobrunr/jobrunr) | 950 | An extremely easy way to perform background processing in Java. Backed by persistent storage. Open and free for commercial use. | 9 hours ago |
+| [db-scheduler](https://github.com/kagkarlsson/db-scheduler) | 582 | Persistent cluster-friendly scheduler for Java | 21 hours ago |
 | [easy-batch](https://github.com/j-easy/easy-batch) | 549 | The simple, stupid batch framework for Java | 3 months ago |
 | [Sundial](https://github.com/knowm/Sundial) | 254 | A Light-weight Job Scheduling Framework | 4 days ago |
 | [Wisp](https://github.com/Coreoz/Wisp) | 91 | A simple Java Scheduler library with a minimal footprint and a straightforward API | 6 months ago |
@@ -429,11 +429,11 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [fastjson](https://github.com/alibaba/fastjson) | 24364 | A fast JSON parser/generator for Java.   | 17 hours ago |
+| [fastjson](https://github.com/alibaba/fastjson) | 24365 | A fast JSON parser/generator for Java.   | 18 hours ago |
 | [gson](https://github.com/google/gson) | 20913 | A Java serialization/deserialization library to convert Java Objects into JSON and back | 2 days ago |
 | [moshi](https://github.com/square/moshi) | 8236 | A modern JSON library for Kotlin and Java. | 8 days ago |
 | [jackson](https://github.com/FasterXML/jackson) | 7413 | Main Portal page for the Jackson project | 2 months ago |
-| [JsonPath](https://github.com/json-path/JsonPath) | 6992 | Java JsonPath implementation | 4 hours ago |
+| [JsonPath](https://github.com/json-path/JsonPath) | 6992 | Java JsonPath implementation | 5 hours ago |
 | [LoganSquare](https://github.com/bluelinelabs/LoganSquare) | 3238 | Screaming fast JSON parsing and serialization library for Android. | 5 months ago |
 | [jolt](https://github.com/bazaarvoice/jolt) | 1207 | JSON to JSON transformation library written in Java. | 10 days ago |
 | [dsl-json](https://github.com/ngs-doo/dsl-json) | 796 | High performance JVM JSON library | 4 months ago |
@@ -450,9 +450,9 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [graal](https://github.com/oracle/graal) | 17033 | GraalVM: Run Programs Faster Anywhere :rocket: | 3 hours ago |
+| [graal](https://github.com/oracle/graal) | 17033 | GraalVM: Run Programs Faster Anywhere :rocket: | 4 hours ago |
 | [dragonwell8](https://github.com/alibaba/dragonwell8) | 3560 | Alibaba Dragonwell8 JDK | 13 days ago |
-| [openj9](https://github.com/eclipse-openj9/openj9) | 2875 | Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo. | 5 hours ago |
+| [openj9](https://github.com/eclipse-openj9/openj9) | 2875 | Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo. | 6 hours ago |
 | [CodenameOne](https://github.com/codenameone/CodenameOne) | 1230 | Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web. | 7 days ago |
 | [avian](https://github.com/ReadyTalk/avian) | 1204 | [INACTIVE] Avian is a lightweight virtual machine and class library designed to provide a useful subset of Java's features, suitable for building self-contained applications. | a year ago |
 
@@ -472,7 +472,7 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [smile](https://github.com/haifengl/smile) | 5508 | Statistical Machine Intelligence & Learning Engine | 11 hours ago |
+| [smile](https://github.com/haifengl/smile) | 5508 | Statistical Machine Intelligence & Learning Engine | 12 hours ago |
 | [oryx](https://github.com/OryxProject/oryx) | 1799 | Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning | 9 months ago |
 | [siddhi](https://github.com/siddhi-io/siddhi) | 1335 | Stream Processing and Complex Event Processing Engine | 3 days ago |
 | [JSAT](https://github.com/EdwardRaff/JSAT) | 736 | Java Statistical Analysis Tool, a Java library for Machine Learning  | a year ago |
@@ -483,12 +483,12 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [EventBus](https://github.com/greenrobot/EventBus) | 23948 | Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. | 17 days ago |
-| [aeron](https://github.com/real-logic/aeron) | 5996 | Efficient reliable UDP unicast, UDP multicast, and IPC message transport | 39 minutes ago |
+| [EventBus](https://github.com/greenrobot/EventBus) | 23948 | Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. | 18 days ago |
+| [aeron](https://github.com/real-logic/aeron) | 5996 | Efficient reliable UDP unicast, UDP multicast, and IPC message transport | 2 hours ago |
 | [Smack](https://github.com/igniterealtime/Smack) | 2296 | A modular and portable open source XMPP client library written in Java for Android and Java (SE) VMs | a day ago |
 | [jeromq](https://github.com/zeromq/jeromq) | 2119 | Pure Java ZeroMQ  | 3 months ago |
 | [rabbitmq-java-client](https://github.com/rabbitmq/rabbitmq-java-client) | 1070 | RabbitMQ Java client | 4 days ago |
-| [nakadi](https://github.com/zalando/nakadi) | 839 | A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues | 10 hours ago |
+| [nakadi](https://github.com/zalando/nakadi) | 839 | A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues | 11 hours ago |
 | [nats.java](https://github.com/nats-io/nats.java) | 410 | Java client for NATS | 2 days ago |
 
 
@@ -497,9 +497,9 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [Sentinel](https://github.com/alibaba/Sentinel) | 19087 | A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件) | 2 days ago |
+| [Sentinel](https://github.com/alibaba/Sentinel) | 19089 | A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件) | 2 days ago |
 | [eureka](https://github.com/Netflix/eureka) | 11267 | AWS Service registry for resilient mid-tier load balancing and failover. | 10 days ago |
-| [armeria](https://github.com/line/armeria) | 3633 | Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard. | 11 hours ago |
+| [armeria](https://github.com/line/armeria) | 3633 | Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard. | 24 minutes ago |
 | [consul-api](https://github.com/Ecwid/consul-api) | 394 | Java client for Consul HTTP API | 2 months ago |
 
 
@@ -508,10 +508,10 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 74987 | Design patterns implemented in Java | 12 hours ago |
+| [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 74989 | Design patterns implemented in Java | 13 hours ago |
 | [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) | 17258 | FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. | 2 months ago |
 | [java8-tutorial](https://github.com/winterbe/java8-tutorial) | 15687 | Modern Java - A Guide to Java 8 | 2 months ago |
-| [j2objc](https://github.com/google/j2objc) | 5879 | A Java to iOS Objective-C translation tool and runtime. | 2 hours ago |
+| [j2objc](https://github.com/google/j2objc) | 5878 | A Java to iOS Objective-C translation tool and runtime. | 3 hours ago |
 | [OctoLinker](https://github.com/OctoLinker/OctoLinker) | 4942 | OctoLinker — Links together, what belongs together | 4 days ago |
 | [jimfs](https://github.com/google/jimfs) | 2161 | An in-memory file system for Java 7+ | 4 days ago |
 | [maven-wrapper](https://github.com/takari/maven-wrapper) | 1581 | The easiest way to integrate Maven into your project! | 5 months ago |
@@ -522,7 +522,7 @@
 | [simple-java-mail](https://github.com/bbottema/simple-java-mail) | 968 | Simple API, Complex Emails (Jakarta Mail smtp wrapper) | 6 days ago |
 | [polyglot-maven](https://github.com/takari/polyglot-maven) | 812 | Support alternative markup for Apache Maven POM files | 3 months ago |
 | [typetools](https://github.com/jhalterman/typetools) | 558 | Tools for working with generic types | 8 months ago |
-| [service-proxy](https://github.com/membrane/service-proxy) | 375 | API gateway for REST and SOAP written in Java. | 7 days ago |
+| [service-proxy](https://github.com/membrane/service-proxy) | 375 | API gateway for REST and SOAP written in Java. | 8 days ago |
 | [smooks](https://github.com/smooks/smooks) | 345 | Extensible data integration Java framework for building XML and non-XML fragment-based applications  | 24 days ago |
 | [modernizer-maven-plugin](https://github.com/gaul/modernizer-maven-plugin) | 312 | Detect uses of legacy Java APIs | 2 months ago |
 | [PipelinR](https://github.com/sizovs/PipelinR) | 230 | PipelinR is a lightweight command processing pipeline ❍ ⇢ ❍ ⇢ ❍ for your Java awesome app.  | 4 months ago |
@@ -536,15 +536,15 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [pinpoint](https://github.com/pinpoint-apm/pinpoint) | 12170 | APM, (Application Performance Management) tool for large-scale distributed systems.  | 16 hours ago |
-| [metrics](https://github.com/dropwizard/metrics) | 7549 | :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on. | 36 minutes ago |
+| [pinpoint](https://github.com/pinpoint-apm/pinpoint) | 12170 | APM, (Application Performance Management) tool for large-scale distributed systems.  | 34 minutes ago |
+| [metrics](https://github.com/dropwizard/metrics) | 7549 | :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on. | 2 hours ago |
 | [javamelody](https://github.com/javamelody/javamelody) | 2618 | JavaMelody : monitoring of JavaEE applications | a month ago |
-| [client_java](https://github.com/prometheus/client_java) | 1747 | Prometheus instrumentation library for JVM applications | 5 hours ago |
+| [client_java](https://github.com/prometheus/client_java) | 1747 | Prometheus instrumentation library for JVM applications | 6 hours ago |
 | [jmxtrans](https://github.com/jmxtrans/jmxtrans) | 1675 | jmxtrans | 3 months ago |
 | [stagemonitor](https://github.com/stagemonitor/stagemonitor) | 1669 | an open source solution to application performance monitoring for java server applications | 2 months ago |
 | [automon](https://github.com/stevensouza/automon) | 552 | Automon combines the power of AOP (AspectJ) with monitoring or logging tools you already use to declaratively monitor your Java code, the JDK, and 3rd party libraries. | a month ago |
 | [jaeger-client-java](https://github.com/jaegertracing/jaeger-client-java) | 486 | 🛑 This library is DEPRECATED! | 4 months ago |
-| [dd-trace-java](https://github.com/DataDog/dd-trace-java) | 327 | Datadog APM client for Java | 5 hours ago |
+| [dd-trace-java](https://github.com/DataDog/dd-trace-java) | 327 | Datadog APM client for Java | 6 hours ago |
 | [Sysmon](https://github.com/palantir/Sysmon) | 152 | A lightweight platform monitoring tool for Java VMs | 5 years ago |
 | [nudge4j](https://github.com/lorenzoongithub/nudge4j) | 149 | Get inside your JVM | 2 years ago |
 | [failsafe-actuator](https://github.com/zalando/failsafe-actuator) | 52 | Endpoint library for the failsafe framework | 2 months ago |
@@ -575,11 +575,11 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [dubbo](https://github.com/apache/dubbo) | 37284 | Apache Dubbo is a high-performance, java based, open source RPC framework. | 12 hours ago |
-| [grpc-java](https://github.com/grpc/grpc-java) | 9711 | The Java gRPC implementation. HTTP/2 based RPC | 5 hours ago |
+| [dubbo](https://github.com/apache/dubbo) | 37284 | Apache Dubbo is a high-performance, java based, open source RPC framework. | 13 hours ago |
+| [grpc-java](https://github.com/grpc/grpc-java) | 9711 | The Java gRPC implementation. HTTP/2 based RPC | 6 hours ago |
 | [sshj](https://github.com/hierynomus/sshj) | 2105 | ssh, scp and sftp for java | a month ago |
 | [kryonet](https://github.com/EsotericSoftware/kryonet) | 1720 |  TCP/UDP client/server library for Java, based on Kryo | a year ago |
-| [servicetalk](https://github.com/apple/servicetalk) | 744 | A networking framework that evolves with your application | 2 hours ago |
+| [servicetalk](https://github.com/apple/servicetalk) | 744 | A networking framework that evolves with your application | 3 hours ago |
 | [comsat](https://github.com/puniverse/comsat) | 601 | Fibers and actors for web development | 4 years ago |
 | [drift](https://github.com/airlift/drift) | 205 | An annotation-based Java library for creating Thrift serializable types and services. | 2 years ago |
 | [tls-channel](https://github.com/marianobarrios/tls-channel) | 138 | A Java library that implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS for Java applications. | 3 days ago |
@@ -591,10 +591,10 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [mybatis-3](https://github.com/mybatis/mybatis-3) | 17199 | MyBatis SQL mapper framework for Java | a day ago |
+| [mybatis-3](https://github.com/mybatis/mybatis-3) | 17199 | MyBatis SQL mapper framework for Java | an hour ago |
 | [ObjectiveSql](https://github.com/braisdom/ObjectiveSql) | 1173 | Writing SQL using Java syntax | 3 months ago |
 | [SimpleFlatMapper](https://github.com/arnaudroger/SimpleFlatMapper) | 409 | Fast and Easy mapping from database and csv to POJO. A java micro ORM, lightweight alternative to iBatis and Hibernate. Fast Csv Parser and Csv Mapper | 7 days ago |
-| [doma](https://github.com/domaframework/doma) | 317 | DAO oriented database mapping framework for Java 8+ | 2 hours ago |
+| [doma](https://github.com/domaframework/doma) | 317 | DAO oriented database mapping framework for Java 8+ | 31 minutes ago |
 | [permazen](https://github.com/permazen/permazen) | 286 | Language-Natural Persistence Layer for Java | 25 days ago |
 
 
@@ -603,7 +603,7 @@
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [OpenPDF](https://github.com/LibrePDF/OpenPDF) | 2326 | OpenPDF is a free Java library for creating and editing PDF files with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository. ⛺ | 2 days ago |
+| [OpenPDF](https://github.com/LibrePDF/OpenPDF) | 2327 | OpenPDF is a free Java library for creating and editing PDF files with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository. ⛺ | 3 days ago |
 | [flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer) | 1699 | XML/XHTML and CSS 2.1 renderer in pure Java | a month ago |
 | [openhtmltopdf](https://github.com/danfickle/openhtmltopdf) | 1426 | An HTML to PDF library for the JVM. Based on Flying Saucer and Apache PDF-BOX 2. With SVG image support. Now also with accessible PDF support (WCAG, Section 508, PDF/UA)! | 2 days ago |
 | [tabula-java](https://github.com/tabulapdf/tabula-java) | 1376 | Extract tables from PDF files | 2 days ago |
@@ -635,7 +635,7 @@ that may cause the running application to not be continuously runnable. | 8 mont
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [light-4j](https://github.com/networknt/light-4j) | 3413 | A fast, lightweight and more productive microservices framework | 11 hours ago |
+| [light-4j](https://github.com/networknt/light-4j) | 3413 | A fast, lightweight and more productive microservices framework | 12 hours ago |
 | [light-oauth2](https://github.com/networknt/light-oauth2) | 282 | A fast, light and cloud native OAuth 2.0 authorization microservices based on light-4j | 23 days ago |
 | [Orienteer](https://github.com/OrienteerBAP/Orienteer) | 180 | Business Application Platform - no-code/low-code platform to build business applications | 2 months ago |
 
@@ -656,8 +656,8 @@ that may cause the running application to not be continuously runnable. | 8 mont
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
 | [RxJava](https://github.com/ReactiveX/RxJava) | 46062 | RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. | 2 days ago |
-| [reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) | 4366 | Reactive Streams Specification for the JVM | 4 hours ago |
-| [reactor-core](https://github.com/reactor/reactor-core) | 4122 | Non-Blocking Reactive Foundation for the JVM | 5 hours ago |
+| [reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) | 4366 | Reactive Streams Specification for the JVM | 5 hours ago |
+| [reactor-core](https://github.com/reactor/reactor-core) | 4123 | Non-Blocking Reactive Foundation for the JVM | 6 hours ago |
 
 
 ### [REST Frameworks](#rest-frameworks)
@@ -665,9 +665,9 @@ that may cause the running application to not be continuously runnable. | 8 mont
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [dropwizard](https://github.com/dropwizard/dropwizard) | 8180 | A damn simple library for building production-ready RESTful web services. | 21 minutes ago |
-| [rest.li](https://github.com/linkedin/rest.li) | 2194 | Rest.li is a REST+JSON framework for building robust, scalable service architectures using dynamic discovery and simple asynchronous APIs. | 4 hours ago |
-| [springdoc-openapi](https://github.com/springdoc/springdoc-openapi) | 1877 | Library for OpenAPI 3 with spring-boot | 2 days ago |
+| [dropwizard](https://github.com/dropwizard/dropwizard) | 8180 | A damn simple library for building production-ready RESTful web services. | an hour ago |
+| [rest.li](https://github.com/linkedin/rest.li) | 2194 | Rest.li is a REST+JSON framework for building robust, scalable service architectures using dynamic discovery and simple asynchronous APIs. | 5 hours ago |
+| [springdoc-openapi](https://github.com/springdoc/springdoc-openapi) | 1878 | Library for OpenAPI 3 with spring-boot | 2 days ago |
 | [RestExpress](https://github.com/RestExpress/RestExpress) | 935 | Minimalist Java framework for rapidly creating scalable, containerless, RESTful microservices. Ship a production-quality, headless, RESTful API in the shortest time possible. Uses Netty for HTTP, Jackson for JSON, Metrics for metrics, properties files for configuration. Sub-projects and plugins enable, NoSQL, Swagger, Auth0, HAL integration, etc. | 7 months ago |
 | [micro-server](https://github.com/aol/micro-server) | 933 | Microserver is a Java 8 native, zero configuration, standards based, battle hardened library to run Java Rest Microservices via a standard Java main class. Supporting pure Microservice or Micro-monolith styles. | 2 years ago |
 | [restlet-framework-java](https://github.com/restlet/restlet-framework-java) | 627 | Leading REST API framework for Java | 9 months ago |
@@ -703,10 +703,10 @@ that may cause the running application to not be continuously runnable. | 8 mont
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [tink](https://github.com/google/tink) | 12354 | Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. | 4 hours ago |
+| [tink](https://github.com/google/tink) | 12354 | Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. | 5 hours ago |
 | [jjwt](https://github.com/jwtk/jjwt) | 8328 | Java JWT: JSON Web Token for Java and Android | 6 days ago |
 | [keywhiz](https://github.com/square/keywhiz) | 2492 | A system for distributing and managing secrets | a day ago |
-| [pac4j](https://github.com/pac4j/pac4j) | 2143 | Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT... | 11 hours ago |
+| [pac4j](https://github.com/pac4j/pac4j) | 2143 | Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT... | 12 hours ago |
 | [themis](https://github.com/cossacklabs/themis) | 1521 | Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms. | a month ago |
 | [sslcontext-kickstart](https://github.com/Hakky54/sslcontext-kickstart) | 231 | 🔐 A lightweight high level library for configuring a http client or server based on SSLContext or other properties such as TrustManager, KeyManager or Trusted Certificates to communicate over SSL TLS for one way authentication or two way authentication provided by the SSLFactory. Support for Java, Scala and Kotlin based clients with examples. Available client examples are: Apache HttpClient, OkHttp, Spring RestTemplate, Spring WebFlux WebClient Jetty and Netty, the old and the new JDK HttpClient, the old and the new Jersey Client, Google HttpClient, Unirest, Retrofit, Feign, Methanol, Vertx, Scala client Finagle, Featherbed, Dispatch Reboot, AsyncHttpClient, Sttp, Akka, Requests Scala, Http4s Blaze, Kotlin client Fuel, http4k Kohttp and Ktor. Also gRPC, WebSocket and ElasticSearch examples are included | 4 days ago |
 | [nbvcxz](https://github.com/GoSimpleLLC/nbvcxz) | 230 | Password strength estimator | 3 days ago |
@@ -745,7 +745,7 @@ that may cause the running application to not be continuously runnable. | 8 mont
 | :---- | ----: | :---- | :---- |
 | [jade4j](https://github.com/neuland/jade4j) | 701 | a pug implementation written in Java (formerly known as jade) | 9 months ago |
 | [rocker](https://github.com/fizzed/rocker) | 652 | Java 8 optimized, memory efficient, speedy template engine producing statically typed, plain java objects | 3 months ago |
-| [jte](https://github.com/casid/jte) | 378 | Secure and speedy templates for Java and Kotlin. | 15 hours ago |
+| [jte](https://github.com/casid/jte) | 378 | Secure and speedy templates for Java and Kotlin. | 16 hours ago |
 | [jtwig](https://github.com/jtwig/jtwig) | 298 | Java modern template engine | 4 years ago |
 
 
@@ -757,7 +757,7 @@ that may cause the running application to not be continuously runnable. | 8 mont
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [karate](https://github.com/karatelabs/karate) | 5909 | Test Automation Made Simple | 8 hours ago |
+| [karate](https://github.com/karatelabs/karate) | 5909 | Test Automation Made Simple | 9 hours ago |
 | [rest-assured](https://github.com/rest-assured/rest-assured) | 5862 | Java DSL for easy testing of REST services | 3 days ago |
 | [awaitility](https://github.com/awaitility/awaitility) | 2991 | Awaitility is a small Java DSL for synchronizing asynchronous operations | 4 days ago |
 | [concurrentunit](https://github.com/jhalterman/concurrentunit) | 395 | Toolkit for testing multi-threaded and asynchronous applications | 2 months ago |
@@ -769,7 +769,7 @@ that may cause the running application to not be continuously runnable. | 8 mont
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [cucumber-jvm](https://github.com/cucumber/cucumber-jvm) | 2448 | Cucumber for the JVM | 4 hours ago |
+| [cucumber-jvm](https://github.com/cucumber/cucumber-jvm) | 2448 | Cucumber for the JVM | 5 hours ago |
 | [serenity-core](https://github.com/serenity-bdd/serenity-core) | 625 | Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun. | 2 days ago |
 | [lambda-behave](https://github.com/RichardWarburton/lambda-behave) | 249 | A modern testing and behavioural specification framework for Java 8 | 3 months ago |
 | [cukes](https://github.com/ctco/cukes) | 98 | Cucumber DSL for testing RESTful Web Services | 2 months ago |
@@ -781,7 +781,7 @@ that may cause the running application to not be continuously runnable. | 8 mont
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [java-faker](https://github.com/DiUS/java-faker) | 3507 | Brings the popular ruby faker gem to Java | 9 hours ago |
+| [java-faker](https://github.com/DiUS/java-faker) | 3507 | Brings the popular ruby faker gem to Java | 10 hours ago |
 | [jfairy](https://github.com/Devskiller/jfairy) | 696 | Java fake data generator | 3 months ago |
 | [fixture-factory](https://github.com/six2six/fixture-factory) | 411 | Generator fake objects from a template | 2 months ago |
 | [randomizedtesting](https://github.com/randomizedtesting/randomizedtesting) | 164 | Randomized Testing (Core JUnit Runner, ANT, Maven) | 5 months ago |
@@ -794,7 +794,7 @@ that may cause the running application to not be continuously runnable. | 8 mont
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
 | [ArchUnit](https://github.com/TNG/ArchUnit) | 2176 | A Java architecture test library, to specify and assert architecture rules in plain Java | a day ago |
-| [pact-jvm](https://github.com/pact-foundation/pact-jvm) | 923 | JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project. | 33 minutes ago |
+| [pact-jvm](https://github.com/pact-foundation/pact-jvm) | 923 | JVM version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project. | an hour ago |
 
 
 ### [Matchers](#matchers)
@@ -810,10 +810,10 @@ that may cause the running application to not be continuously runnable. | 8 mont
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [testcontainers-java](https://github.com/testcontainers/testcontainers-java) | 5966 | Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. | 3 hours ago |
+| [testcontainers-java](https://github.com/testcontainers/testcontainers-java) | 5966 | Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. | 4 hours ago |
 | [junit-dataprovider](https://github.com/TNG/junit-dataprovider) | 233 | A TestNG like dataprovider runner for JUnit with many additional features | 2 months ago |
 | [MutabilityDetector](https://github.com/MutabilityDetector/MutabilityDetector) | 227 | Lightweight analysis tool for detecting mutability in Java classes | 4 months ago |
-| [log-captor](https://github.com/Hakky54/log-captor) | 184 | 🎯  LogCaptor captures log entries for unit testing purposes | 25 days ago |
+| [log-captor](https://github.com/Hakky54/log-captor) | 184 | 🎯  LogCaptor captures log entries for unit testing purposes | a month ago |
 | [raml-tester](https://github.com/nidi3/raml-tester) | 71 | Test if a request/response matches a given raml definition | 3 years ago |
 
 
@@ -822,7 +822,7 @@ that may cause the running application to not be continuously runnable. | 8 mont
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [mockito](https://github.com/mockito/mockito) | 12898 | Most popular Mocking framework for unit tests written in Java | 5 hours ago |
+| [mockito](https://github.com/mockito/mockito) | 12898 | Most popular Mocking framework for unit tests written in Java | 6 hours ago |
 | [moco](https://github.com/dreamhead/moco) | 3949 | Easy Setup Stub Server | a month ago |
 | [powermock](https://github.com/powermock/powermock) | 3802 | PowerMock is a Java framework that allows you to unit test code normally regarded as untestable. | 7 days ago |
 
@@ -832,8 +832,8 @@ that may cause the running application to not be continuously runnable. | 8 mont
 
 | Repository | StarCount | Description | RecentlyUpdated |
 | :---- | ----: | :---- | :---- |
-| [guava](https://github.com/google/guava) | 44628 | Google core libraries for Java | 4 hours ago |
-| [arthas](https://github.com/alibaba/arthas) | 29191 | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas | 6 hours ago |
+| [guava](https://github.com/google/guava) | 44628 | Google core libraries for Java | 6 hours ago |
+| [arthas](https://github.com/alibaba/arthas) | 29192 | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas | 7 hours ago |
 | [gephi](https://github.com/gephi/gephi) | 4779 | Gephi - The Open Graph Viz Platform | 6 days ago |
 | [JavaVerbalExpressions](https://github.com/VerbalExpressions/JavaVerbalExpressions) | 2564 | Java regular expressions made easy. | a year ago |
 | [embulk](https://github.com/embulk/embulk) | 1635 | Embulk: Pluggable Bulk Data Loader. | 2 days ago |
@@ -841,7 +841,7 @@ that may cause the running application to not be continuously runnable. | 8 mont
 | [Dex](https://github.com/PatMartin/Dex) | 1277 | Dex : The Data Explorer -- A data visualization tool written in Java/Groovy/JavaFX capable of powerful ETL and publishing web visualizations. | 3 years ago |
 | [minio-java](https://github.com/minio/minio-java) | 672 | MinIO Client SDK for Java | 2 days ago |
 | [cactoos](https://github.com/yegor256/cactoos) | 661 | Object-Oriented Java primitives, as an alternative to Google Guava and Apache Commons | 14 days ago |
-| [underscore-java](https://github.com/javadev/underscore-java) | 387 | java port of Underscore.js | 10 hours ago |
+| [underscore-java](https://github.com/javadev/underscore-java) | 387 | java port of Underscore.js | 11 hours ago |
 | [ch.vorburger.fswatch](https://github.com/vorburger/ch.vorburger.fswatch) | 21 | Java lib for monitoring directories or individual files via java.nio.file.WatchService | 4 days ago |
 
 
