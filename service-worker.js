@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "47e1febe5457b98989a00ee56dadc31b"
+    "revision": "51045762371991a38dcd4c0673137918"
   },
   {
     "url": "assets/css/0.styles.3db76015.css",
@@ -118,52 +118,52 @@ self.__precacheManifest = [
     "revision": "8661fe8de477aedc94aa991a005f5af6"
   },
   {
-    "url": "assets/js/app.c7afbbf9.js",
-    "revision": "afce969ab5ccb0260ae43f9c3c2f2909"
+    "url": "assets/js/app.c3b172d6.js",
+    "revision": "c9d58dcda8fc46e309d98f56d57b7bc9"
   },
   {
     "url": "book/index.html",
-    "revision": "5becfa2d1b2d060816d8a892842447b2"
+    "revision": "c89fe902194b1ba9adf8e5f66da79bd5"
   },
   {
     "url": "c/index.html",
-    "revision": "c644c7a358e8e6b6c294fd6671014e76"
+    "revision": "aa26dc29ad5259b6ea906914bd6cf7d2"
   },
   {
     "url": "config.html",
-    "revision": "664b45f2f77079dbd11867b30ff9061f"
+    "revision": "72bf1f5142991a20c4b0082a30a43895"
   },
   {
     "url": "go/index.html",
-    "revision": "f7144b2044f4c5751f162a75a839c33a"
+    "revision": "ab8fd3d171e58911833a1053cb289e77"
   },
   {
     "url": "guide/index.html",
-    "revision": "71619bb4c1b4276db0073c6396d6914b"
+    "revision": "491ad60dbd643d6254affa14b9ffa2c4"
   },
   {
     "url": "index.html",
-    "revision": "ce14025a4f94cee7e2a4eaca29d3e937"
+    "revision": "8949fb1cdba4858f2921ba6b6abff5e3"
   },
   {
     "url": "java/index.html",
-    "revision": "02cf66bbb9c5e25e515643766b470788"
+    "revision": "b0923158538fd3d61569e00e56af6cbe"
   },
   {
     "url": "javascript/index.html",
-    "revision": "de2c71d05cc1eefcea2f4345074f4029"
+    "revision": "83de346634db99449cfe5ba7de0b2b6c"
   },
   {
     "url": "php/index.html",
-    "revision": "212d1e4952bfb73faaee0f2d65b58565"
+    "revision": "031c80241607ffcf4071c97920f2521c"
   },
   {
     "url": "python/index.html",
-    "revision": "1149c8cfc5ba310759caae27df49a6e0"
+    "revision": "7f67fff28d07d92159138b3e24844f29"
   },
   {
     "url": "visual-basic/index.html",
-    "revision": "5acba85bca97aaef8e2e38c79b81565a"
+    "revision": "589bea226c0692a069106f04fc3e28de"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
